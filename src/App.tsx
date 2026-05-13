@@ -3,7 +3,7 @@ const projects = [
     name: 'Kaizen Tracker',
     status: 'Prototype',
     description: 'A lightweight team management tool for attendance, session tracking, and player progress.',
-    href: '/kaizen-tracker/',
+    href: 'https://teamtracking.leftbraincreative.xyz',
   },
   {
     name: 'Idea Lab',
