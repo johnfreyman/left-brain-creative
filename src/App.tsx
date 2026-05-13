@@ -1,3 +1,5 @@
+import { Analytics } from '@vercel/analytics/react'
+
 const projects = [
   {
     name: 'Kaizen Tracker',
@@ -91,6 +93,7 @@ function App() {
           ))}
         </div>
       </section>
+      <Analytics />
     </main>
   )
 }
