@@ -1,3 +1,5 @@
+import { SpeedInsights } from '@vercel/speed-insights/react'
+
 const projects = [
   {
     name: 'Kaizen Tracker',
@@ -91,6 +93,7 @@ function App() {
           ))}
         </div>
       </section>
+      <SpeedInsights />
     </main>
   )
 }
