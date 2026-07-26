@@ -1,0 +1,16 @@
+{
+  "sit_id": "s5",
+  "mode": "managing",
+  "situation": "A junior shipped something with a mistake a customer caught, and now they are triple-checking everything and velocity has cratered.",
+  "n": 3,
+  "a_is_card1": true,
+  "pick": "2",
+  "winner_arm": "B",
+  "dims": {
+    "SPEAKABILITY": "Card 2's lines sound more like natural speech (\"not about the ticket, just about how you are doing,\" \"I would rather spend thirty minutes building that with you than watch you burn energy on fear\"), while Card 1's phrasing occasionally stiffens into essay-speak like \"that is actually the fear driving, not your judgment.\"",
+    "SPECIFICITY": "Both diagnose the same triple-checking-as-anxiety dynamic well, but Card 2's read digs harder into the status wound (\"in their mind means everyone now sees them as the person who messes up\") and ties it concretely to survival-vs-performance.",
+    "TIGHTNESS": "Card 1 is slightly leaner, but Card 2's extra words mostly do emotional work rather than pad, so the edge is marginal.",
+    "HONESTY": "Card 2 states the hard part more crisply\u2014\"it is not a process, it is anxiety running the show\" and \"I am not moving off that\"\u2014while explicitly asking for a velocity plan and a first step, keeping the standard unmistakably intact."
+  },
+  "judge_raw": "PICK: 2\n\nSPEAKABILITY: Card 2's lines sound more like natural speech (\"not about the ticket, just about how you are doing,\" \"I would rather spend thirty minutes building that with you than watch you burn energy on fear\"), while Card 1's phrasing occasionally stiffens into essay-speak like \"that is actually the fear driving, not your judgment.\"\n\nSPECIFICITY: Both diagnose the same triple-checking-as-anxiety dynamic well, but Card 2's read digs harder into the status wound (\"in their mind means everyone now sees them as the person who messes up\") and ties it concretely to survival-vs-performance.\n\nTIGHTNESS: Card 1 is slightly leaner, but Card 2's extra words mostly do emotional work rather than pad, so the edge is marginal.\n\nHONESTY: Card 2 states the hard part more crisply\u2014\"it is not a process, it is anxiety running the show\" and \"I am not moving off that\"\u2014while explicitly asking for a velocity plan and a first step, keeping the standard unmistakably intact."
+}

@@ -1,0 +1,16 @@
+{
+  "sit_id": "s10",
+  "mode": "teaching",
+  "situation": "A student who clearly studied did poorly and is convinced they are just bad at this subject.",
+  "n": 3,
+  "a_is_card1": true,
+  "pick": "2",
+  "winner_arm": "B",
+  "dims": {
+    "SPEAKABILITY": "Card 2's lines flow more naturally out loud, especially \"that is a solvable problem \u2014 it is not a you problem,\" whereas Card 1's \"Your brain was working hard, just on the wrong version of the task\" is slightly more clinical.",
+    "SPECIFICITY": "Both diagnose the fixed-ability story well, but Card 2's curiosity question (\"which parts felt shaky and which parts felt solid\") targets the breakdown more precisely than Card 1's more open-ended \"walk me through it.\"",
+    "TIGHTNESS": "Card 2 is tighter overall, though its Commitment line runs long with the \"struggling means your brain is working\" addition; Card 1's script is lean but its analysis sections repeat the same insight more than needed.",
+    "HONESTY": "Both hold the standard firmly, but Card 2 names the uncomfortable thing more sharply (\"the one thing you cannot quietly agree with\") while explicitly requiring redone work, edging out Card 1."
+  },
+  "judge_raw": "PICK: 2\n\nSPEAKABILITY: Card 2's lines flow more naturally out loud, especially \"that is a solvable problem \u2014 it is not a you problem,\" whereas Card 1's \"Your brain was working hard, just on the wrong version of the task\" is slightly more clinical.\n\nSPECIFICITY: Both diagnose the fixed-ability story well, but Card 2's curiosity question (\"which parts felt shaky and which parts felt solid\") targets the breakdown more precisely than Card 1's more open-ended \"walk me through it.\"\n\nTIGHTNESS: Card 2 is tighter overall, though its Commitment line runs long with the \"struggling means your brain is working\" addition; Card 1's script is lean but its analysis sections repeat the same insight more than needed.\n\nHONESTY: Both hold the standard firmly, but Card 2 names the uncomfortable thing more sharply (\"the one thing you cannot quietly agree with\") while explicitly requiring redone work, edging out Card 1."
+}

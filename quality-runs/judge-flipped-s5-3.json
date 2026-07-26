@@ -1,0 +1,17 @@
+{
+  "sit_id": "s5",
+  "mode": "managing",
+  "situation": "A junior shipped something with a mistake a customer caught, and now they are triple-checking everything and velocity has cratered.",
+  "n": 3,
+  "a_is_card1": false,
+  "pick": "2",
+  "winner_arm": "A",
+  "dims": {
+    "SPEAKABILITY": "Card 2's lines are shorter and more natural to say aloud, while Card 1's Collaboration and Commitment blocks run long and would sound rehearsed if delivered verbatim.",
+    "SPECIFICITY": "Both engage the exact situation (customer-caught mistake, triple-checking as fear), but Card 1's phrase \"checking until the anxiety drops\" and \"your brain has somewhere to land instead of just looping\" pins the specific mechanism slightly more precisely.",
+    "TIGHTNESS": "Card 2 is noticeably leaner \u2014 Card 1 repeats the \"capable of it / one slip does not define the arc\" reassurance across multiple sentences that could collapse into one.",
+    "HONESTY": "Both hold the standard firmly and name the fear-dressed-as-diligence, but Card 2 states \"the standard stays up\" more crisply without padding it in extra warmth, making the hard part land cleaner."
+  },
+  "judge_raw": "PICK: 2\n\nSPEAKABILITY: Card 2's lines are shorter and more natural to say aloud, while Card 1's Collaboration and Commitment blocks run long and would sound rehearsed if delivered verbatim.\n\nSPECIFICITY: Both engage the exact situation (customer-caught mistake, triple-checking as fear), but Card 1's phrase \"checking until the anxiety drops\" and \"your brain has somewhere to land instead of just looping\" pins the specific mechanism slightly more precisely.\n\nTIGHTNESS: Card 2 is noticeably leaner \u2014 Card 1 repeats the \"capable of it / one slip does not define the arc\" reassurance across multiple sentences that could collapse into one.\n\nHONESTY: Both hold the standard firmly and name the fear-dressed-as-diligence, but Card 2 states \"the standard stays up\" more crisply without padding it in extra warmth, making the hard part land cleaner.",
+  "original_winner_arm": "B"
+}

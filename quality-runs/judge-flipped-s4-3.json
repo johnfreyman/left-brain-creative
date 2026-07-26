@@ -1,0 +1,17 @@
+{
+  "sit_id": "s4",
+  "mode": "parenting",
+  "situation": "My teenager asked me a hard question about something I did at their age, and I froze instead of answering.",
+  "n": 3,
+  "a_is_card1": true,
+  "pick": "2",
+  "winner_arm": "B",
+  "dims": {
+    "SPEAKABILITY": "Card 2's script sounds more like natural spoken language (\"I just kind of went blank on you,\" \"part of me didn't want to say something that came out wrong\"), whereas Card 1's \"I am not telling you this as a warning\" and \"the kind of relationship I am holding us to\" read more composed than spoken.",
+    "SPECIFICITY": "Card 2 engages the freeze itself more precisely \u2014 naming *why* the parent froze (\"I didn't have a clean answer\") \u2014 while Card 1 leans on the abstract \"showing them how a person thinks,\" which fits many parenting moments.",
+    "TIGHTNESS": "Card 1 is more elegantly compressed in places, but Card 2 keeps each sentence doing work without the slight redundancy Card 1 carries in its Collaboration and Long Game sections.",
+    "HONESTY": "Card 2 names the harder standard more squarely \u2014 that honesty can't flow one direction and that silence \"is not a neutral choice\" \u2014 while Card 1 gestures at this but softens it into a philosophy of thinking rather than a mutual obligation."
+  },
+  "judge_raw": "PICK: 2\n\nSPEAKABILITY: Card 2's script sounds more like natural spoken language (\"I just kind of went blank on you,\" \"part of me didn't want to say something that came out wrong\"), whereas Card 1's \"I am not telling you this as a warning\" and \"the kind of relationship I am holding us to\" read more composed than spoken.\n\nSPECIFICITY: Card 2 engages the freeze itself more precisely \u2014 naming *why* the parent froze (\"I didn't have a clean answer\") \u2014 while Card 1 leans on the abstract \"showing them how a person thinks,\" which fits many parenting moments.\n\nTIGHTNESS: Card 1 is more elegantly compressed in places, but Card 2 keeps each sentence doing work without the slight redundancy Card 1 carries in its Collaboration and Long Game sections.\n\nHONESTY: Card 2 names the harder standard more squarely \u2014 that honesty can't flow one direction and that silence \"is not a neutral choice\" \u2014 while Card 1 gestures at this but softens it into a philosophy of thinking rather than a mutual obligation.",
+  "original_winner_arm": "A"
+}

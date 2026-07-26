@@ -1,0 +1,17 @@
+{
+  "sit_id": "s4",
+  "mode": "parenting",
+  "situation": "My teenager asked me a hard question about something I did at their age, and I froze instead of answering.",
+  "n": 2,
+  "a_is_card1": false,
+  "pick": "2",
+  "winner_arm": "A",
+  "dims": {
+    "SPEAKABILITY": "Card 2's lines land more naturally aloud \u2014 \"I owe you a better answer than I gave you\" and \"it was not clean, it just was what it was\" sound like real speech, whereas Card 1's \"a non-answer dressed up as wisdom\" and \"performances\" tilt slightly writerly.",
+    "SPECIFICITY": "Both diagnose the freeze well, but Card 2's read (\"whether that path is survivable for them too\") names a sharper, more concrete stake than Card 1's more generic \"credibility\" framing.",
+    "TIGHTNESS": "Card 2 is leaner, with less repetition of the \"honesty is the standard\" idea that Card 1 restates across multiple sections.",
+    "HONESTY": "Card 2 keeps the hard part cleaner by refusing to pre-package the mess into a lesson (\"I am not going to dress it up... because it was not clean\"), which is braver than Card 1's occasional slide toward self-justifying language about calibration."
+  },
+  "judge_raw": "PICK: 2\n\nSPEAKABILITY: Card 2's lines land more naturally aloud \u2014 \"I owe you a better answer than I gave you\" and \"it was not clean, it just was what it was\" sound like real speech, whereas Card 1's \"a non-answer dressed up as wisdom\" and \"performances\" tilt slightly writerly.\n\nSPECIFICITY: Both diagnose the freeze well, but Card 2's read (\"whether that path is survivable for them too\") names a sharper, more concrete stake than Card 1's more generic \"credibility\" framing.\n\nTIGHTNESS: Card 2 is leaner, with less repetition of the \"honesty is the standard\" idea that Card 1 restates across multiple sections.\n\nHONESTY: Card 2 keeps the hard part cleaner by refusing to pre-package the mess into a lesson (\"I am not going to dress it up... because it was not clean\"), which is braver than Card 1's occasional slide toward self-justifying language about calibration.",
+  "original_winner_arm": "B"
+}

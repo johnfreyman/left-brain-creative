@@ -1,0 +1,482 @@
+[
+  {
+    "sit_id": "s1",
+    "mode": "teaching",
+    "situation": "A student handed in work far better than anything they have produced before, and I genuinely cannot tell if it is a breakthrough or if someone else did it.",
+    "n": 1,
+    "a_is_card1": false,
+    "pick": "2",
+    "winner_arm": "A",
+    "dims": {
+      "SPEAKABILITY": "Card 2's lines sound more like a real person talking (\"I am not saying that to be polite,\" \"push back on them if I am reading it wrong\"), while Card 1's Collaboration and Commitment sections run long and edge toward a rehearsed speech about recognition.",
+      "SPECIFICITY": "Card 2 zeroes in on the actual tell \u2014 the pattern-breaking gap and the \"defend the choices\" walkthrough that would genuinely surface truth \u2014 whereas Card 1 leans harder on generic status-and-mattering language that could apply to many situations.",
+      "TIGHTNESS": "Card 1 pads with repeated affirmations (\"not just a grade, but actual recognition,\" \"that's worth more than any single assignment\"), while Card 2 keeps each beat lean and purposeful.",
+      "HONESTY": "Both hold the standard, but Card 2 names the uncomfortable path more cleanly (\"opens a path back to honest effort without requiring a confession\") where Card 1 partly dissolves the hard part into warmth about making growth \"visible and public.\""
+    },
+    "judge_raw": "PICK: 2\n\nSPEAKABILITY: Card 2's lines sound more like a real person talking (\"I am not saying that to be polite,\" \"push back on them if I am reading it wrong\"), while Card 1's Collaboration and Commitment sections run long and edge toward a rehearsed speech about recognition.\n\nSPECIFICITY: Card 2 zeroes in on the actual tell \u2014 the pattern-breaking gap and the \"defend the choices\" walkthrough that would genuinely surface truth \u2014 whereas Card 1 leans harder on generic status-and-mattering language that could apply to many situations.\n\nTIGHTNESS: Card 1 pads with repeated affirmations (\"not just a grade, but actual recognition,\" \"that's worth more than any single assignment\"), while Card 2 keeps each beat lean and purposeful.\n\nHONESTY: Both hold the standard, but Card 2 names the uncomfortable path more cleanly (\"opens a path back to honest effort without requiring a confession\") where Card 1 partly dissolves the hard part into warmth about making growth \"visible and public.\""
+  },
+  {
+    "sit_id": "s1",
+    "mode": "teaching",
+    "situation": "A student handed in work far better than anything they have produced before, and I genuinely cannot tell if it is a breakthrough or if someone else did it.",
+    "n": 2,
+    "a_is_card1": false,
+    "pick": "1",
+    "winner_arm": "B",
+    "dims": {
+      "SPEAKABILITY": "Card 1's lines sound more like a real person talking, especially \"I do not want to just put a grade on this and move on\" and \"I am genuinely asking, not quizzing you,\" which preempt the suspicion the adult actually fears, whereas Card 2's \"caught my attention in a good way\" risks sounding like withheld judgment.",
+      "SPECIFICITY": "Card 1 more directly engages the exact dilemma of not knowing whether it's a breakthrough or cheating, framing the conversation as revealing without accusing, while Card 2 leans toward a generic \"walk me through your process\" that could fit any strong-work moment.",
+      "TIGHTNESS": "Card 2 is slightly leaner, but Card 1's extra sentences mostly do work (naming the \"crime scene\" pull, the double-direction competence read), so the padding is minimal and purposeful.",
+      "HONESTY": "Card 1 names the hard part more squarely \u2014 it holds the ownership standard explicitly and opens \"a door where they can tell the truth without being humiliated,\" while Card 2 softens the cheating possibility into vaguer language about \"the shortcut.\""
+    },
+    "judge_raw": "PICK: 1\n\nSPEAKABILITY: Card 1's lines sound more like a real person talking, especially \"I do not want to just put a grade on this and move on\" and \"I am genuinely asking, not quizzing you,\" which preempt the suspicion the adult actually fears, whereas Card 2's \"caught my attention in a good way\" risks sounding like withheld judgment.\n\nSPECIFICITY: Card 1 more directly engages the exact dilemma of not knowing whether it's a breakthrough or cheating, framing the conversation as revealing without accusing, while Card 2 leans toward a generic \"walk me through your process\" that could fit any strong-work moment.\n\nTIGHTNESS: Card 2 is slightly leaner, but Card 1's extra sentences mostly do work (naming the \"crime scene\" pull, the double-direction competence read), so the padding is minimal and purposeful.\n\nHONESTY: Card 1 names the hard part more squarely \u2014 it holds the ownership standard explicitly and opens \"a door where they can tell the truth without being humiliated,\" while Card 2 softens the cheating possibility into vaguer language about \"the shortcut.\""
+  },
+  {
+    "sit_id": "s1",
+    "mode": "teaching",
+    "situation": "A student handed in work far better than anything they have produced before, and I genuinely cannot tell if it is a breakthrough or if someone else did it.",
+    "n": 3,
+    "a_is_card1": false,
+    "pick": "2",
+    "winner_arm": "A",
+    "dims": {
+      "SPEAKABILITY": "Card 2's lines (\"I would rather you just tell me that straight... it will not cost you what you think it will\") sound like a real person talking, while Card 1's \"I ask this of anyone whose work makes a real leap\" feels more like a rehearsed policy statement.",
+      "SPECIFICITY": "Both engage the exact ambiguity, but Card 2's read (\"if they did not, they already know the work is not theirs and are carrying that\") names the specific psychological reality on both sides more sharply.",
+      "TIGHTNESS": "Card 2 is leaner, whereas Card 1 repeats the \"walk me through your thinking\" beat across multiple sections with more redundancy.",
+      "HONESTY": "Card 2 actually opens the door to confession explicitly (\"if you got help, I would rather you tell me straight\"), naming the uncomfortable possibility, while Card 1 gestures at \"if something else is going on\" mostly in the meta-commentary rather than in the script itself."
+    },
+    "judge_raw": "PICK: 2\n\nSPEAKABILITY: Card 2's lines (\"I would rather you just tell me that straight... it will not cost you what you think it will\") sound like a real person talking, while Card 1's \"I ask this of anyone whose work makes a real leap\" feels more like a rehearsed policy statement.\n\nSPECIFICITY: Both engage the exact ambiguity, but Card 2's read (\"if they did not, they already know the work is not theirs and are carrying that\") names the specific psychological reality on both sides more sharply.\n\nTIGHTNESS: Card 2 is leaner, whereas Card 1 repeats the \"walk me through your thinking\" beat across multiple sections with more redundancy.\n\nHONESTY: Card 2 actually opens the door to confession explicitly (\"if you got help, I would rather you tell me straight\"), naming the uncomfortable possibility, while Card 1 gestures at \"if something else is going on\" mostly in the meta-commentary rather than in the script itself."
+  },
+  {
+    "sit_id": "s2",
+    "mode": "teaching",
+    "situation": "Half the class did the reading and half clearly did not, and the half that did is getting visibly annoyed at carrying discussions.",
+    "n": 1,
+    "a_is_card1": false,
+    "pick": "2",
+    "winner_arm": "A",
+    "dims": {
+      "SPEAKABILITY": "Card 2's lines are shorter and more natural to say aloud, while Card 1's \"loaded for this conversation\" and the drawn-out four-part structure risk sounding rehearsed.",
+      "SPECIFICITY": "Both diagnose this exact split-class dynamic well, but Card 2's framing of skipping as self-protection against public exposure is a sharper read of the actual behavior than Card 1's more generic \"status wound.\"",
+      "TIGHTNESS": "Card 2 does more with fewer words; Card 1's script repeats its \"I hold the bar because I know you can clear it\" theme in ways that pad the Commitment beat.",
+      "HONESTY": "Card 1 names the gap more bluntly (\"some of you did not\"), but Card 2 keeps the standard just as firmly (\"I hold all of you to it equally\") without publicly outing the unprepared students, which is the harder and better-calibrated move here."
+    },
+    "judge_raw": "PICK: 2\n\nSPEAKABILITY: Card 2's lines are shorter and more natural to say aloud, while Card 1's \"loaded for this conversation\" and the drawn-out four-part structure risk sounding rehearsed.\n\nSPECIFICITY: Both diagnose this exact split-class dynamic well, but Card 2's framing of skipping as self-protection against public exposure is a sharper read of the actual behavior than Card 1's more generic \"status wound.\"\n\nTIGHTNESS: Card 2 does more with fewer words; Card 1's script repeats its \"I hold the bar because I know you can clear it\" theme in ways that pad the Commitment beat.\n\nHONESTY: Card 1 names the gap more bluntly (\"some of you did not\"), but Card 2 keeps the standard just as firmly (\"I hold all of you to it equally\") without publicly outing the unprepared students, which is the harder and better-calibrated move here."
+  },
+  {
+    "sit_id": "s2",
+    "mode": "teaching",
+    "situation": "Half the class did the reading and half clearly did not, and the half that did is getting visibly annoyed at carrying discussions.",
+    "n": 2,
+    "a_is_card1": false,
+    "pick": "2",
+    "winner_arm": "A",
+    "dims": {
+      "SPEAKABILITY": "Card 2's lines are more natural and concrete (\"came in loaded and ready,\" \"run on half the fuel\"), while Card 1's Collaboration beat runs long and philosophical in a way that would sound rehearsed aloud.",
+      "SPECIFICITY": "Card 2 diagnoses the exact mechanism \u2014 that avoidance pays off precisely when the gap is visible and the readers' visible frustration blocks re-entry without losing face \u2014 whereas Card 1 stays a notch more abstract about resentment and status.",
+      "TIGHTNESS": "Card 2 gives a concrete, executable pair-talk with assigned roles rather than an open-ended \"what would help?\" ask, and wastes fewer words on framing.",
+      "HONESTY": "Both hold the standard, but Card 2 keeps the discomfort in view (\"both groups know which they are,\" a cost \"you can feel in the room\") while still delivering an actual foothold, rather than resolving into the warmer group-belonging language Card 1 leans on."
+    },
+    "judge_raw": "PICK: 2\n\nSPEAKABILITY: Card 2's lines are more natural and concrete (\"came in loaded and ready,\" \"run on half the fuel\"), while Card 1's Collaboration beat runs long and philosophical in a way that would sound rehearsed aloud.\n\nSPECIFICITY: Card 2 diagnoses the exact mechanism \u2014 that avoidance pays off precisely when the gap is visible and the readers' visible frustration blocks re-entry without losing face \u2014 whereas Card 1 stays a notch more abstract about resentment and status.\n\nTIGHTNESS: Card 2 gives a concrete, executable pair-talk with assigned roles rather than an open-ended \"what would help?\" ask, and wastes fewer words on framing.\n\nHONESTY: Both hold the standard, but Card 2 keeps the discomfort in view (\"both groups know which they are,\" a cost \"you can feel in the room\") while still delivering an actual foothold, rather than resolving into the warmer group-belonging language Card 1 leans on."
+  },
+  {
+    "sit_id": "s2",
+    "mode": "teaching",
+    "situation": "Half the class did the reading and half clearly did not, and the half that did is getting visibly annoyed at carrying discussions.",
+    "n": 3,
+    "a_is_card1": true,
+    "pick": "2",
+    "winner_arm": "B",
+    "dims": {
+      "SPEAKABILITY": "Card 2's lines (\"some of you came in loaded and ready, and some of you are waiting to see where things go,\" \"hold that knowledge for sixty more seconds\") sound more like natural teacher speech, while Card 1's curiosity line runs long and pivots into an abstract \"performance for an audience\" explanation that would be hard to deliver smoothly.",
+      "SPECIFICITY": "Both diagnose the same split accurately, but Card 2's concrete on-ramp mechanics (skim one page, jot one real question, prepared kids hold for sixty seconds) engage the exact classroom logistics slightly more crisply than Card 1's parallel-but-wordier framing.",
+      "TIGHTNESS": "Card 1 pads its curiosity beat with a mini-lecture on why performance is bad, whereas Card 2 keeps each move leaner and moves faster to the action.",
+      "HONESTY": "Both keep the standard and name the imbalance without shaming, but Card 2's \"when half the room is carrying the other half, we're leaving a lot of thinking on the table\" names the uncomfortable thing plainly without softening into praise-heavy reassurance."
+    },
+    "judge_raw": "PICK: 2\n\nSPEAKABILITY: Card 2's lines (\"some of you came in loaded and ready, and some of you are waiting to see where things go,\" \"hold that knowledge for sixty more seconds\") sound more like natural teacher speech, while Card 1's curiosity line runs long and pivots into an abstract \"performance for an audience\" explanation that would be hard to deliver smoothly.\n\nSPECIFICITY: Both diagnose the same split accurately, but Card 2's concrete on-ramp mechanics (skim one page, jot one real question, prepared kids hold for sixty seconds) engage the exact classroom logistics slightly more crisply than Card 1's parallel-but-wordier framing.\n\nTIGHTNESS: Card 1 pads its curiosity beat with a mini-lecture on why performance is bad, whereas Card 2 keeps each move leaner and moves faster to the action.\n\nHONESTY: Both keep the standard and name the imbalance without shaming, but Card 2's \"when half the room is carrying the other half, we're leaving a lot of thinking on the table\" names the uncomfortable thing plainly without softening into praise-heavy reassurance."
+  },
+  {
+    "sit_id": "s3",
+    "mode": "parenting",
+    "situation": "My kid announced at dinner they are done with church and are not going anymore.",
+    "n": 1,
+    "a_is_card1": true,
+    "pick": "1",
+    "winner_arm": "A",
+    "dims": {
+      "SPEAKABILITY": "Card 1's lines sound like a real parent talking (\"I am glad you said it out loud instead of just quietly disappearing on us\"), while Card 2's collaboration line drifts into lecture (\"I am not going to pretend faith is just a preference like what you want for dinner\").",
+      "SPECIFICITY": "Card 1 nails the exact tell of the dinner-table announcement and turns it into a concrete three-way diagnostic question (the hour, something you read, or genuine loss of belief), whereas Card 2 gestures at the same insight but keeps its questions more generic.",
+      "TIGHTNESS": "Card 1 carries less redundancy, while Card 2's HOLD FIRM and STAY FLEXIBLE sections restate the same \"wrestle honestly\" idea multiple times.",
+      "HONESTY": "Both keep the standard and admit the parent's own difficulty, but Card 1's framing (\"we do not announce our way out of shared commitments at a dinner table\") names the uncomfortable boundary more crisply than Card 2's softer \"you do not get to just tap out.\""
+    },
+    "judge_raw": "PICK: 1\n\nSPEAKABILITY: Card 1's lines sound like a real parent talking (\"I am glad you said it out loud instead of just quietly disappearing on us\"), while Card 2's collaboration line drifts into lecture (\"I am not going to pretend faith is just a preference like what you want for dinner\").\n\nSPECIFICITY: Card 1 nails the exact tell of the dinner-table announcement and turns it into a concrete three-way diagnostic question (the hour, something you read, or genuine loss of belief), whereas Card 2 gestures at the same insight but keeps its questions more generic.\n\nTIGHTNESS: Card 1 carries less redundancy, while Card 2's HOLD FIRM and STAY FLEXIBLE sections restate the same \"wrestle honestly\" idea multiple times.\n\nHONESTY: Both keep the standard and admit the parent's own difficulty, but Card 1's framing (\"we do not announce our way out of shared commitments at a dinner table\") names the uncomfortable boundary more crisply than Card 2's softer \"you do not get to just tap out.\""
+  },
+  {
+    "sit_id": "s3",
+    "mode": "parenting",
+    "situation": "My kid announced at dinner they are done with church and are not going anymore.",
+    "n": 2,
+    "a_is_card1": true,
+    "pick": "2",
+    "winner_arm": "B",
+    "dims": {
+      "SPEAKABILITY": "Card 2's curiosity line (\"Is it the belief part... or the sitting-in-a-pew part, or something that happened there\") sounds like an actual parent thinking out loud, while Card 1's lines are slightly more polished but still natural.",
+      "SPECIFICITY": "Card 2 wins by naming concrete faith-specific forks (belief vs. attendance vs. a bad experience) and negotiables (which service, a pastor conversation, a different community), whereas Card 1 stays more at the level of generic \"hear the whole thing.\"",
+      "TIGHTNESS": "Card 1 is leaner and Card 2 occasionally piles on qualifiers (\"not blind agreement, just integrity\"), but Card 2's extra length mostly carries content rather than padding.",
+      "HONESTY": "Both hold the line, but Card 2 names the uncomfortable truth more squarely (\"I am not going to pretend you have no say... because that would be dishonest\") while still refusing the walkout, which is the harder and more credible balance."
+    },
+    "judge_raw": "PICK: 2\n\nSPEAKABILITY: Card 2's curiosity line (\"Is it the belief part... or the sitting-in-a-pew part, or something that happened there\") sounds like an actual parent thinking out loud, while Card 1's lines are slightly more polished but still natural.\n\nSPECIFICITY: Card 2 wins by naming concrete faith-specific forks (belief vs. attendance vs. a bad experience) and negotiables (which service, a pastor conversation, a different community), whereas Card 1 stays more at the level of generic \"hear the whole thing.\"\n\nTIGHTNESS: Card 1 is leaner and Card 2 occasionally piles on qualifiers (\"not blind agreement, just integrity\"), but Card 2's extra length mostly carries content rather than padding.\n\nHONESTY: Both hold the line, but Card 2 names the uncomfortable truth more squarely (\"I am not going to pretend you have no say... because that would be dishonest\") while still refusing the walkout, which is the harder and more credible balance."
+  },
+  {
+    "sit_id": "s3",
+    "mode": "parenting",
+    "situation": "My kid announced at dinner they are done with church and are not going anymore.",
+    "n": 3,
+    "a_is_card1": false,
+    "pick": "2",
+    "winner_arm": "A",
+    "dims": {
+      "SPEAKABILITY": "Card 2's curiosity line offers concrete either/or options (\"none of it is true... going through motions... the specific people or the specific hour\") that sound like a real parent thinking aloud, while Card 1's \"come out with something real on the other side\" leans slightly more sermon-like.",
+      "SPECIFICITY": "Both nail the \"announcement at dinner\" tell, but Card 2 pushes further by distinguishing rejection-of-faith from rejection-of-inherited-identity and by naming that a handed-down belief isn't really a belief.",
+      "TIGHTNESS": "Card 2 is leaner; Card 1's commitment line (\"I have high standards for our family and for you\") adds a self-justifying flourish that doesn't advance the move.",
+      "HONESTY": "Both keep the family expectation firm, but Card 2 names the sharper uncomfortable truth\u2014that demanding faked conviction destroys the very thing the parent wants\u2014rather than resting on Card 1's warmer reassurance."
+    },
+    "judge_raw": "PICK: 2\n\nSPEAKABILITY: Card 2's curiosity line offers concrete either/or options (\"none of it is true... going through motions... the specific people or the specific hour\") that sound like a real parent thinking aloud, while Card 1's \"come out with something real on the other side\" leans slightly more sermon-like.\n\nSPECIFICITY: Both nail the \"announcement at dinner\" tell, but Card 2 pushes further by distinguishing rejection-of-faith from rejection-of-inherited-identity and by naming that a handed-down belief isn't really a belief.\n\nTIGHTNESS: Card 2 is leaner; Card 1's commitment line (\"I have high standards for our family and for you\") adds a self-justifying flourish that doesn't advance the move.\n\nHONESTY: Both keep the family expectation firm, but Card 2 names the sharper uncomfortable truth\u2014that demanding faked conviction destroys the very thing the parent wants\u2014rather than resting on Card 1's warmer reassurance."
+  },
+  {
+    "sit_id": "s4",
+    "mode": "parenting",
+    "situation": "My teenager asked me a hard question about something I did at their age, and I froze instead of answering.",
+    "n": 1,
+    "a_is_card1": false,
+    "pick": "2",
+    "winner_arm": "A",
+    "dims": {
+      "SPEAKABILITY": "Card 2's lines are shorter and more natural to say aloud (\"I owe you a real answer\" beats Card 1's more explanatory phrasing), whereas Card 1's Collaboration line runs long and reads slightly rehearsed.",
+      "SPECIFICITY": "Both diagnose the same freeze-as-wall dynamic well, but Card 2's \"evidence that you were human at their age and came through it\" pins down what the teen actually needs more precisely than Card 1.",
+      "TIGHTNESS": "Card 2 is leaner throughout, while Card 1 carries some redundancy (its Commitment paragraph circles the same point twice).",
+      "HONESTY": "Card 2 names the sharpest uncomfortable truth \u2014 the risk of \"unburdening yourself\" versus serving the kid \u2014 which is a harder, more honest line than Card 1's \"tidy lesson\" caution."
+    },
+    "judge_raw": "PICK: 2\n\nSPEAKABILITY: Card 2's lines are shorter and more natural to say aloud (\"I owe you a real answer\" beats Card 1's more explanatory phrasing), whereas Card 1's Collaboration line runs long and reads slightly rehearsed.\n\nSPECIFICITY: Both diagnose the same freeze-as-wall dynamic well, but Card 2's \"evidence that you were human at their age and came through it\" pins down what the teen actually needs more precisely than Card 1.\n\nTIGHTNESS: Card 2 is leaner throughout, while Card 1 carries some redundancy (its Commitment paragraph circles the same point twice).\n\nHONESTY: Card 2 names the sharpest uncomfortable truth \u2014 the risk of \"unburdening yourself\" versus serving the kid \u2014 which is a harder, more honest line than Card 1's \"tidy lesson\" caution."
+  },
+  {
+    "sit_id": "s4",
+    "mode": "parenting",
+    "situation": "My teenager asked me a hard question about something I did at their age, and I froze instead of answering.",
+    "n": 2,
+    "a_is_card1": true,
+    "pick": "2",
+    "winner_arm": "B",
+    "dims": {
+      "SPEAKABILITY": "Card 2's script sounds more natural, especially ending the Collaboration beat on \"What do you think about that?\" which hands the moment back to the kid, whereas Card 1's \"then life kept going\" and longer confessional lines feel slightly more composed and performed.",
+      "SPECIFICITY": "Both engage the exact freeze-and-repair scenario, but Card 2's read (\"using you as a reference point,\" \"rule-giver, not a real person\") pins down the developmental stakes more precisely than Card 1's more generic \"path is survivable\" framing.",
+      "TIGHTNESS": "Card 1 has some redundancy across its script beats and repeats \"not asking so I can dodge it\" ideas, while Card 2 stays leaner and avoids the extra editorializing.",
+      "HONESTY": "Card 2 keeps the harder edge \u2014 \"I am not proud of all of it,\" \"before they stop knocking,\" and refusing to spin it into a lesson \u2014 whereas Card 1 slightly softens the cost by reassuring that \"the mess did not end the story.\""
+    },
+    "judge_raw": "PICK: 2\n\nSPEAKABILITY: Card 2's script sounds more natural, especially ending the Collaboration beat on \"What do you think about that?\" which hands the moment back to the kid, whereas Card 1's \"then life kept going\" and longer confessional lines feel slightly more composed and performed.\n\nSPECIFICITY: Both engage the exact freeze-and-repair scenario, but Card 2's read (\"using you as a reference point,\" \"rule-giver, not a real person\") pins down the developmental stakes more precisely than Card 1's more generic \"path is survivable\" framing.\n\nTIGHTNESS: Card 1 has some redundancy across its script beats and repeats \"not asking so I can dodge it\" ideas, while Card 2 stays leaner and avoids the extra editorializing.\n\nHONESTY: Card 2 keeps the harder edge \u2014 \"I am not proud of all of it,\" \"before they stop knocking,\" and refusing to spin it into a lesson \u2014 whereas Card 1 slightly softens the cost by reassuring that \"the mess did not end the story.\""
+  },
+  {
+    "sit_id": "s4",
+    "mode": "parenting",
+    "situation": "My teenager asked me a hard question about something I did at their age, and I froze instead of answering.",
+    "n": 3,
+    "a_is_card1": false,
+    "pick": "2",
+    "winner_arm": "A",
+    "dims": {
+      "SPEAKABILITY": "Card 2's lines are shorter and more colloquial (\"get a real answer, not a flinch\"), where Card 1's Collaboration line runs long and slightly self-explanatory, making it harder to say cleanly.",
+      "SPECIFICITY": "Card 2's read \u2014 \"using your past as a mirror to figure out who they are allowed to become\" \u2014 engages the exact mechanism of the situation more sharply than Card 1's somewhat broader \"testing whether you're a person they can learn from.\"",
+      "TIGHTNESS": "Card 2 trims harder and avoids the mild repetition in Card 1's HOLD FIRM section, where both bullets restate the same modeling point.",
+      "HONESTY": "Both keep the standard, but Card 2 names the sharper discomfort \u2014 telling them what you \"got wrong\" without \"performing confession or a cautionary tale\" \u2014 where Card 1 leans a touch more on reassuring warmth."
+    },
+    "judge_raw": "PICK: 2\n\nSPEAKABILITY: Card 2's lines are shorter and more colloquial (\"get a real answer, not a flinch\"), where Card 1's Collaboration line runs long and slightly self-explanatory, making it harder to say cleanly.\n\nSPECIFICITY: Card 2's read \u2014 \"using your past as a mirror to figure out who they are allowed to become\" \u2014 engages the exact mechanism of the situation more sharply than Card 1's somewhat broader \"testing whether you're a person they can learn from.\"\n\nTIGHTNESS: Card 2 trims harder and avoids the mild repetition in Card 1's HOLD FIRM section, where both bullets restate the same modeling point.\n\nHONESTY: Both keep the standard, but Card 2 names the sharper discomfort \u2014 telling them what you \"got wrong\" without \"performing confession or a cautionary tale\" \u2014 where Card 1 leans a touch more on reassuring warmth."
+  },
+  {
+    "sit_id": "s5",
+    "mode": "managing",
+    "situation": "A junior shipped something with a mistake a customer caught, and now they are triple-checking everything and velocity has cratered.",
+    "n": 1,
+    "a_is_card1": true,
+    "pick": "1",
+    "winner_arm": "A",
+    "dims": {
+      "SPEAKABILITY": "Both are natural, but Card 1's lines flow more like real speech, whereas Card 2's \"one pass with a solid system catches more than three anxious passes\" edges toward a rehearsed aphorism.",
+      "SPECIFICITY": "Card 1's diagnosis cuts deeper into this exact dynamic \u2014 the mistake being \"visible in exactly the worst direction\" and the triple-checking as evidence-avoidance \u2014 while Card 2's checklist framing, though solid, is a more transferable productivity move.",
+      "TIGHTNESS": "Card 1 keeps nearly every sentence load-bearing, while Card 2 repeats the \"one moment, not a verdict\" reassurance in ways that slightly dilute its punch.",
+      "HONESTY": "Card 1 names the harder truth \u2014 that avoidance builds nothing and reassurance won't fix it, refusing to become an approval layer \u2014 whereas Card 2 partly resolves the tension into a comfortable process fix."
+    },
+    "judge_raw": "PICK: 1\n\nSPEAKABILITY: Both are natural, but Card 1's lines flow more like real speech, whereas Card 2's \"one pass with a solid system catches more than three anxious passes\" edges toward a rehearsed aphorism.\n\nSPECIFICITY: Card 1's diagnosis cuts deeper into this exact dynamic \u2014 the mistake being \"visible in exactly the worst direction\" and the triple-checking as evidence-avoidance \u2014 while Card 2's checklist framing, though solid, is a more transferable productivity move.\n\nTIGHTNESS: Card 1 keeps nearly every sentence load-bearing, while Card 2 repeats the \"one moment, not a verdict\" reassurance in ways that slightly dilute its punch.\n\nHONESTY: Card 1 names the harder truth \u2014 that avoidance builds nothing and reassurance won't fix it, refusing to become an approval layer \u2014 whereas Card 2 partly resolves the tension into a comfortable process fix."
+  },
+  {
+    "sit_id": "s5",
+    "mode": "managing",
+    "situation": "A junior shipped something with a mistake a customer caught, and now they are triple-checking everything and velocity has cratered.",
+    "n": 2,
+    "a_is_card1": true,
+    "pick": "1",
+    "winner_arm": "A",
+    "dims": {
+      "SPEAKABILITY": "Card 1's lines land more naturally out loud, especially \"checking the same thing four times\" and \"grinding to a halt does not protect you; it just means the customer issue costs us twice,\" whereas Card 2's Collaboration paragraph runs long and self-narrating (\"tell me if I am off... that makes complete sense as a response\").",
+      "SPECIFICITY": "Both diagnose the same fear-driven over-checking accurately, but Card 1's \"What are you actually afraid of catching, or not catching?\" cuts more precisely into this exact spiral than Card 2's more general walkthrough.",
+      "TIGHTNESS": "Card 1 is leaner throughout; Card 2 pads with meta-commentary (\"not at you,\" \"the outside does not tell the whole story\") that softens rather than sharpens.",
+      "HONESTY": "Both hold velocity as non-negotiable, but Card 1 states the hard cost more bluntly and avoids Card 2's cushioning reassurances (\"it is actually your instincts working\") that risk diluting the standard."
+    },
+    "judge_raw": "PICK: 1\n\nSPEAKABILITY: Card 1's lines land more naturally out loud, especially \"checking the same thing four times\" and \"grinding to a halt does not protect you; it just means the customer issue costs us twice,\" whereas Card 2's Collaboration paragraph runs long and self-narrating (\"tell me if I am off... that makes complete sense as a response\").\n\nSPECIFICITY: Both diagnose the same fear-driven over-checking accurately, but Card 1's \"What are you actually afraid of catching, or not catching?\" cuts more precisely into this exact spiral than Card 2's more general walkthrough.\n\nTIGHTNESS: Card 1 is leaner throughout; Card 2 pads with meta-commentary (\"not at you,\" \"the outside does not tell the whole story\") that softens rather than sharpens.\n\nHONESTY: Both hold velocity as non-negotiable, but Card 1 states the hard cost more bluntly and avoids Card 2's cushioning reassurances (\"it is actually your instincts working\") that risk diluting the standard."
+  },
+  {
+    "sit_id": "s5",
+    "mode": "managing",
+    "situation": "A junior shipped something with a mistake a customer caught, and now they are triple-checking everything and velocity has cratered.",
+    "n": 3,
+    "a_is_card1": true,
+    "pick": "2",
+    "winner_arm": "B",
+    "dims": {
+      "SPEAKABILITY": "Card 2's lines sound more like natural speech (\"not about the ticket, just about how you are doing,\" \"I would rather spend thirty minutes building that with you than watch you burn energy on fear\"), while Card 1's phrasing occasionally stiffens into essay-speak like \"that is actually the fear driving, not your judgment.\"",
+      "SPECIFICITY": "Both diagnose the same triple-checking-as-anxiety dynamic well, but Card 2's read digs harder into the status wound (\"in their mind means everyone now sees them as the person who messes up\") and ties it concretely to survival-vs-performance.",
+      "TIGHTNESS": "Card 1 is slightly leaner, but Card 2's extra words mostly do emotional work rather than pad, so the edge is marginal.",
+      "HONESTY": "Card 2 states the hard part more crisply\u2014\"it is not a process, it is anxiety running the show\" and \"I am not moving off that\"\u2014while explicitly asking for a velocity plan and a first step, keeping the standard unmistakably intact."
+    },
+    "judge_raw": "PICK: 2\n\nSPEAKABILITY: Card 2's lines sound more like natural speech (\"not about the ticket, just about how you are doing,\" \"I would rather spend thirty minutes building that with you than watch you burn energy on fear\"), while Card 1's phrasing occasionally stiffens into essay-speak like \"that is actually the fear driving, not your judgment.\"\n\nSPECIFICITY: Both diagnose the same triple-checking-as-anxiety dynamic well, but Card 2's read digs harder into the status wound (\"in their mind means everyone now sees them as the person who messes up\") and ties it concretely to survival-vs-performance.\n\nTIGHTNESS: Card 1 is slightly leaner, but Card 2's extra words mostly do emotional work rather than pad, so the edge is marginal.\n\nHONESTY: Card 2 states the hard part more crisply\u2014\"it is not a process, it is anxiety running the show\" and \"I am not moving off that\"\u2014while explicitly asking for a velocity plan and a first step, keeping the standard unmistakably intact."
+  },
+  {
+    "sit_id": "s6",
+    "mode": "managing",
+    "situation": "My newest hire is better at part of the job than I am and we both know it.",
+    "n": 1,
+    "a_is_card1": true,
+    "pick": "1",
+    "winner_arm": "A",
+    "dims": {
+      "SPEAKABILITY": "Card 1's lines are tighter and land as real speech, while Card 2's Collaboration line (\"running point on this, you are the person the team looks to, and I am the person helping you connect that skill to the bigger picture\") gets long and slightly self-conscious to say aloud.",
+      "SPECIFICITY": "Both engage the exact status/identity gap well, but Card 1's read about them \"holding back to avoid embarrassing you\" versus wondering if the place can teach them anything is a sharper, more concrete pair of possibilities than Card 2's more abstract framing.",
+      "TIGHTNESS": "Card 1 is leaner throughout, whereas Card 2 repeats the \"own it / hold you to the full job\" beat and pads the read with longer explanatory clauses.",
+      "HONESTY": "Both keep the standard firmly, but Card 1's \"being strong in one lane does not mean the rest of the job is beneath you\" names the uncomfortable risk more bluntly than Card 2's softer \"capable of being genuinely excellent across the board.\""
+    },
+    "judge_raw": "PICK: 1\n\nSPEAKABILITY: Card 1's lines are tighter and land as real speech, while Card 2's Collaboration line (\"running point on this, you are the person the team looks to, and I am the person helping you connect that skill to the bigger picture\") gets long and slightly self-conscious to say aloud.\n\nSPECIFICITY: Both engage the exact status/identity gap well, but Card 1's read about them \"holding back to avoid embarrassing you\" versus wondering if the place can teach them anything is a sharper, more concrete pair of possibilities than Card 2's more abstract framing.\n\nTIGHTNESS: Card 1 is leaner throughout, whereas Card 2 repeats the \"own it / hold you to the full job\" beat and pads the read with longer explanatory clauses.\n\nHONESTY: Both keep the standard firmly, but Card 1's \"being strong in one lane does not mean the rest of the job is beneath you\" names the uncomfortable risk more bluntly than Card 2's softer \"capable of being genuinely excellent across the board.\""
+  },
+  {
+    "sit_id": "s6",
+    "mode": "managing",
+    "situation": "My newest hire is better at part of the job than I am and we both know it.",
+    "n": 2,
+    "a_is_card1": false,
+    "pick": "2",
+    "winner_arm": "A",
+    "dims": {
+      "SPEAKABILITY": "Card 2's lines are shorter and land more naturally, especially the opening \"I am saying it because I think you already know it,\" whereas Card 1's Collaboration paragraph is a long, winding sentence that would be hard to deliver without sounding rehearsed.",
+      "SPECIFICITY": "Both diagnose the same mutual-awareness dynamic sharply, but Card 2's \"live wire\" framing and its concrete Enforcer pull (extra review and sign-offs as control disguised as quality) engage the exact situation more vividly than Card 1's more general status/identity read.",
+      "TIGHTNESS": "Card 2 is leaner throughout, while Card 1 pads with repetition (\"high standard across the full role, not just the part you have mastered\") and an overstuffed Collaboration beat.",
+      "HONESTY": "Card 1 actually holds the harder line \u2014 \"your technical edge does not exempt them from the less glamorous parts\" and \"I will tell you when you are not meeting the bar\" \u2014 but Card 2 still names the uncomfortable admission cleanly and ties ownership to accountability, so it keeps enough of the hard part while staying more sayable."
+    },
+    "judge_raw": "PICK: 2\n\nSPEAKABILITY: Card 2's lines are shorter and land more naturally, especially the opening \"I am saying it because I think you already know it,\" whereas Card 1's Collaboration paragraph is a long, winding sentence that would be hard to deliver without sounding rehearsed.\n\nSPECIFICITY: Both diagnose the same mutual-awareness dynamic sharply, but Card 2's \"live wire\" framing and its concrete Enforcer pull (extra review and sign-offs as control disguised as quality) engage the exact situation more vividly than Card 1's more general status/identity read.\n\nTIGHTNESS: Card 2 is leaner throughout, while Card 1 pads with repetition (\"high standard across the full role, not just the part you have mastered\") and an overstuffed Collaboration beat.\n\nHONESTY: Card 1 actually holds the harder line \u2014 \"your technical edge does not exempt them from the less glamorous parts\" and \"I will tell you when you are not meeting the bar\" \u2014 but Card 2 still names the uncomfortable admission cleanly and ties ownership to accountability, so it keeps enough of the hard part while staying more sayable."
+  },
+  {
+    "sit_id": "s6",
+    "mode": "managing",
+    "situation": "My newest hire is better at part of the job than I am and we both know it.",
+    "n": 3,
+    "a_is_card1": false,
+    "pick": "2",
+    "winner_arm": "A",
+    "dims": {
+      "SPEAKABILITY": "Card 2's lines are more natural and confident (\"You are ahead of me on this particular skill and I am not going to pretend otherwise\"), while Card 1's opening (\"actually a good problem to have\") and \"build around it, not around it\" phrasing sound more managed and slightly stilted.",
+      "SPECIFICITY": "Both invoke the same dynamic, but Card 2's \"I have made most of the expensive mistakes already\" concretely names what the manager offers in trade, whereas Card 1 stays at the level of generic \"high standard\" language.",
+      "TIGHTNESS": "Card 1's commitment section repeats \"the same bar\" / \"high standard\" ideas twice and pads with reassurance, while Card 2's script lands each beat once and moves on.",
+      "HONESTY": "Both hold the standard, but Card 2 more crisply names the uncomfortable trade \u2014 the manager admitting the gap out loud AND asserting real value in return \u2014 without softening into warmth as Card 1's LONG GAME does."
+    },
+    "judge_raw": "PICK: 2\n\nSPEAKABILITY: Card 2's lines are more natural and confident (\"You are ahead of me on this particular skill and I am not going to pretend otherwise\"), while Card 1's opening (\"actually a good problem to have\") and \"build around it, not around it\" phrasing sound more managed and slightly stilted.\n\nSPECIFICITY: Both invoke the same dynamic, but Card 2's \"I have made most of the expensive mistakes already\" concretely names what the manager offers in trade, whereas Card 1 stays at the level of generic \"high standard\" language.\n\nTIGHTNESS: Card 1's commitment section repeats \"the same bar\" / \"high standard\" ideas twice and pads with reassurance, while Card 2's script lands each beat once and moves on.\n\nHONESTY: Both hold the standard, but Card 2 more crisply names the uncomfortable trade \u2014 the manager admitting the gap out loud AND asserting real value in return \u2014 without softening into warmth as Card 1's LONG GAME does."
+  },
+  {
+    "sit_id": "s7",
+    "mode": "coaching",
+    "situation": "A player's parent emailed me arguing their kid should be starting, and the kid clearly knows about the email.",
+    "n": 1,
+    "a_is_card1": false,
+    "pick": "2",
+    "winner_arm": "A",
+    "dims": {
+      "SPEAKABILITY": "Card 2's lines are blunter and more natural (\"This is not a disciplinary thing,\" \"I am not going to pretend that did not happen\"), while Card 1's \"pull up for a sec. No big deal\" feels slightly more staged.",
+      "SPECIFICITY": "Card 2 directly names that the player knows the parent went over their head and even splits the two plausible internal states (relief vs. shame), engaging this exact situation more sharply than Card 1's more generic status read.",
+      "TIGHTNESS": "Card 2 trims better, whereas Card 1 repeats the \"outside pressure / outside this building\" beat and pads the Commitment section.",
+      "HONESTY": "Both hold the standard, but Card 2 names the uncomfortable truth head-on (\"what is worth more than that email,\" \"act, not send someone else in\") rather than cushioning it in belief-in-you warmth."
+    },
+    "judge_raw": "PICK: 2\n\nSPEAKABILITY: Card 2's lines are blunter and more natural (\"This is not a disciplinary thing,\" \"I am not going to pretend that did not happen\"), while Card 1's \"pull up for a sec. No big deal\" feels slightly more staged.\n\nSPECIFICITY: Card 2 directly names that the player knows the parent went over their head and even splits the two plausible internal states (relief vs. shame), engaging this exact situation more sharply than Card 1's more generic status read.\n\nTIGHTNESS: Card 2 trims better, whereas Card 1 repeats the \"outside pressure / outside this building\" beat and pads the Commitment section.\n\nHONESTY: Both hold the standard, but Card 2 names the uncomfortable truth head-on (\"what is worth more than that email,\" \"act, not send someone else in\") rather than cushioning it in belief-in-you warmth."
+  },
+  {
+    "sit_id": "s7",
+    "mode": "coaching",
+    "situation": "A player's parent emailed me arguing their kid should be starting, and the kid clearly knows about the email.",
+    "n": 2,
+    "a_is_card1": true,
+    "pick": "2",
+    "winner_arm": "B",
+    "dims": {
+      "SPEAKABILITY": "Card 2's lines sound more like natural speech (\"Come walk with me,\" \"I'm not asking you to answer for that\") while Card 1's Curiosity line stacks too many questions in a row and feels slightly more composed.",
+      "SPECIFICITY": "Card 2 directly names the email and explicitly separates the kid from the parent's action, engaging the exact awkwardness, whereas Card 1 deliberately avoids the email and could apply to any playing-time talk.",
+      "TIGHTNESS": "Both are lean, but Card 2's script does more work per sentence by folding the acknowledgment, the standard, and the path into fewer beats.",
+      "HONESTY": "Card 2 says the hard thing out loud \u2014 it names the email, refuses to move the depth chart under pressure, and still holds the bar \u2014 while Card 1 sidesteps the uncomfortable core by treating the topic as if the email never happened."
+    },
+    "judge_raw": "PICK: 2\n\nSPEAKABILITY: Card 2's lines sound more like natural speech (\"Come walk with me,\" \"I'm not asking you to answer for that\") while Card 1's Curiosity line stacks too many questions in a row and feels slightly more composed.\n\nSPECIFICITY: Card 2 directly names the email and explicitly separates the kid from the parent's action, engaging the exact awkwardness, whereas Card 1 deliberately avoids the email and could apply to any playing-time talk.\n\nTIGHTNESS: Both are lean, but Card 2's script does more work per sentence by folding the acknowledgment, the standard, and the path into fewer beats.\n\nHONESTY: Card 2 says the hard thing out loud \u2014 it names the email, refuses to move the depth chart under pressure, and still holds the bar \u2014 while Card 1 sidesteps the uncomfortable core by treating the topic as if the email never happened."
+  },
+  {
+    "sit_id": "s7",
+    "mode": "coaching",
+    "situation": "A player's parent emailed me arguing their kid should be starting, and the kid clearly knows about the email.",
+    "n": 3,
+    "a_is_card1": true,
+    "pick": "2",
+    "winner_arm": "B",
+    "dims": {
+      "SPEAKABILITY": "Card 2's lines land more naturally out loud\u2014\"I'd rather you come knock on my door\" and \"that's between us\" sound like a real coach, while Card 1's \"what happened in my inbox\" phrasing is slightly clever-scripted.",
+      "SPECIFICITY": "Card 2's diagnosis cuts sharper by naming the \"worst of both worlds\"\u2014the kid may privately agree yet has been stripped of agency\u2014whereas Card 1's read is strong but stays closer to the generic status-wound frame.",
+      "TIGHTNESS": "Card 1 is a touch cleaner, but Card 2 keeps its added detail (specific benchmarks, two-week window) working rather than padding, so the edge is marginal.",
+      "HONESTY": "Card 2 explicitly acknowledges the email to the kid's face and names the standard plus a concrete timeline, confronting the awkward thing more directly than Card 1's slightly softer framing."
+    },
+    "judge_raw": "PICK: 2\n\nSPEAKABILITY: Card 2's lines land more naturally out loud\u2014\"I'd rather you come knock on my door\" and \"that's between us\" sound like a real coach, while Card 1's \"what happened in my inbox\" phrasing is slightly clever-scripted.\n\nSPECIFICITY: Card 2's diagnosis cuts sharper by naming the \"worst of both worlds\"\u2014the kid may privately agree yet has been stripped of agency\u2014whereas Card 1's read is strong but stays closer to the generic status-wound frame.\n\nTIGHTNESS: Card 1 is a touch cleaner, but Card 2 keeps its added detail (specific benchmarks, two-week window) working rather than padding, so the edge is marginal.\n\nHONESTY: Card 2 explicitly acknowledges the email to the kid's face and names the standard plus a concrete timeline, confronting the awkward thing more directly than Card 1's slightly softer framing."
+  },
+  {
+    "sit_id": "s8",
+    "mode": "coaching",
+    "situation": "My team won big and played selfish, ugly ball the entire game.",
+    "n": 1,
+    "a_is_card1": true,
+    "pick": "1",
+    "winner_arm": "A",
+    "dims": {
+      "SPEAKABILITY": "Both are largely sayable, but Card 1's lines (\"hard to guard, not just hard to stop on a given night\") land more like a real coach talking, while Card 2's \"great teams people talk about years later\" edges toward speech-y.",
+      "SPECIFICITY": "Card 1 anchors to concrete details \u2014 scouts/parents/rivals, the specific rival in three weeks who \"will eat that alive\" \u2014 whereas Card 2's diagnosis (status high, belonging underneath) is sound but more generic to the win-after-selfish-play genre.",
+      "TIGHTNESS": "Card 1's curiosity beat forces an honest self-count of possessions, doing real work per line; Card 2 leans on a rhetorical \"what do you notice about great teams\" that pads before arriving at the point.",
+      "HONESTY": "Card 1 names the uncomfortable thing squarely (\"selfish ball is a ceiling,\" \"how many buckets came because somebody decided this was their moment\"), while Card 2 stays a touch warmer and more abstract about the actual selfishness."
+    },
+    "judge_raw": "PICK: 1\n\nSPEAKABILITY: Both are largely sayable, but Card 1's lines (\"hard to guard, not just hard to stop on a given night\") land more like a real coach talking, while Card 2's \"great teams people talk about years later\" edges toward speech-y.\n\nSPECIFICITY: Card 1 anchors to concrete details \u2014 scouts/parents/rivals, the specific rival in three weeks who \"will eat that alive\" \u2014 whereas Card 2's diagnosis (status high, belonging underneath) is sound but more generic to the win-after-selfish-play genre.\n\nTIGHTNESS: Card 1's curiosity beat forces an honest self-count of possessions, doing real work per line; Card 2 leans on a rhetorical \"what do you notice about great teams\" that pads before arriving at the point.\n\nHONESTY: Card 1 names the uncomfortable thing squarely (\"selfish ball is a ceiling,\" \"how many buckets came because somebody decided this was their moment\"), while Card 2 stays a touch warmer and more abstract about the actual selfishness."
+  },
+  {
+    "sit_id": "s8",
+    "mode": "coaching",
+    "situation": "My team won big and played selfish, ugly ball the entire game.",
+    "n": 2,
+    "a_is_card1": false,
+    "pick": "2",
+    "winner_arm": "A",
+    "dims": {
+      "SPEAKABILITY": "Card 2's lines flow more naturally out loud, especially \"I can coach a team that... I cannot do both,\" whereas Card 1's \"make the people around them dangerous\" and the extra-pass inventory exercise feel more constructed.",
+      "SPECIFICITY": "Card 2's read that \"winning validates the selfish approach\" and can swallow a team win in personal glory nails the exact danger of this situation, while Card 1's status/belonging framing is sharp but slightly more transferable to any win.",
+      "TIGHTNESS": "Card 2 is leaner with less redundancy, whereas Card 1 repeats the \"makes individual players look elite\" idea across both Collaboration and Commitment beats.",
+      "HONESTY": "Both keep the standard, but Card 2's \"what would they say this team is about?\" forces the uncomfortable self-examination harder than Card 1's more comforting \"that actually makes you look better\" reframe."
+    },
+    "judge_raw": "PICK: 2\nSPEAKABILITY: Card 2's lines flow more naturally out loud, especially \"I can coach a team that... I cannot do both,\" whereas Card 1's \"make the people around them dangerous\" and the extra-pass inventory exercise feel more constructed.\nSPECIFICITY: Card 2's read that \"winning validates the selfish approach\" and can swallow a team win in personal glory nails the exact danger of this situation, while Card 1's status/belonging framing is sharp but slightly more transferable to any win.\nTIGHTNESS: Card 2 is leaner with less redundancy, whereas Card 1 repeats the \"makes individual players look elite\" idea across both Collaboration and Commitment beats.\nHONESTY: Both keep the standard, but Card 2's \"what would they say this team is about?\" forces the uncomfortable self-examination harder than Card 1's more comforting \"that actually makes you look better\" reframe."
+  },
+  {
+    "sit_id": "s8",
+    "mode": "coaching",
+    "situation": "My team won big and played selfish, ugly ball the entire game.",
+    "n": 3,
+    "a_is_card1": false,
+    "pick": "2",
+    "winner_arm": "A",
+    "dims": {
+      "SPEAKABILITY": "Card 2's lines flow more like natural speech \u2014 \"let's go find out what winning beautiful actually feels like\" lands cleaner than Card 1's longer, more explanatory Collaboration block that a coach would struggle to deliver intact.",
+      "SPECIFICITY": "Both engage the exact scenario, but Card 2's \"somebody went one on four and forced it\" and \"the possessions you are actually proud of\" are sharper, more concrete images than Card 1's slightly more abstract \"playing like strangers.\"",
+      "TIGHTNESS": "Card 1's Collaboration paragraph over-explains the ceiling logic in ways that pad, while Card 2 delivers the same \"the score covered it up\" insight in fewer, denser sentences.",
+      "HONESTY": "Both keep the standard, but Card 2 names the uncomfortable truth (\"the score covered up something\") without the softening reassurance-loop (\"We good?\") that slightly dilutes Card 1's close."
+    },
+    "judge_raw": "PICK: 2\n\nSPEAKABILITY: Card 2's lines flow more like natural speech \u2014 \"let's go find out what winning beautiful actually feels like\" lands cleaner than Card 1's longer, more explanatory Collaboration block that a coach would struggle to deliver intact.\n\nSPECIFICITY: Both engage the exact scenario, but Card 2's \"somebody went one on four and forced it\" and \"the possessions you are actually proud of\" are sharper, more concrete images than Card 1's slightly more abstract \"playing like strangers.\"\n\nTIGHTNESS: Card 1's Collaboration paragraph over-explains the ceiling logic in ways that pad, while Card 2 delivers the same \"the score covered it up\" insight in fewer, denser sentences.\n\nHONESTY: Both keep the standard, but Card 2 names the uncomfortable truth (\"the score covered up something\") without the softening reassurance-loop (\"We good?\") that slightly dilutes Card 1's close."
+  },
+  {
+    "sit_id": "s9",
+    "mode": "parenting",
+    "situation": "My almost-18-year-old shuts down every time college or life after graduation comes up.",
+    "n": 1,
+    "a_is_card1": true,
+    "pick": "1",
+    "winner_arm": "A",
+    "dims": {
+      "SPEAKABILITY": "Card 1's lines flow more naturally and sound like a real parent talking (\"You know yourself better than any brochure does\"), while Card 2's are slightly longer and more lecture-prone, especially the \"machinery\" neuroscience aside that would sound rehearsed out loud.",
+      "SPECIFICITY": "Card 1 nails the exact mechanism \u2014 that college talk is implicitly a \"performance review they are already failing\" \u2014 whereas Card 2's identity read is strong but leans on a more generic \"handing over a finished self\" frame that could fit many teen-future conversations.",
+      "TIGHTNESS": "Card 1 is leaner with each sentence pulling weight, while Card 2 pads with the brain-development explanation and repeated reassurance that slightly dilute its force.",
+      "HONESTY": "Both keep the standard, but Card 1's \"I am not willing to let you drift into something by default when you are smart enough to choose something on purpose\" states the hard expectation more crisply than Card 2's softer, more caveated commitment."
+    },
+    "judge_raw": "PICK: 1\n\nSPEAKABILITY: Card 1's lines flow more naturally and sound like a real parent talking (\"You know yourself better than any brochure does\"), while Card 2's are slightly longer and more lecture-prone, especially the \"machinery\" neuroscience aside that would sound rehearsed out loud.\n\nSPECIFICITY: Card 1 nails the exact mechanism \u2014 that college talk is implicitly a \"performance review they are already failing\" \u2014 whereas Card 2's identity read is strong but leans on a more generic \"handing over a finished self\" frame that could fit many teen-future conversations.\n\nTIGHTNESS: Card 1 is leaner with each sentence pulling weight, while Card 2 pads with the brain-development explanation and repeated reassurance that slightly dilute its force.\n\nHONESTY: Both keep the standard, but Card 1's \"I am not willing to let you drift into something by default when you are smart enough to choose something on purpose\" states the hard expectation more crisply than Card 2's softer, more caveated commitment."
+  },
+  {
+    "sit_id": "s9",
+    "mode": "parenting",
+    "situation": "My almost-18-year-old shuts down every time college or life after graduation comes up.",
+    "n": 2,
+    "a_is_card1": false,
+    "pick": "2",
+    "winner_arm": "A",
+    "dims": {
+      "SPEAKABILITY": "Card 2's lines sound more like natural speech (\"I remember being almost 18 and the future feeling like a wall I had no idea how to get over\"), while Card 1's Collaboration line (\"What if we just agreed that not knowing is the starting point, not the problem?\") edges toward the abstract and coached.",
+      "SPECIFICITY": "Both diagnose the same identity-under-competence dynamic well, but Card 2's move to concretely pivot to \"what makes an hour disappear when you are in it\" is more actionable and situation-specific than Card 1's stay-in-the-conversation framing.",
+      "TIGHTNESS": "Card 1 repeats its \"not a verdict / not a lecture / stay in the conversation\" beat several times, whereas Card 2 keeps each beat doing distinct work with less thematic overlap.",
+      "HONESTY": "Card 2 holds the harder line by naming the real timeline (\"the timeline is real and I am not going to let it sneak up on you\") without collapsing into reassurance, while Card 1 leans more on warmth and repeated softening."
+    },
+    "judge_raw": "PICK: 2\n\nSPEAKABILITY: Card 2's lines sound more like natural speech (\"I remember being almost 18 and the future feeling like a wall I had no idea how to get over\"), while Card 1's Collaboration line (\"What if we just agreed that not knowing is the starting point, not the problem?\") edges toward the abstract and coached.\n\nSPECIFICITY: Both diagnose the same identity-under-competence dynamic well, but Card 2's move to concretely pivot to \"what makes an hour disappear when you are in it\" is more actionable and situation-specific than Card 1's stay-in-the-conversation framing.\n\nTIGHTNESS: Card 1 repeats its \"not a verdict / not a lecture / stay in the conversation\" beat several times, whereas Card 2 keeps each beat doing distinct work with less thematic overlap.\n\nHONESTY: Card 2 holds the harder line by naming the real timeline (\"the timeline is real and I am not going to let it sneak up on you\") without collapsing into reassurance, while Card 1 leans more on warmth and repeated softening."
+  },
+  {
+    "sit_id": "s9",
+    "mode": "parenting",
+    "situation": "My almost-18-year-old shuts down every time college or life after graduation comes up.",
+    "n": 3,
+    "a_is_card1": true,
+    "pick": "1",
+    "winner_arm": "A",
+    "dims": {
+      "SPEAKABILITY": "Both are sayable, but Card 1's \"one concrete thing, chosen by you, that moves you even a little bit forward before the end of this month\" is more naturally spoken than Card 2's slightly essayistic \"what would have to be true for you to feel like your life is actually yours.\"",
+      "SPECIFICITY": "Card 1's diagnosis nails the exact mechanism (exiting the question before having to answer it) and the identity layer of \"signing a contract in someone else's name,\" while Card 2 is real but leans on more generic \"test he hasn't studied for\" framing.",
+      "TIGHTNESS": "Card 1 packs more distinct ideas per line and its \"Hold Firm / Stay Flexible\" split is sharper, whereas Card 2 repeats the \"stay in the conversation\" ask across multiple sections with some padding.",
+      "HONESTY": "Card 1 keeps the harder edge \u2014 \"silence is not a plan,\" \"something small moves forward each week,\" a concrete monthly deliverable \u2014 while Card 2's demand (\"do not go silent on me\") is genuine but softer and less enforceable."
+    },
+    "judge_raw": "PICK: 1\n\nSPEAKABILITY: Both are sayable, but Card 1's \"one concrete thing, chosen by you, that moves you even a little bit forward before the end of this month\" is more naturally spoken than Card 2's slightly essayistic \"what would have to be true for you to feel like your life is actually yours.\"\n\nSPECIFICITY: Card 1's diagnosis nails the exact mechanism (exiting the question before having to answer it) and the identity layer of \"signing a contract in someone else's name,\" while Card 2 is real but leans on more generic \"test he hasn't studied for\" framing.\n\nTIGHTNESS: Card 1 packs more distinct ideas per line and its \"Hold Firm / Stay Flexible\" split is sharper, whereas Card 2 repeats the \"stay in the conversation\" ask across multiple sections with some padding.\n\nHONESTY: Card 1 keeps the harder edge \u2014 \"silence is not a plan,\" \"something small moves forward each week,\" a concrete monthly deliverable \u2014 while Card 2's demand (\"do not go silent on me\") is genuine but softer and less enforceable."
+  },
+  {
+    "sit_id": "s10",
+    "mode": "teaching",
+    "situation": "A student who clearly studied did poorly and is convinced they are just bad at this subject.",
+    "n": 1,
+    "a_is_card1": false,
+    "pick": "2",
+    "winner_arm": "A",
+    "dims": {
+      "SPEAKABILITY": "Card 2's lines are tighter and more natural \u2014 \"I saw you working. That was real\" and \"Not whether you did it, I know you did\" sound like actual speech, while Card 1's \"A brain that studied and came up short is a brain that is still building the skill\" is a mouthful no one would say aloud.",
+      "SPECIFICITY": "Both diagnose the same fixed-ability trap, but Card 2's status read \u2014 \"being seen as someone who tried and still could not do it stings more than someone who simply did not bother\" \u2014 cuts closer to why this student specifically retreats.",
+      "TIGHTNESS": "Card 2 carries less redundancy, whereas Card 1 repeats its \"strategy not ceiling\" point across nearly every section and pads the commitment line with meta-commentary about enjoying hardship.",
+      "HONESTY": "Card 2 names the harder truth more squarely \u2014 \"effort without strategy change is not enough\" \u2014 refusing the comfort that more of the same effort will fix it, while Card 1 leans slightly more on reassurance."
+    },
+    "judge_raw": "PICK: 2\n\nSPEAKABILITY: Card 2's lines are tighter and more natural \u2014 \"I saw you working. That was real\" and \"Not whether you did it, I know you did\" sound like actual speech, while Card 1's \"A brain that studied and came up short is a brain that is still building the skill\" is a mouthful no one would say aloud.\n\nSPECIFICITY: Both diagnose the same fixed-ability trap, but Card 2's status read \u2014 \"being seen as someone who tried and still could not do it stings more than someone who simply did not bother\" \u2014 cuts closer to why this student specifically retreats.\n\nTIGHTNESS: Card 2 carries less redundancy, whereas Card 1 repeats its \"strategy not ceiling\" point across nearly every section and pads the commitment line with meta-commentary about enjoying hardship.\n\nHONESTY: Card 2 names the harder truth more squarely \u2014 \"effort without strategy change is not enough\" \u2014 refusing the comfort that more of the same effort will fix it, while Card 1 leans slightly more on reassurance."
+  },
+  {
+    "sit_id": "s10",
+    "mode": "teaching",
+    "situation": "A student who clearly studied did poorly and is convinced they are just bad at this subject.",
+    "n": 2,
+    "a_is_card1": true,
+    "pick": "2",
+    "winner_arm": "B",
+    "dims": {
+      "SPEAKABILITY": "Card 2's lines (\"where things got slippery,\" \"what part felt shakiest\") sound like actual spoken speech, while Card 1's \"I mean that as a compliment\" and \"the harder half\" edge toward polished monologue.",
+      "SPECIFICITY": "Card 2 digs one layer deeper by asking which part of the material felt shakiest during the test, turning diagnosis into a concrete next step rather than a general strategy-vs-ability frame.",
+      "TIGHTNESS": "Both are dense, but Card 1's Commitment section adds an extra \"brain gets better at hard things\" flourish that repeats its point, while Card 2 stays leaner.",
+      "HONESTY": "Both hold the standard and name the \"safer to be bad than to have tried and failed\" wound, but Card 2's \"I am holding you to actually understanding this, not just moving past it\" states the uncomfortable expectation most plainly."
+    },
+    "judge_raw": "PICK: 2\nSPEAKABILITY: Card 2's lines (\"where things got slippery,\" \"what part felt shakiest\") sound like actual spoken speech, while Card 1's \"I mean that as a compliment\" and \"the harder half\" edge toward polished monologue.\nSPECIFICITY: Card 2 digs one layer deeper by asking which part of the material felt shakiest during the test, turning diagnosis into a concrete next step rather than a general strategy-vs-ability frame.\nTIGHTNESS: Both are dense, but Card 1's Commitment section adds an extra \"brain gets better at hard things\" flourish that repeats its point, while Card 2 stays leaner.\nHONESTY: Both hold the standard and name the \"safer to be bad than to have tried and failed\" wound, but Card 2's \"I am holding you to actually understanding this, not just moving past it\" states the uncomfortable expectation most plainly."
+  },
+  {
+    "sit_id": "s10",
+    "mode": "teaching",
+    "situation": "A student who clearly studied did poorly and is convinced they are just bad at this subject.",
+    "n": 3,
+    "a_is_card1": true,
+    "pick": "2",
+    "winner_arm": "B",
+    "dims": {
+      "SPEAKABILITY": "Card 2's lines flow more naturally out loud, especially \"that is a solvable problem \u2014 it is not a you problem,\" whereas Card 1's \"Your brain was working hard, just on the wrong version of the task\" is slightly more clinical.",
+      "SPECIFICITY": "Both diagnose the fixed-ability story well, but Card 2's curiosity question (\"which parts felt shaky and which parts felt solid\") targets the breakdown more precisely than Card 1's more open-ended \"walk me through it.\"",
+      "TIGHTNESS": "Card 2 is tighter overall, though its Commitment line runs long with the \"struggling means your brain is working\" addition; Card 1's script is lean but its analysis sections repeat the same insight more than needed.",
+      "HONESTY": "Both hold the standard firmly, but Card 2 names the uncomfortable thing more sharply (\"the one thing you cannot quietly agree with\") while explicitly requiring redone work, edging out Card 1."
+    },
+    "judge_raw": "PICK: 2\n\nSPEAKABILITY: Card 2's lines flow more naturally out loud, especially \"that is a solvable problem \u2014 it is not a you problem,\" whereas Card 1's \"Your brain was working hard, just on the wrong version of the task\" is slightly more clinical.\n\nSPECIFICITY: Both diagnose the fixed-ability story well, but Card 2's curiosity question (\"which parts felt shaky and which parts felt solid\") targets the breakdown more precisely than Card 1's more open-ended \"walk me through it.\"\n\nTIGHTNESS: Card 2 is tighter overall, though its Commitment line runs long with the \"struggling means your brain is working\" addition; Card 1's script is lean but its analysis sections repeat the same insight more than needed.\n\nHONESTY: Both hold the standard firmly, but Card 2 names the uncomfortable thing more sharply (\"the one thing you cannot quietly agree with\") while explicitly requiring redone work, edging out Card 1."
+  }
+]

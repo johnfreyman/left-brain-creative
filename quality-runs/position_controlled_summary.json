@@ -1,0 +1,254 @@
+{
+  "flipped_pass_position_bias": {
+    "card1": 9,
+    "card2": 21
+  },
+  "agree_a": 13,
+  "agree_b": 2,
+  "agree_tie": 0,
+  "disagree": 15,
+  "robust_a_win_pct": 86.66666666666667,
+  "ambiguous_fraction": 0.5,
+  "combined": [
+    {
+      "sit_id": "s1",
+      "n": 1,
+      "mode": "teaching",
+      "robust_winner": "AMBIGUOUS",
+      "orig": "A",
+      "flipped": "B"
+    },
+    {
+      "sit_id": "s1",
+      "n": 2,
+      "mode": "teaching",
+      "robust_winner": "B",
+      "orig": "B",
+      "flipped": "B"
+    },
+    {
+      "sit_id": "s1",
+      "n": 3,
+      "mode": "teaching",
+      "robust_winner": "A",
+      "orig": "A",
+      "flipped": "A"
+    },
+    {
+      "sit_id": "s2",
+      "n": 1,
+      "mode": "teaching",
+      "robust_winner": "A",
+      "orig": "A",
+      "flipped": "A"
+    },
+    {
+      "sit_id": "s2",
+      "n": 2,
+      "mode": "teaching",
+      "robust_winner": "A",
+      "orig": "A",
+      "flipped": "A"
+    },
+    {
+      "sit_id": "s2",
+      "n": 3,
+      "mode": "teaching",
+      "robust_winner": "AMBIGUOUS",
+      "orig": "B",
+      "flipped": "A"
+    },
+    {
+      "sit_id": "s3",
+      "n": 1,
+      "mode": "parenting",
+      "robust_winner": "AMBIGUOUS",
+      "orig": "A",
+      "flipped": "B"
+    },
+    {
+      "sit_id": "s3",
+      "n": 2,
+      "mode": "parenting",
+      "robust_winner": "AMBIGUOUS",
+      "orig": "B",
+      "flipped": "A"
+    },
+    {
+      "sit_id": "s3",
+      "n": 3,
+      "mode": "parenting",
+      "robust_winner": "A",
+      "orig": "A",
+      "flipped": "A"
+    },
+    {
+      "sit_id": "s4",
+      "n": 1,
+      "mode": "parenting",
+      "robust_winner": "AMBIGUOUS",
+      "orig": "A",
+      "flipped": "B"
+    },
+    {
+      "sit_id": "s4",
+      "n": 2,
+      "mode": "parenting",
+      "robust_winner": "AMBIGUOUS",
+      "orig": "B",
+      "flipped": "A"
+    },
+    {
+      "sit_id": "s4",
+      "n": 3,
+      "mode": "parenting",
+      "robust_winner": "AMBIGUOUS",
+      "orig": "A",
+      "flipped": "B"
+    },
+    {
+      "sit_id": "s5",
+      "n": 1,
+      "mode": "managing",
+      "robust_winner": "A",
+      "orig": "A",
+      "flipped": "A"
+    },
+    {
+      "sit_id": "s5",
+      "n": 2,
+      "mode": "managing",
+      "robust_winner": "A",
+      "orig": "A",
+      "flipped": "A"
+    },
+    {
+      "sit_id": "s5",
+      "n": 3,
+      "mode": "managing",
+      "robust_winner": "AMBIGUOUS",
+      "orig": "B",
+      "flipped": "A"
+    },
+    {
+      "sit_id": "s6",
+      "n": 1,
+      "mode": "managing",
+      "robust_winner": "A",
+      "orig": "A",
+      "flipped": "A"
+    },
+    {
+      "sit_id": "s6",
+      "n": 2,
+      "mode": "managing",
+      "robust_winner": "A",
+      "orig": "A",
+      "flipped": "A"
+    },
+    {
+      "sit_id": "s6",
+      "n": 3,
+      "mode": "managing",
+      "robust_winner": "AMBIGUOUS",
+      "orig": "A",
+      "flipped": "B"
+    },
+    {
+      "sit_id": "s7",
+      "n": 1,
+      "mode": "coaching",
+      "robust_winner": "A",
+      "orig": "A",
+      "flipped": "A"
+    },
+    {
+      "sit_id": "s7",
+      "n": 2,
+      "mode": "coaching",
+      "robust_winner": "B",
+      "orig": "B",
+      "flipped": "B"
+    },
+    {
+      "sit_id": "s7",
+      "n": 3,
+      "mode": "coaching",
+      "robust_winner": "AMBIGUOUS",
+      "orig": "B",
+      "flipped": "A"
+    },
+    {
+      "sit_id": "s8",
+      "n": 1,
+      "mode": "coaching",
+      "robust_winner": "A",
+      "orig": "A",
+      "flipped": "A"
+    },
+    {
+      "sit_id": "s8",
+      "n": 2,
+      "mode": "coaching",
+      "robust_winner": "A",
+      "orig": "A",
+      "flipped": "A"
+    },
+    {
+      "sit_id": "s8",
+      "n": 3,
+      "mode": "coaching",
+      "robust_winner": "AMBIGUOUS",
+      "orig": "A",
+      "flipped": "B"
+    },
+    {
+      "sit_id": "s9",
+      "n": 1,
+      "mode": "parenting",
+      "robust_winner": "A",
+      "orig": "A",
+      "flipped": "A"
+    },
+    {
+      "sit_id": "s9",
+      "n": 2,
+      "mode": "parenting",
+      "robust_winner": "AMBIGUOUS",
+      "orig": "A",
+      "flipped": "B"
+    },
+    {
+      "sit_id": "s9",
+      "n": 3,
+      "mode": "parenting",
+      "robust_winner": "A",
+      "orig": "A",
+      "flipped": "A"
+    },
+    {
+      "sit_id": "s10",
+      "n": 1,
+      "mode": "teaching",
+      "robust_winner": "AMBIGUOUS",
+      "orig": "A",
+      "flipped": "B"
+    },
+    {
+      "sit_id": "s10",
+      "n": 2,
+      "mode": "teaching",
+      "robust_winner": "AMBIGUOUS",
+      "orig": "B",
+      "flipped": "A"
+    },
+    {
+      "sit_id": "s10",
+      "n": 3,
+      "mode": "teaching",
+      "robust_winner": "AMBIGUOUS",
+      "orig": "B",
+      "flipped": "A"
+    }
+  ]
+}

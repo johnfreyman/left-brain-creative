@@ -1,0 +1,16 @@
+{
+  "sit_id": "s2",
+  "mode": "teaching",
+  "situation": "Half the class did the reading and half clearly did not, and the half that did is getting visibly annoyed at carrying discussions.",
+  "n": 2,
+  "a_is_card1": false,
+  "pick": "2",
+  "winner_arm": "A",
+  "dims": {
+    "SPEAKABILITY": "Card 2's lines are more natural and concrete (\"came in loaded and ready,\" \"run on half the fuel\"), while Card 1's Collaboration beat runs long and philosophical in a way that would sound rehearsed aloud.",
+    "SPECIFICITY": "Card 2 diagnoses the exact mechanism \u2014 that avoidance pays off precisely when the gap is visible and the readers' visible frustration blocks re-entry without losing face \u2014 whereas Card 1 stays a notch more abstract about resentment and status.",
+    "TIGHTNESS": "Card 2 gives a concrete, executable pair-talk with assigned roles rather than an open-ended \"what would help?\" ask, and wastes fewer words on framing.",
+    "HONESTY": "Both hold the standard, but Card 2 keeps the discomfort in view (\"both groups know which they are,\" a cost \"you can feel in the room\") while still delivering an actual foothold, rather than resolving into the warmer group-belonging language Card 1 leans on."
+  },
+  "judge_raw": "PICK: 2\n\nSPEAKABILITY: Card 2's lines are more natural and concrete (\"came in loaded and ready,\" \"run on half the fuel\"), while Card 1's Collaboration beat runs long and philosophical in a way that would sound rehearsed aloud.\n\nSPECIFICITY: Card 2 diagnoses the exact mechanism \u2014 that avoidance pays off precisely when the gap is visible and the readers' visible frustration blocks re-entry without losing face \u2014 whereas Card 1 stays a notch more abstract about resentment and status.\n\nTIGHTNESS: Card 2 gives a concrete, executable pair-talk with assigned roles rather than an open-ended \"what would help?\" ask, and wastes fewer words on framing.\n\nHONESTY: Both hold the standard, but Card 2 keeps the discomfort in view (\"both groups know which they are,\" a cost \"you can feel in the room\") while still delivering an actual foothold, rather than resolving into the warmer group-belonging language Card 1 leans on."
+}

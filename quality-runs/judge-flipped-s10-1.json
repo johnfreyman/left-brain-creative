@@ -1,0 +1,17 @@
+{
+  "sit_id": "s10",
+  "mode": "teaching",
+  "situation": "A student who clearly studied did poorly and is convinced they are just bad at this subject.",
+  "n": 1,
+  "a_is_card1": true,
+  "pick": "2",
+  "winner_arm": "B",
+  "dims": {
+    "SPEAKABILITY": "Card 2's lines sound more natural out loud (\"Hey \u2014 I saw you on this,\" \"the method and the test were not speaking the same language yet\"), while Card 1's \"Your brain is not the ceiling here\" and \"one result is not the end of the story\" edge toward speechifying.",
+    "SPECIFICITY": "Card 2 adds the concrete move of looking at two or three actual questions together to locate where the gap opened, which grounds it in this exact studied-but-failed situation more than Card 1's mostly abstract framing.",
+    "TIGHTNESS": "Card 1 repeats its core reframe (\"fixable problem... completely different from being bad at something... we just have not found the method\") in slightly padded triplets, whereas Card 2 lands the same idea more economically.",
+    "HONESTY": "Both keep the standard and name the self-protective story, but Card 2's Commitment (\"not because I enjoy it when things are hard\") and its long-game instruction to point out gains explicitly hold the hard part with a touch more candor."
+  },
+  "judge_raw": "PICK: 2\n\nSPEAKABILITY: Card 2's lines sound more natural out loud (\"Hey \u2014 I saw you on this,\" \"the method and the test were not speaking the same language yet\"), while Card 1's \"Your brain is not the ceiling here\" and \"one result is not the end of the story\" edge toward speechifying.\n\nSPECIFICITY: Card 2 adds the concrete move of looking at two or three actual questions together to locate where the gap opened, which grounds it in this exact studied-but-failed situation more than Card 1's mostly abstract framing.\n\nTIGHTNESS: Card 1 repeats its core reframe (\"fixable problem... completely different from being bad at something... we just have not found the method\") in slightly padded triplets, whereas Card 2 lands the same idea more economically.\n\nHONESTY: Both keep the standard and name the self-protective story, but Card 2's Commitment (\"not because I enjoy it when things are hard\") and its long-game instruction to point out gains explicitly hold the hard part with a touch more candor.",
+  "original_winner_arm": "A"
+}

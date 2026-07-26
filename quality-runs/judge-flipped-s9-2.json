@@ -1,0 +1,17 @@
+{
+  "sit_id": "s9",
+  "mode": "parenting",
+  "situation": "My almost-18-year-old shuts down every time college or life after graduation comes up.",
+  "n": 2,
+  "a_is_card1": true,
+  "pick": "2",
+  "winner_arm": "B",
+  "dims": {
+    "SPEAKABILITY": "Card 2's lines flow more naturally as spoken speech (\"I'd rather have you than be right about what your life should look like\"), while Card 1's Commitment section stacks several abstract claims (\"your brain is doing exactly what brains do\") that would be hard to deliver without sounding rehearsed.",
+    "SPECIFICITY": "Both diagnose the same identity-under-uncertainty dynamic well, but Card 2's Curiosity line offers concrete, distinguishable hypotheses (\"don't know yet\" vs. \"supposed to know and don't\") that engage this exact shutdown rather than describing overwhelm generically.",
+    "TIGHTNESS": "Card 1's Commitment paragraph pads with reassurance (\"ready, not broken\"), whereas Card 2 keeps each beat leaner and more load-bearing.",
+    "HONESTY": "Both hold the standard that the conversation isn't optional, but Card 2 names the harder truth more cleanly \u2014 \"I need you to stay in the conversation with me, even when it's uncomfortable\" \u2014 without dissolving into comfort."
+  },
+  "judge_raw": "PICK: 2\n\nSPEAKABILITY: Card 2's lines flow more naturally as spoken speech (\"I'd rather have you than be right about what your life should look like\"), while Card 1's Commitment section stacks several abstract claims (\"your brain is doing exactly what brains do\") that would be hard to deliver without sounding rehearsed.\n\nSPECIFICITY: Both diagnose the same identity-under-uncertainty dynamic well, but Card 2's Curiosity line offers concrete, distinguishable hypotheses (\"don't know yet\" vs. \"supposed to know and don't\") that engage this exact shutdown rather than describing overwhelm generically.\n\nTIGHTNESS: Card 1's Commitment paragraph pads with reassurance (\"ready, not broken\"), whereas Card 2 keeps each beat leaner and more load-bearing.\n\nHONESTY: Both hold the standard that the conversation isn't optional, but Card 2 names the harder truth more cleanly \u2014 \"I need you to stay in the conversation with me, even when it's uncomfortable\" \u2014 without dissolving into comfort.",
+  "original_winner_arm": "A"
+}

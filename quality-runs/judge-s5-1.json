@@ -1,0 +1,16 @@
+{
+  "sit_id": "s5",
+  "mode": "managing",
+  "situation": "A junior shipped something with a mistake a customer caught, and now they are triple-checking everything and velocity has cratered.",
+  "n": 1,
+  "a_is_card1": true,
+  "pick": "1",
+  "winner_arm": "A",
+  "dims": {
+    "SPEAKABILITY": "Both are natural, but Card 1's lines flow more like real speech, whereas Card 2's \"one pass with a solid system catches more than three anxious passes\" edges toward a rehearsed aphorism.",
+    "SPECIFICITY": "Card 1's diagnosis cuts deeper into this exact dynamic \u2014 the mistake being \"visible in exactly the worst direction\" and the triple-checking as evidence-avoidance \u2014 while Card 2's checklist framing, though solid, is a more transferable productivity move.",
+    "TIGHTNESS": "Card 1 keeps nearly every sentence load-bearing, while Card 2 repeats the \"one moment, not a verdict\" reassurance in ways that slightly dilute its punch.",
+    "HONESTY": "Card 1 names the harder truth \u2014 that avoidance builds nothing and reassurance won't fix it, refusing to become an approval layer \u2014 whereas Card 2 partly resolves the tension into a comfortable process fix."
+  },
+  "judge_raw": "PICK: 1\n\nSPEAKABILITY: Both are natural, but Card 1's lines flow more like real speech, whereas Card 2's \"one pass with a solid system catches more than three anxious passes\" edges toward a rehearsed aphorism.\n\nSPECIFICITY: Card 1's diagnosis cuts deeper into this exact dynamic \u2014 the mistake being \"visible in exactly the worst direction\" and the triple-checking as evidence-avoidance \u2014 while Card 2's checklist framing, though solid, is a more transferable productivity move.\n\nTIGHTNESS: Card 1 keeps nearly every sentence load-bearing, while Card 2 repeats the \"one moment, not a verdict\" reassurance in ways that slightly dilute its punch.\n\nHONESTY: Card 1 names the harder truth \u2014 that avoidance builds nothing and reassurance won't fix it, refusing to become an approval layer \u2014 whereas Card 2 partly resolves the tension into a comfortable process fix."
+}

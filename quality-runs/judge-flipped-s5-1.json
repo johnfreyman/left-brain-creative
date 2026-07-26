@@ -1,0 +1,17 @@
+{
+  "sit_id": "s5",
+  "mode": "managing",
+  "situation": "A junior shipped something with a mistake a customer caught, and now they are triple-checking everything and velocity has cratered.",
+  "n": 1,
+  "a_is_card1": false,
+  "pick": "2",
+  "winner_arm": "A",
+  "dims": {
+    "SPEAKABILITY": "Card 2's lines flow more naturally as spoken language, especially the direct question about not trusting yourself, whereas Card 1's checklist pitch (\"One pass with a solid system catches more than three anxious passes\") reads slightly more like a rehearsed aphorism.",
+    "SPECIFICITY": "Both engage the triple-checking dynamic, but Card 2's diagnosis distinguishes \"genuinely missing something\" from \"not trusting yourself to know when it is good enough\" \u2014 a sharper cut into this exact anxiety than Card 1's checklist framing, which could apply to any quality problem.",
+    "TIGHTNESS": "Card 1 spends more words building and justifying the checklist mechanism, while Card 2 keeps each beat lean and moves quickly from diagnosis to the single bounded task.",
+    "HONESTY": "Card 2 holds the harder line by refusing to become an extra approval layer and putting the judgment back on them, which is more uncomfortable and more honest than Card 1's collaboratively-built safety net that partly cushions the person from owning the call."
+  },
+  "judge_raw": "PICK: 2\n\nSPEAKABILITY: Card 2's lines flow more naturally as spoken language, especially the direct question about not trusting yourself, whereas Card 1's checklist pitch (\"One pass with a solid system catches more than three anxious passes\") reads slightly more like a rehearsed aphorism.\n\nSPECIFICITY: Both engage the triple-checking dynamic, but Card 2's diagnosis distinguishes \"genuinely missing something\" from \"not trusting yourself to know when it is good enough\" \u2014 a sharper cut into this exact anxiety than Card 1's checklist framing, which could apply to any quality problem.\n\nTIGHTNESS: Card 1 spends more words building and justifying the checklist mechanism, while Card 2 keeps each beat lean and moves quickly from diagnosis to the single bounded task.\n\nHONESTY: Card 2 holds the harder line by refusing to become an extra approval layer and putting the judgment back on them, which is more uncomfortable and more honest than Card 1's collaboratively-built safety net that partly cushions the person from owning the call.",
+  "original_winner_arm": "A"
+}

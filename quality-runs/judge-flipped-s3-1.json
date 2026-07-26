@@ -1,0 +1,17 @@
+{
+  "sit_id": "s3",
+  "mode": "parenting",
+  "situation": "My kid announced at dinner they are done with church and are not going anymore.",
+  "n": 1,
+  "a_is_card1": false,
+  "pick": "1",
+  "winner_arm": "B",
+  "dims": {
+    "SPEAKABILITY": "Both are natural, but Card 1's lines flow more like real speech, whereas Card 2's \"we are not a family where people opt out of shared life by announcing it at dinner\" is a mouthful that would be hard to land without sounding rehearsed.",
+    "SPECIFICITY": "Card 1 diagnoses the dinner-table announcement as a public bid to be taken seriously and distinguishes the autonomy piece cleanly, while Card 2 leans harder on the \"announcing at dinner\" tell but partly conflates it with a rule about not opting out, which muddies the read.",
+    "TIGHTNESS": "Card 1 is slightly leaner and each script beat advances the arc, whereas Card 2 repeats the \"not shutting you down / worth a real conversation\" idea in ways that pad the collaboration and commitment sections.",
+    "HONESTY": "Card 1 names the uncomfortable standard most clearly (\"you do not get to just tap out on something this important without really sitting with it\") while still holding warmth, whereas Card 2's hard part drifts toward policing the delivery method rather than the deeper expectation to genuinely wrestle."
+  },
+  "judge_raw": "PICK: 1\n\nSPEAKABILITY: Both are natural, but Card 1's lines flow more like real speech, whereas Card 2's \"we are not a family where people opt out of shared life by announcing it at dinner\" is a mouthful that would be hard to land without sounding rehearsed.\n\nSPECIFICITY: Card 1 diagnoses the dinner-table announcement as a public bid to be taken seriously and distinguishes the autonomy piece cleanly, while Card 2 leans harder on the \"announcing at dinner\" tell but partly conflates it with a rule about not opting out, which muddies the read.\n\nTIGHTNESS: Card 1 is slightly leaner and each script beat advances the arc, whereas Card 2 repeats the \"not shutting you down / worth a real conversation\" idea in ways that pad the collaboration and commitment sections.\n\nHONESTY: Card 1 names the uncomfortable standard most clearly (\"you do not get to just tap out on something this important without really sitting with it\") while still holding warmth, whereas Card 2's hard part drifts toward policing the delivery method rather than the deeper expectation to genuinely wrestle.",
+  "original_winner_arm": "A"
+}

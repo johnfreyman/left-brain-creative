@@ -1,0 +1,17 @@
+{
+  "sit_id": "s1",
+  "mode": "teaching",
+  "situation": "A student handed in work far better than anything they have produced before, and I genuinely cannot tell if it is a breakthrough or if someone else did it.",
+  "n": 2,
+  "a_is_card1": true,
+  "pick": "2",
+  "winner_arm": "B",
+  "dims": {
+    "SPEAKABILITY": "Card 2's lines sound more like a real person talking, especially \"I am not pulling you aside because something is wrong\" and \"I am genuinely asking, not quizzing you,\" which preempt the exact suspicion the student would feel, whereas Card 1's phrasing is smoother but slightly more polished-teacher.",
+    "SPECIFICITY": "Both diagnose the same dilemma, but Card 2's read tracks the two branches (theirs vs. not) more concretely into what the student needs in each case, while Card 1 stays a notch more abstract about the \"central question.\"",
+    "TIGHTNESS": "Card 1 is marginally leaner, but Card 2's extra lines mostly do work (naming the \"crime scene\" fear, offering \"what support would help\"), so the padding cost is low.",
+    "HONESTY": "Card 2 states the standard more plainly and, crucially, names the uncomfortable truth-telling door (\"tell the truth without being humiliated\") that Card 1 gestures at but never quite says out loud."
+  },
+  "judge_raw": "PICK: 2\n\nSPEAKABILITY: Card 2's lines sound more like a real person talking, especially \"I am not pulling you aside because something is wrong\" and \"I am genuinely asking, not quizzing you,\" which preempt the exact suspicion the student would feel, whereas Card 1's phrasing is smoother but slightly more polished-teacher.\n\nSPECIFICITY: Both diagnose the same dilemma, but Card 2's read tracks the two branches (theirs vs. not) more concretely into what the student needs in each case, while Card 1 stays a notch more abstract about the \"central question.\"\n\nTIGHTNESS: Card 1 is marginally leaner, but Card 2's extra lines mostly do work (naming the \"crime scene\" fear, offering \"what support would help\"), so the padding cost is low.\n\nHONESTY: Card 2 states the standard more plainly and, crucially, names the uncomfortable truth-telling door (\"tell the truth without being humiliated\") that Card 1 gestures at but never quite says out loud.",
+  "original_winner_arm": "B"
+}

@@ -1,0 +1,16 @@
+{
+  "sit_id": "s2",
+  "mode": "teaching",
+  "situation": "Half the class did the reading and half clearly did not, and the half that did is getting visibly annoyed at carrying discussions.",
+  "n": 3,
+  "a_is_card1": true,
+  "pick": "2",
+  "winner_arm": "B",
+  "dims": {
+    "SPEAKABILITY": "Card 2's lines (\"some of you came in loaded and ready, and some of you are waiting to see where things go,\" \"hold that knowledge for sixty more seconds\") sound more like natural teacher speech, while Card 1's curiosity line runs long and pivots into an abstract \"performance for an audience\" explanation that would be hard to deliver smoothly.",
+    "SPECIFICITY": "Both diagnose the same split accurately, but Card 2's concrete on-ramp mechanics (skim one page, jot one real question, prepared kids hold for sixty seconds) engage the exact classroom logistics slightly more crisply than Card 1's parallel-but-wordier framing.",
+    "TIGHTNESS": "Card 1 pads its curiosity beat with a mini-lecture on why performance is bad, whereas Card 2 keeps each move leaner and moves faster to the action.",
+    "HONESTY": "Both keep the standard and name the imbalance without shaming, but Card 2's \"when half the room is carrying the other half, we're leaving a lot of thinking on the table\" names the uncomfortable thing plainly without softening into praise-heavy reassurance."
+  },
+  "judge_raw": "PICK: 2\n\nSPEAKABILITY: Card 2's lines (\"some of you came in loaded and ready, and some of you are waiting to see where things go,\" \"hold that knowledge for sixty more seconds\") sound more like natural teacher speech, while Card 1's curiosity line runs long and pivots into an abstract \"performance for an audience\" explanation that would be hard to deliver smoothly.\n\nSPECIFICITY: Both diagnose the same split accurately, but Card 2's concrete on-ramp mechanics (skim one page, jot one real question, prepared kids hold for sixty seconds) engage the exact classroom logistics slightly more crisply than Card 1's parallel-but-wordier framing.\n\nTIGHTNESS: Card 1 pads its curiosity beat with a mini-lecture on why performance is bad, whereas Card 2 keeps each move leaner and moves faster to the action.\n\nHONESTY: Both keep the standard and name the imbalance without shaming, but Card 2's \"when half the room is carrying the other half, we're leaving a lot of thinking on the table\" names the uncomfortable thing plainly without softening into praise-heavy reassurance."
+}

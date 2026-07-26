@@ -1,0 +1,17 @@
+{
+  "sit_id": "s2",
+  "mode": "teaching",
+  "situation": "Half the class did the reading and half clearly did not, and the half that did is getting visibly annoyed at carrying discussions.",
+  "n": 1,
+  "a_is_card1": true,
+  "pick": "1",
+  "winner_arm": "A",
+  "dims": {
+    "SPEAKABILITY": "Card 1's lines flow more naturally out loud (\"I do not want half the room to stop trying because they feel too far behind\"), while Card 2 leans on slightly stiffer connective phrasing like \"I want to be straight with you about what I am seeing, because I think you can handle that.\"",
+    "SPECIFICITY": "Both engage the exact split-class dynamic, but Card 2's \"flip to page \u2014\" placeholder and skim instruction actually presume the unprepared can catch up in two minutes, which is a touch more concrete, though Card 1's diagnosis of humiliation-avoidance is equally sharp.",
+    "TIGHTNESS": "Card 1 is leaner throughout; Card 2 repeats its \"I am not going to pretend it is not there\" / \"I want to be clear\" framing and carries more redundant scaffolding in both the moves and the script.",
+    "HONESTY": "Both name the uncomfortable gap and hold the bar, but Card 1 keeps the reframe cleaner (\"preparation is what gets you into the conversation, not what saves you from embarrassment\") without Card 2's slight risk of publicly spotlighting the unprepared by openly announcing the divide."
+  },
+  "judge_raw": "PICK: 1\n\nSPEAKABILITY: Card 1's lines flow more naturally out loud (\"I do not want half the room to stop trying because they feel too far behind\"), while Card 2 leans on slightly stiffer connective phrasing like \"I want to be straight with you about what I am seeing, because I think you can handle that.\"\n\nSPECIFICITY: Both engage the exact split-class dynamic, but Card 2's \"flip to page \u2014\" placeholder and skim instruction actually presume the unprepared can catch up in two minutes, which is a touch more concrete, though Card 1's diagnosis of humiliation-avoidance is equally sharp.\n\nTIGHTNESS: Card 1 is leaner throughout; Card 2 repeats its \"I am not going to pretend it is not there\" / \"I want to be clear\" framing and carries more redundant scaffolding in both the moves and the script.\n\nHONESTY: Both name the uncomfortable gap and hold the bar, but Card 1 keeps the reframe cleaner (\"preparation is what gets you into the conversation, not what saves you from embarrassment\") without Card 2's slight risk of publicly spotlighting the unprepared by openly announcing the divide.",
+  "original_winner_arm": "A"
+}

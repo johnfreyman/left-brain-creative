@@ -1,0 +1,16 @@
+{
+  "sit_id": "s9",
+  "mode": "parenting",
+  "situation": "My almost-18-year-old shuts down every time college or life after graduation comes up.",
+  "n": 2,
+  "a_is_card1": false,
+  "pick": "2",
+  "winner_arm": "A",
+  "dims": {
+    "SPEAKABILITY": "Card 2's lines sound more like natural speech (\"I remember being almost 18 and the future feeling like a wall I had no idea how to get over\"), while Card 1's Collaboration line (\"What if we just agreed that not knowing is the starting point, not the problem?\") edges toward the abstract and coached.",
+    "SPECIFICITY": "Both diagnose the same identity-under-competence dynamic well, but Card 2's move to concretely pivot to \"what makes an hour disappear when you are in it\" is more actionable and situation-specific than Card 1's stay-in-the-conversation framing.",
+    "TIGHTNESS": "Card 1 repeats its \"not a verdict / not a lecture / stay in the conversation\" beat several times, whereas Card 2 keeps each beat doing distinct work with less thematic overlap.",
+    "HONESTY": "Card 2 holds the harder line by naming the real timeline (\"the timeline is real and I am not going to let it sneak up on you\") without collapsing into reassurance, while Card 1 leans more on warmth and repeated softening."
+  },
+  "judge_raw": "PICK: 2\n\nSPEAKABILITY: Card 2's lines sound more like natural speech (\"I remember being almost 18 and the future feeling like a wall I had no idea how to get over\"), while Card 1's Collaboration line (\"What if we just agreed that not knowing is the starting point, not the problem?\") edges toward the abstract and coached.\n\nSPECIFICITY: Both diagnose the same identity-under-competence dynamic well, but Card 2's move to concretely pivot to \"what makes an hour disappear when you are in it\" is more actionable and situation-specific than Card 1's stay-in-the-conversation framing.\n\nTIGHTNESS: Card 1 repeats its \"not a verdict / not a lecture / stay in the conversation\" beat several times, whereas Card 2 keeps each beat doing distinct work with less thematic overlap.\n\nHONESTY: Card 2 holds the harder line by naming the real timeline (\"the timeline is real and I am not going to let it sneak up on you\") without collapsing into reassurance, while Card 1 leans more on warmth and repeated softening."
+}

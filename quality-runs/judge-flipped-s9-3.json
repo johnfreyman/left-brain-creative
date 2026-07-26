@@ -1,0 +1,17 @@
+{
+  "sit_id": "s9",
+  "mode": "parenting",
+  "situation": "My almost-18-year-old shuts down every time college or life after graduation comes up.",
+  "n": 3,
+  "a_is_card1": false,
+  "pick": "2",
+  "winner_arm": "A",
+  "dims": {
+    "SPEAKABILITY": "Card 2's lines are shorter and land more naturally out loud, especially \"I think I have been making this feel like a test you are about to fail,\" whereas Card 1's Commitment paragraph runs long enough to feel recited.",
+    "SPECIFICITY": "Card 2 pinpoints the exact mechanism (\"signing a contract in someone else's name,\" exit before finding out) and asks for one concrete step this month, while Card 1's \"what would make your life feel worth it\" is powerful but drifts toward a broader existential prompt.",
+    "TIGHTNESS": "Card 2 keeps each beat lean and forward-moving, while Card 1's Commitment section repeats the \"high standards / not pressure / capable\" idea two or three times before landing.",
+    "HONESTY": "Both hold the standard, but Card 2 names the discomfort more concretely by demanding a chosen next step and admitting the parent's own interrogation pattern, rather than resting on \"do not go silent on me.\""
+  },
+  "judge_raw": "PICK: 2\n\nSPEAKABILITY: Card 2's lines are shorter and land more naturally out loud, especially \"I think I have been making this feel like a test you are about to fail,\" whereas Card 1's Commitment paragraph runs long enough to feel recited.\n\nSPECIFICITY: Card 2 pinpoints the exact mechanism (\"signing a contract in someone else's name,\" exit before finding out) and asks for one concrete step this month, while Card 1's \"what would make your life feel worth it\" is powerful but drifts toward a broader existential prompt.\n\nTIGHTNESS: Card 2 keeps each beat lean and forward-moving, while Card 1's Commitment section repeats the \"high standards / not pressure / capable\" idea two or three times before landing.\n\nHONESTY: Both hold the standard, but Card 2 names the discomfort more concretely by demanding a chosen next step and admitting the parent's own interrogation pattern, rather than resting on \"do not go silent on me.\"",
+  "original_winner_arm": "A"
+}

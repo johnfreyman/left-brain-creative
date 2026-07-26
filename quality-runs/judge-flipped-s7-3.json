@@ -1,0 +1,17 @@
+{
+  "sit_id": "s7",
+  "mode": "coaching",
+  "situation": "A player's parent emailed me arguing their kid should be starting, and the kid clearly knows about the email.",
+  "n": 3,
+  "a_is_card1": false,
+  "pick": "2",
+  "winner_arm": "A",
+  "dims": {
+    "SPEAKABILITY": "Card 2's lines are tighter and more natural (\"This is about you and me,\" \"what happened in my inbox\"), while Card 1's Collaboration beat runs long enough to feel like a monologue rather than a real exchange.",
+    "SPECIFICITY": "Both diagnose the status wound well, but Card 2's \"borrows standing that is not theirs to keep\" sharpens the exact dynamic of parent-routed advocacy more precisely than Card 1's framing.",
+    "TIGHTNESS": "Card 1 pads with reassurances (\"That's not a line,\" \"not just general effort\") whereas Card 2 says less and lands each point cleanly.",
+    "HONESTY": "Card 2 names \"the honest gap, if there is one\" and insists the path runs through the player rather than the inbox without cushioning, matching or slightly exceeding Card 1's candor."
+  },
+  "judge_raw": "PICK: 2\n\nSPEAKABILITY: Card 2's lines are tighter and more natural (\"This is about you and me,\" \"what happened in my inbox\"), while Card 1's Collaboration beat runs long enough to feel like a monologue rather than a real exchange.\n\nSPECIFICITY: Both diagnose the status wound well, but Card 2's \"borrows standing that is not theirs to keep\" sharpens the exact dynamic of parent-routed advocacy more precisely than Card 1's framing.\n\nTIGHTNESS: Card 1 pads with reassurances (\"That's not a line,\" \"not just general effort\") whereas Card 2 says less and lands each point cleanly.\n\nHONESTY: Card 2 names \"the honest gap, if there is one\" and insists the path runs through the player rather than the inbox without cushioning, matching or slightly exceeding Card 1's candor.",
+  "original_winner_arm": "B"
+}

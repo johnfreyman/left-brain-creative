@@ -1,0 +1,17 @@
+{
+  "sit_id": "s5",
+  "mode": "managing",
+  "situation": "A junior shipped something with a mistake a customer caught, and now they are triple-checking everything and velocity has cratered.",
+  "n": 2,
+  "a_is_card1": false,
+  "pick": "2",
+  "winner_arm": "A",
+  "dims": {
+    "SPEAKABILITY": "Card 2's lines (\"What are you actually afraid of catching, or not catching?\" and \"Grinding to a halt doesn't protect you; it just means the customer issue costs us twice\") land as real speech, whereas Card 1's Collaboration block is a long, self-narrating paragraph that would be hard to deliver naturally.",
+    "SPECIFICITY": "Both diagnose the same fear-driven overcorrection, but Card 2's \"do I still belong here after this\" and \"checking the same thing four times\" cut closer to the specific wound than Card 1's more abstract \"eliminating risk has become the goal.\"",
+    "TIGHTNESS": "Card 2 is leaner throughout; Card 1 repeats its reassurance (\"you are capable,\" \"one error does not change that read\") and pads the Collaboration turn with restated diagnosis.",
+    "HONESTY": "Both hold velocity firmly, but Card 2's opening (\"mistakes that reach a customer are not nothing... what I am watching you do right now is not the fix\") names the uncomfortable thing more bluntly without cushioning."
+  },
+  "judge_raw": "PICK: 2\n\nSPEAKABILITY: Card 2's lines (\"What are you actually afraid of catching, or not catching?\" and \"Grinding to a halt doesn't protect you; it just means the customer issue costs us twice\") land as real speech, whereas Card 1's Collaboration block is a long, self-narrating paragraph that would be hard to deliver naturally.\n\nSPECIFICITY: Both diagnose the same fear-driven overcorrection, but Card 2's \"do I still belong here after this\" and \"checking the same thing four times\" cut closer to the specific wound than Card 1's more abstract \"eliminating risk has become the goal.\"\n\nTIGHTNESS: Card 2 is leaner throughout; Card 1 repeats its reassurance (\"you are capable,\" \"one error does not change that read\") and pads the Collaboration turn with restated diagnosis.\n\nHONESTY: Both hold velocity firmly, but Card 2's opening (\"mistakes that reach a customer are not nothing... what I am watching you do right now is not the fix\") names the uncomfortable thing more bluntly without cushioning.",
+  "original_winner_arm": "A"
+}

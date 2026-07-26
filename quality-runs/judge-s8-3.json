@@ -1,0 +1,16 @@
+{
+  "sit_id": "s8",
+  "mode": "coaching",
+  "situation": "My team won big and played selfish, ugly ball the entire game.",
+  "n": 3,
+  "a_is_card1": false,
+  "pick": "2",
+  "winner_arm": "A",
+  "dims": {
+    "SPEAKABILITY": "Card 2's lines flow more like natural speech \u2014 \"let's go find out what winning beautiful actually feels like\" lands cleaner than Card 1's longer, more explanatory Collaboration block that a coach would struggle to deliver intact.",
+    "SPECIFICITY": "Both engage the exact scenario, but Card 2's \"somebody went one on four and forced it\" and \"the possessions you are actually proud of\" are sharper, more concrete images than Card 1's slightly more abstract \"playing like strangers.\"",
+    "TIGHTNESS": "Card 1's Collaboration paragraph over-explains the ceiling logic in ways that pad, while Card 2 delivers the same \"the score covered it up\" insight in fewer, denser sentences.",
+    "HONESTY": "Both keep the standard, but Card 2 names the uncomfortable truth (\"the score covered up something\") without the softening reassurance-loop (\"We good?\") that slightly dilutes Card 1's close."
+  },
+  "judge_raw": "PICK: 2\n\nSPEAKABILITY: Card 2's lines flow more like natural speech \u2014 \"let's go find out what winning beautiful actually feels like\" lands cleaner than Card 1's longer, more explanatory Collaboration block that a coach would struggle to deliver intact.\n\nSPECIFICITY: Both engage the exact scenario, but Card 2's \"somebody went one on four and forced it\" and \"the possessions you are actually proud of\" are sharper, more concrete images than Card 1's slightly more abstract \"playing like strangers.\"\n\nTIGHTNESS: Card 1's Collaboration paragraph over-explains the ceiling logic in ways that pad, while Card 2 delivers the same \"the score covered it up\" insight in fewer, denser sentences.\n\nHONESTY: Both keep the standard, but Card 2 names the uncomfortable truth (\"the score covered up something\") without the softening reassurance-loop (\"We good?\") that slightly dilutes Card 1's close."
+}

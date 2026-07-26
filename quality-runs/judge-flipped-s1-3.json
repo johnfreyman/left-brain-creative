@@ -1,0 +1,17 @@
+{
+  "sit_id": "s1",
+  "mode": "teaching",
+  "situation": "A student handed in work far better than anything they have produced before, and I genuinely cannot tell if it is a breakthrough or if someone else did it.",
+  "n": 3,
+  "a_is_card1": true,
+  "pick": "1",
+  "winner_arm": "A",
+  "dims": {
+    "SPEAKABILITY": "Card 1's lines land more naturally out loud, especially \"it will not cost you what you think it will,\" while Card 2's \"I ask this of anyone whose work makes a real leap\" reads slightly more rehearsed.",
+    "SPECIFICITY": "Both engage the exact gap-in-quality dilemma, but Card 1's Collaboration line directly addresses the possibility that they got help (\"If there are parts where you got help, tell me straight\"), which is the specific crux here.",
+    "TIGHTNESS": "Card 1 is leaner; Card 2 repeats the \"show me the process\" idea across Collaboration and Commitment and adds hedging clauses that dilute the punch.",
+    "HONESTY": "Card 1 names the uncomfortable possibility of borrowed work more plainly and still holds the standard firmly, whereas Card 2 wraps the hard part in softer \"growth\" framing that slightly blunts it."
+  },
+  "judge_raw": "PICK: 1\n\nSPEAKABILITY: Card 1's lines land more naturally out loud, especially \"it will not cost you what you think it will,\" while Card 2's \"I ask this of anyone whose work makes a real leap\" reads slightly more rehearsed.\n\nSPECIFICITY: Both engage the exact gap-in-quality dilemma, but Card 1's Collaboration line directly addresses the possibility that they got help (\"If there are parts where you got help, tell me straight\"), which is the specific crux here.\n\nTIGHTNESS: Card 1 is leaner; Card 2 repeats the \"show me the process\" idea across Collaboration and Commitment and adds hedging clauses that dilute the punch.\n\nHONESTY: Card 1 names the uncomfortable possibility of borrowed work more plainly and still holds the standard firmly, whereas Card 2 wraps the hard part in softer \"growth\" framing that slightly blunts it.",
+  "original_winner_arm": "A"
+}

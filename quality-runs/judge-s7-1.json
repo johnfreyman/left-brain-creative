@@ -1,0 +1,16 @@
+{
+  "sit_id": "s7",
+  "mode": "coaching",
+  "situation": "A player's parent emailed me arguing their kid should be starting, and the kid clearly knows about the email.",
+  "n": 1,
+  "a_is_card1": false,
+  "pick": "2",
+  "winner_arm": "A",
+  "dims": {
+    "SPEAKABILITY": "Card 2's lines are blunter and more natural (\"This is not a disciplinary thing,\" \"I am not going to pretend that did not happen\"), while Card 1's \"pull up for a sec. No big deal\" feels slightly more staged.",
+    "SPECIFICITY": "Card 2 directly names that the player knows the parent went over their head and even splits the two plausible internal states (relief vs. shame), engaging this exact situation more sharply than Card 1's more generic status read.",
+    "TIGHTNESS": "Card 2 trims better, whereas Card 1 repeats the \"outside pressure / outside this building\" beat and pads the Commitment section.",
+    "HONESTY": "Both hold the standard, but Card 2 names the uncomfortable truth head-on (\"what is worth more than that email,\" \"act, not send someone else in\") rather than cushioning it in belief-in-you warmth."
+  },
+  "judge_raw": "PICK: 2\n\nSPEAKABILITY: Card 2's lines are blunter and more natural (\"This is not a disciplinary thing,\" \"I am not going to pretend that did not happen\"), while Card 1's \"pull up for a sec. No big deal\" feels slightly more staged.\n\nSPECIFICITY: Card 2 directly names that the player knows the parent went over their head and even splits the two plausible internal states (relief vs. shame), engaging this exact situation more sharply than Card 1's more generic status read.\n\nTIGHTNESS: Card 2 trims better, whereas Card 1 repeats the \"outside pressure / outside this building\" beat and pads the Commitment section.\n\nHONESTY: Both hold the standard, but Card 2 names the uncomfortable truth head-on (\"what is worth more than that email,\" \"act, not send someone else in\") rather than cushioning it in belief-in-you warmth."
+}

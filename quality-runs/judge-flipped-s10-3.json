@@ -1,0 +1,17 @@
+{
+  "sit_id": "s10",
+  "mode": "teaching",
+  "situation": "A student who clearly studied did poorly and is convinced they are just bad at this subject.",
+  "n": 3,
+  "a_is_card1": false,
+  "pick": "2",
+  "winner_arm": "A",
+  "dims": {
+    "SPEAKABILITY": "Card 2's lines are blunter and more natural \u2014 \"I saw it, and I am not going to pretend that makes this result sting any less\" sounds like a real person, whereas Card 1's \"Struggling right now means your brain is working on something hard\" edges toward a motivational-poster cadence.",
+    "SPECIFICITY": "Both diagnose the fixed-ability trap well, but Card 2's \"your brain was working hard, just on the wrong version of the task\" and the studying-vs-mastering distinction cut more precisely into this exact failure than Card 1's slightly broader \"strategy did not match the material.\"",
+    "TIGHTNESS": "Card 2 is leaner; Card 1's Commitment paragraph stacks three separate reassurances plus a neuroscience aside, which pads the punch.",
+    "HONESTY": "Card 2 names the uncomfortable thing more squarely \u2014 that reflexive reassurance \"quietly signals you do not think they can handle the truth\" \u2014 and its Force Level 2 questions force the student to actually walk through their process rather than just receive empathy."
+  },
+  "judge_raw": "PICK: 2\n\nSPEAKABILITY: Card 2's lines are blunter and more natural \u2014 \"I saw it, and I am not going to pretend that makes this result sting any less\" sounds like a real person, whereas Card 1's \"Struggling right now means your brain is working on something hard\" edges toward a motivational-poster cadence.\n\nSPECIFICITY: Both diagnose the fixed-ability trap well, but Card 2's \"your brain was working hard, just on the wrong version of the task\" and the studying-vs-mastering distinction cut more precisely into this exact failure than Card 1's slightly broader \"strategy did not match the material.\"\n\nTIGHTNESS: Card 2 is leaner; Card 1's Commitment paragraph stacks three separate reassurances plus a neuroscience aside, which pads the punch.\n\nHONESTY: Card 2 names the uncomfortable thing more squarely \u2014 that reflexive reassurance \"quietly signals you do not think they can handle the truth\" \u2014 and its Force Level 2 questions force the student to actually walk through their process rather than just receive empathy.",
+  "original_winner_arm": "B"
+}

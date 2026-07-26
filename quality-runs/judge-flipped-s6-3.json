@@ -1,0 +1,17 @@
+{
+  "sit_id": "s6",
+  "mode": "managing",
+  "situation": "My newest hire is better at part of the job than I am and we both know it.",
+  "n": 3,
+  "a_is_card1": true,
+  "pick": "2",
+  "winner_arm": "B",
+  "dims": {
+    "SPEAKABILITY": "Card 2 opens with \"Do you have ten minutes?\" and uses concrete phrasing that lands as real speech, whereas Card 1's \"I have made most of the expensive mistakes already\" is good but slightly more polished-sounding overall.",
+    "SPECIFICITY": "Card 2 names an actual domain (\"data modeling side\"), which anchors the read to a concrete case, while Card 1 stays at \"this particular skill\" throughout and could fit any skill gap.",
+    "TIGHTNESS": "Card 1 is marginally leaner, but Card 2's added concreteness earns its slightly greater length rather than padding.",
+    "HONESTY": "Both hold the standard and name the discomfort plainly, but Card 2's \"not around it\" closing and its explicit modeling of learning directly from the report keep the hard part sharper."
+  },
+  "judge_raw": "PICK: 2\n\nSPEAKABILITY: Card 2 opens with \"Do you have ten minutes?\" and uses concrete phrasing that lands as real speech, whereas Card 1's \"I have made most of the expensive mistakes already\" is good but slightly more polished-sounding overall.\n\nSPECIFICITY: Card 2 names an actual domain (\"data modeling side\"), which anchors the read to a concrete case, while Card 1 stays at \"this particular skill\" throughout and could fit any skill gap.\n\nTIGHTNESS: Card 1 is marginally leaner, but Card 2's added concreteness earns its slightly greater length rather than padding.\n\nHONESTY: Both hold the standard and name the discomfort plainly, but Card 2's \"not around it\" closing and its explicit modeling of learning directly from the report keep the hard part sharper.",
+  "original_winner_arm": "A"
+}

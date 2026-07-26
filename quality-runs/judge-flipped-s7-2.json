@@ -1,0 +1,17 @@
+{
+  "sit_id": "s7",
+  "mode": "coaching",
+  "situation": "A player's parent emailed me arguing their kid should be starting, and the kid clearly knows about the email.",
+  "n": 2,
+  "a_is_card1": false,
+  "pick": "1",
+  "winner_arm": "B",
+  "dims": {
+    "SPEAKABILITY": "Card 1's lines flow more naturally with contractions and rhythm, while Card 2's \"How are you feeling about where you are right now on this team, your role, your minutes?\" stacks awkwardly and its uncontracted \"I am\" phrasing reads stiff aloud.",
+    "SPECIFICITY": "Card 1 names the concrete mechanic of the situation better (\"your parent fought a battle they didn't win themselves\") and pushes toward naming the actual skill gap, whereas Card 2's diagnosis is sharp but its script stays more abstract about the criteria.",
+    "TIGHTNESS": "Both are fairly lean, but Card 1's script does more work per line, while Card 2 repeats the \"straight conversation\" beat twice and its collaboration line lists criteria without committing to name them.",
+    "HONESTY": "Both hold the standard and refuse the parent-pressure lever, but Card 1 makes the hard part more concrete by insisting they actually name the two or three specific gaps, giving the player something real rather than a general promise of detail \"if you want that.\""
+  },
+  "judge_raw": "PICK: 1\n\nSPEAKABILITY: Card 1's lines flow more naturally with contractions and rhythm, while Card 2's \"How are you feeling about where you are right now on this team, your role, your minutes?\" stacks awkwardly and its uncontracted \"I am\" phrasing reads stiff aloud.\n\nSPECIFICITY: Card 1 names the concrete mechanic of the situation better (\"your parent fought a battle they didn't win themselves\") and pushes toward naming the actual skill gap, whereas Card 2's diagnosis is sharp but its script stays more abstract about the criteria.\n\nTIGHTNESS: Both are fairly lean, but Card 1's script does more work per line, while Card 2 repeats the \"straight conversation\" beat twice and its collaboration line lists criteria without committing to name them.\n\nHONESTY: Both hold the standard and refuse the parent-pressure lever, but Card 1 makes the hard part more concrete by insisting they actually name the two or three specific gaps, giving the player something real rather than a general promise of detail \"if you want that.\"",
+  "original_winner_arm": "B"
+}

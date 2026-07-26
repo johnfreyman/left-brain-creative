@@ -1,0 +1,17 @@
+{
+  "sit_id": "s6",
+  "mode": "managing",
+  "situation": "My newest hire is better at part of the job than I am and we both know it.",
+  "n": 2,
+  "a_is_card1": true,
+  "pick": "1",
+  "winner_arm": "A",
+  "dims": {
+    "SPEAKABILITY": "Card 1's lines are shorter and land more naturally out loud, especially \"you are ahead of me in this part of the work\" and \"not just a version of it,\" whereas Card 2's script runs long and clause-heavy (\"the context, the client relationships, the parts that come with time\") in a way that would be hard to deliver without sounding rehearsed.",
+    "SPECIFICITY": "Both diagnose the exact mutual-awareness dynamic well, but Card 1's \"the mutual awareness is the live wire: you both know\" nails this precise situation more sharply than Card 2's slightly more generic status framing.",
+    "TIGHTNESS": "Card 1 is leaner across the board; Card 2 repeats its core reframe several times (HOLD FIRM, MENTOR MOVE, and script all restate \"different strengths / I set direction\") and pads the script with lists.",
+    "HONESTY": "Both keep the accountability bar, but Card 1's \"I am holding you to outcomes here, not just effort... a higher bar\" names the uncomfortable standard most crisply, while Card 2 cushions it more inside reassurance."
+  },
+  "judge_raw": "PICK: 1\n\nSPEAKABILITY: Card 1's lines are shorter and land more naturally out loud, especially \"you are ahead of me in this part of the work\" and \"not just a version of it,\" whereas Card 2's script runs long and clause-heavy (\"the context, the client relationships, the parts that come with time\") in a way that would be hard to deliver without sounding rehearsed.\n\nSPECIFICITY: Both diagnose the exact mutual-awareness dynamic well, but Card 1's \"the mutual awareness is the live wire: you both know\" nails this precise situation more sharply than Card 2's slightly more generic status framing.\n\nTIGHTNESS: Card 1 is leaner across the board; Card 2 repeats its core reframe several times (HOLD FIRM, MENTOR MOVE, and script all restate \"different strengths / I set direction\") and pads the script with lists.\n\nHONESTY: Both keep the accountability bar, but Card 1's \"I am holding you to outcomes here, not just effort... a higher bar\" names the uncomfortable standard most crisply, while Card 2 cushions it more inside reassurance.",
+  "original_winner_arm": "A"
+}

@@ -1,0 +1,16 @@
+{
+  "sit_id": "s7",
+  "mode": "coaching",
+  "situation": "A player's parent emailed me arguing their kid should be starting, and the kid clearly knows about the email.",
+  "n": 3,
+  "a_is_card1": true,
+  "pick": "2",
+  "winner_arm": "B",
+  "dims": {
+    "SPEAKABILITY": "Card 2's lines land more naturally out loud\u2014\"I'd rather you come knock on my door\" and \"that's between us\" sound like a real coach, while Card 1's \"what happened in my inbox\" phrasing is slightly clever-scripted.",
+    "SPECIFICITY": "Card 2's diagnosis cuts sharper by naming the \"worst of both worlds\"\u2014the kid may privately agree yet has been stripped of agency\u2014whereas Card 1's read is strong but stays closer to the generic status-wound frame.",
+    "TIGHTNESS": "Card 1 is a touch cleaner, but Card 2 keeps its added detail (specific benchmarks, two-week window) working rather than padding, so the edge is marginal.",
+    "HONESTY": "Card 2 explicitly acknowledges the email to the kid's face and names the standard plus a concrete timeline, confronting the awkward thing more directly than Card 1's slightly softer framing."
+  },
+  "judge_raw": "PICK: 2\n\nSPEAKABILITY: Card 2's lines land more naturally out loud\u2014\"I'd rather you come knock on my door\" and \"that's between us\" sound like a real coach, while Card 1's \"what happened in my inbox\" phrasing is slightly clever-scripted.\n\nSPECIFICITY: Card 2's diagnosis cuts sharper by naming the \"worst of both worlds\"\u2014the kid may privately agree yet has been stripped of agency\u2014whereas Card 1's read is strong but stays closer to the generic status-wound frame.\n\nTIGHTNESS: Card 1 is a touch cleaner, but Card 2 keeps its added detail (specific benchmarks, two-week window) working rather than padding, so the edge is marginal.\n\nHONESTY: Card 2 explicitly acknowledges the email to the kid's face and names the standard plus a concrete timeline, confronting the awkward thing more directly than Card 1's slightly softer framing."
+}

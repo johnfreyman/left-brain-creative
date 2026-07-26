@@ -1,0 +1,16 @@
+{
+  "sit_id": "s3",
+  "mode": "parenting",
+  "situation": "My kid announced at dinner they are done with church and are not going anymore.",
+  "n": 1,
+  "a_is_card1": true,
+  "pick": "1",
+  "winner_arm": "A",
+  "dims": {
+    "SPEAKABILITY": "Card 1's lines sound like a real parent talking (\"I am glad you said it out loud instead of just quietly disappearing on us\"), while Card 2's collaboration line drifts into lecture (\"I am not going to pretend faith is just a preference like what you want for dinner\").",
+    "SPECIFICITY": "Card 1 nails the exact tell of the dinner-table announcement and turns it into a concrete three-way diagnostic question (the hour, something you read, or genuine loss of belief), whereas Card 2 gestures at the same insight but keeps its questions more generic.",
+    "TIGHTNESS": "Card 1 carries less redundancy, while Card 2's HOLD FIRM and STAY FLEXIBLE sections restate the same \"wrestle honestly\" idea multiple times.",
+    "HONESTY": "Both keep the standard and admit the parent's own difficulty, but Card 1's framing (\"we do not announce our way out of shared commitments at a dinner table\") names the uncomfortable boundary more crisply than Card 2's softer \"you do not get to just tap out.\""
+  },
+  "judge_raw": "PICK: 1\n\nSPEAKABILITY: Card 1's lines sound like a real parent talking (\"I am glad you said it out loud instead of just quietly disappearing on us\"), while Card 2's collaboration line drifts into lecture (\"I am not going to pretend faith is just a preference like what you want for dinner\").\n\nSPECIFICITY: Card 1 nails the exact tell of the dinner-table announcement and turns it into a concrete three-way diagnostic question (the hour, something you read, or genuine loss of belief), whereas Card 2 gestures at the same insight but keeps its questions more generic.\n\nTIGHTNESS: Card 1 carries less redundancy, while Card 2's HOLD FIRM and STAY FLEXIBLE sections restate the same \"wrestle honestly\" idea multiple times.\n\nHONESTY: Both keep the standard and admit the parent's own difficulty, but Card 1's framing (\"we do not announce our way out of shared commitments at a dinner table\") names the uncomfortable boundary more crisply than Card 2's softer \"you do not get to just tap out.\""
+}

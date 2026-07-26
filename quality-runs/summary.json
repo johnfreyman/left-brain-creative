@@ -1,0 +1,101 @@
+{
+  "total": 30,
+  "a_wins": 21,
+  "b_wins": 9,
+  "ties": 0,
+  "a_win_pct_excl_ties": 70.0,
+  "tie_fraction": 0.0,
+  "verdict": "TRIM",
+  "by_situation": {
+    "s1": {
+      "A": 2,
+      "B": 1,
+      "TIE": 0
+    },
+    "s2": {
+      "A": 2,
+      "B": 1,
+      "TIE": 0
+    },
+    "s3": {
+      "A": 2,
+      "B": 1,
+      "TIE": 0
+    },
+    "s4": {
+      "A": 2,
+      "B": 1,
+      "TIE": 0
+    },
+    "s5": {
+      "A": 2,
+      "B": 1,
+      "TIE": 0
+    },
+    "s6": {
+      "A": 3,
+      "B": 0,
+      "TIE": 0
+    },
+    "s7": {
+      "A": 1,
+      "B": 2,
+      "TIE": 0
+    },
+    "s8": {
+      "A": 3,
+      "B": 0,
+      "TIE": 0
+    },
+    "s9": {
+      "A": 3,
+      "B": 0,
+      "TIE": 0
+    },
+    "s10": {
+      "A": 1,
+      "B": 2,
+      "TIE": 0
+    }
+  },
+  "position_bias": {
+    "card1_wins": 8,
+    "card2_wins": 22
+  },
+  "s9_identity_carryover": {
+    "A": [
+      "Competence",
+      "Competence",
+      "Competence"
+    ],
+    "B": [
+      "Identity",
+      "Identity",
+      "Identity"
+    ]
+  },
+  "lcs_flags": [
+    {
+      "sit_id": "s5",
+      "n": 2,
+      "phase": "Commitment",
+      "lcs_len": 36,
+      "line": "I need you shipping at the pace this role requires, and I am holding you to that",
+      "exemplar_line": "I am asking you not to route it around me again. I am holding you to that becaus"
+    },
+    {
+      "sit_id": "s8",
+      "n": 1,
+      "phase": "Commitment",
+      "lcs_len": 35,
+      "line": "From here, we hold each other to a higher standard than the scoreboard. I am hol",
+      "exemplar_line": "I am asking you not to route it around me again. I am holding you to that becaus"
+    }
+  ],
+  "length": {
+    "mean_a_bytes": 2829.6,
+    "mean_b_bytes": 3222.4333333333334,
+    "n_a": 30,
+    "n_b": 30
+  }
+}

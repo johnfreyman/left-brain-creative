@@ -1,0 +1,17 @@
+{
+  "sit_id": "s8",
+  "mode": "coaching",
+  "situation": "My team won big and played selfish, ugly ball the entire game.",
+  "n": 1,
+  "a_is_card1": false,
+  "pick": "2",
+  "winner_arm": "A",
+  "dims": {
+    "SPEAKABILITY": "Card 2's lines land more naturally as spoken coaching\u2014\"hard to guard, not just hard to stop on a given night\" and \"be straight with yourselves\" sound like a real coach talking, whereas Card 1's \"the scoreboard tonight is not the ceiling, it is just the floor\" is a touch more constructed.",
+    "SPECIFICITY": "Card 2 engages the exact situation harder by naming the opponent, the future matchup (\"the team we face in three weeks will eat that alive\"), and the scouts/parents/highlight-reel dynamic, while Card 1's \"great teams people talk about years later\" could apply to almost any team.",
+    "TIGHTNESS": "Card 2 is leaner, with each line advancing the point, whereas Card 1's Commitment beat repeats \"not because I am unhappy with the win\" ideas that were already established in the opening.",
+    "HONESTY": "Card 2 names the uncomfortable thing more directly\u2014\"somebody decided this was their moment\" and \"selfish ball is a ceiling\"\u2014forcing an honest reckoning, while Card 1 hedges slightly more toward capability-flattery before making the ask."
+  },
+  "judge_raw": "PICK: 2\n\nSPEAKABILITY: Card 2's lines land more naturally as spoken coaching\u2014\"hard to guard, not just hard to stop on a given night\" and \"be straight with yourselves\" sound like a real coach talking, whereas Card 1's \"the scoreboard tonight is not the ceiling, it is just the floor\" is a touch more constructed.\n\nSPECIFICITY: Card 2 engages the exact situation harder by naming the opponent, the future matchup (\"the team we face in three weeks will eat that alive\"), and the scouts/parents/highlight-reel dynamic, while Card 1's \"great teams people talk about years later\" could apply to almost any team.\n\nTIGHTNESS: Card 2 is leaner, with each line advancing the point, whereas Card 1's Commitment beat repeats \"not because I am unhappy with the win\" ideas that were already established in the opening.\n\nHONESTY: Card 2 names the uncomfortable thing more directly\u2014\"somebody decided this was their moment\" and \"selfish ball is a ceiling\"\u2014forcing an honest reckoning, while Card 1 hedges slightly more toward capability-flattery before making the ask.",
+  "original_winner_arm": "A"
+}

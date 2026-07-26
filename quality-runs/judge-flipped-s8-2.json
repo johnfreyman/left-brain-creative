@@ -1,0 +1,17 @@
+{
+  "sit_id": "s8",
+  "mode": "coaching",
+  "situation": "My team won big and played selfish, ugly ball the entire game.",
+  "n": 2,
+  "a_is_card1": true,
+  "pick": "1",
+  "winner_arm": "A",
+  "dims": {
+    "SPEAKABILITY": "Card 1's \"I can coach a team that plays that way... I cannot do both\" is a sharp, sayable ultimatum, while Card 2's \"make the people around them dangerous\" and the round-robin \"name one moment\" ask are slightly more mechanical to deliver live.",
+    "SPECIFICITY": "Card 1's diagnosis nails the exact trap of this situation \u2014 that winning validates the selfishness and threatens to swallow a team win in personal glory \u2014 whereas Card 2's status read is solid but could apply to most any ugly-win scenario.",
+    "TIGHTNESS": "Card 1's script is more compressed and each beat lands a distinct blow, while Card 2 pads slightly with the extra \"not to beat yourself up\" hedging and a longer commitment section.",
+    "HONESTY": "Card 1 refuses to let the win buy a pass and forces the players to answer the harder identity question themselves, holding the standard more uncompromisingly than Card 2's gentler \"we were not there\" framing."
+  },
+  "judge_raw": "PICK: 1\n\nSPEAKABILITY: Card 1's \"I can coach a team that plays that way... I cannot do both\" is a sharp, sayable ultimatum, while Card 2's \"make the people around them dangerous\" and the round-robin \"name one moment\" ask are slightly more mechanical to deliver live.\n\nSPECIFICITY: Card 1's diagnosis nails the exact trap of this situation \u2014 that winning validates the selfishness and threatens to swallow a team win in personal glory \u2014 whereas Card 2's status read is solid but could apply to most any ugly-win scenario.\n\nTIGHTNESS: Card 1's script is more compressed and each beat lands a distinct blow, while Card 2 pads slightly with the extra \"not to beat yourself up\" hedging and a longer commitment section.\n\nHONESTY: Card 1 refuses to let the win buy a pass and forces the players to answer the harder identity question themselves, holding the standard more uncompromisingly than Card 2's gentler \"we were not there\" framing.",
+  "original_winner_arm": "A"
+}

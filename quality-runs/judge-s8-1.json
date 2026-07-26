@@ -1,0 +1,16 @@
+{
+  "sit_id": "s8",
+  "mode": "coaching",
+  "situation": "My team won big and played selfish, ugly ball the entire game.",
+  "n": 1,
+  "a_is_card1": true,
+  "pick": "1",
+  "winner_arm": "A",
+  "dims": {
+    "SPEAKABILITY": "Both are largely sayable, but Card 1's lines (\"hard to guard, not just hard to stop on a given night\") land more like a real coach talking, while Card 2's \"great teams people talk about years later\" edges toward speech-y.",
+    "SPECIFICITY": "Card 1 anchors to concrete details \u2014 scouts/parents/rivals, the specific rival in three weeks who \"will eat that alive\" \u2014 whereas Card 2's diagnosis (status high, belonging underneath) is sound but more generic to the win-after-selfish-play genre.",
+    "TIGHTNESS": "Card 1's curiosity beat forces an honest self-count of possessions, doing real work per line; Card 2 leans on a rhetorical \"what do you notice about great teams\" that pads before arriving at the point.",
+    "HONESTY": "Card 1 names the uncomfortable thing squarely (\"selfish ball is a ceiling,\" \"how many buckets came because somebody decided this was their moment\"), while Card 2 stays a touch warmer and more abstract about the actual selfishness."
+  },
+  "judge_raw": "PICK: 1\n\nSPEAKABILITY: Both are largely sayable, but Card 1's lines (\"hard to guard, not just hard to stop on a given night\") land more like a real coach talking, while Card 2's \"great teams people talk about years later\" edges toward speech-y.\n\nSPECIFICITY: Card 1 anchors to concrete details \u2014 scouts/parents/rivals, the specific rival in three weeks who \"will eat that alive\" \u2014 whereas Card 2's diagnosis (status high, belonging underneath) is sound but more generic to the win-after-selfish-play genre.\n\nTIGHTNESS: Card 1's curiosity beat forces an honest self-count of possessions, doing real work per line; Card 2 leans on a rhetorical \"what do you notice about great teams\" that pads before arriving at the point.\n\nHONESTY: Card 1 names the uncomfortable thing squarely (\"selfish ball is a ceiling,\" \"how many buckets came because somebody decided this was their moment\"), while Card 2 stays a touch warmer and more abstract about the actual selfishness."
+}

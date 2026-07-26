@@ -1,0 +1,16 @@
+{
+  "sit_id": "s7",
+  "mode": "coaching",
+  "situation": "A player's parent emailed me arguing their kid should be starting, and the kid clearly knows about the email.",
+  "n": 2,
+  "a_is_card1": true,
+  "pick": "2",
+  "winner_arm": "B",
+  "dims": {
+    "SPEAKABILITY": "Card 2's lines sound more like natural speech (\"Come walk with me,\" \"I'm not asking you to answer for that\") while Card 1's Curiosity line stacks too many questions in a row and feels slightly more composed.",
+    "SPECIFICITY": "Card 2 directly names the email and explicitly separates the kid from the parent's action, engaging the exact awkwardness, whereas Card 1 deliberately avoids the email and could apply to any playing-time talk.",
+    "TIGHTNESS": "Both are lean, but Card 2's script does more work per sentence by folding the acknowledgment, the standard, and the path into fewer beats.",
+    "HONESTY": "Card 2 says the hard thing out loud \u2014 it names the email, refuses to move the depth chart under pressure, and still holds the bar \u2014 while Card 1 sidesteps the uncomfortable core by treating the topic as if the email never happened."
+  },
+  "judge_raw": "PICK: 2\n\nSPEAKABILITY: Card 2's lines sound more like natural speech (\"Come walk with me,\" \"I'm not asking you to answer for that\") while Card 1's Curiosity line stacks too many questions in a row and feels slightly more composed.\n\nSPECIFICITY: Card 2 directly names the email and explicitly separates the kid from the parent's action, engaging the exact awkwardness, whereas Card 1 deliberately avoids the email and could apply to any playing-time talk.\n\nTIGHTNESS: Both are lean, but Card 2's script does more work per sentence by folding the acknowledgment, the standard, and the path into fewer beats.\n\nHONESTY: Card 2 says the hard thing out loud \u2014 it names the email, refuses to move the depth chart under pressure, and still holds the bar \u2014 while Card 1 sidesteps the uncomfortable core by treating the topic as if the email never happened."
+}

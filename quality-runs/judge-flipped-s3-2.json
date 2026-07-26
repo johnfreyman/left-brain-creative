@@ -1,0 +1,17 @@
+{
+  "sit_id": "s3",
+  "mode": "parenting",
+  "situation": "My kid announced at dinner they are done with church and are not going anymore.",
+  "n": 2,
+  "a_is_card1": false,
+  "pick": "2",
+  "winner_arm": "A",
+  "dims": {
+    "SPEAKABILITY": "Card 2's lines are shorter and land more naturally aloud, while Card 1's Collaboration and Commitment paragraphs run long enough that saying them would feel like reciting a prepared speech.",
+    "SPECIFICITY": "Both diagnose the same identity/autonomy dynamic, but Card 1 edges ahead with the concrete \"belief vs. pew vs. something that happened there\" fork, though Card 2 still engages the dinner-announcement detail sharply enough to stay close.",
+    "TIGHTNESS": "Card 2 is noticeably leaner, whereas Card 1 repeats \"not going to pretend/not going to blow past/not going to let\" in ways that pad the same point.",
+    "HONESTY": "Both keep the standard and name the discomfort, but Card 2 states \"we are still going, as a family, for now\" more cleanly, while Card 1 wraps the same firmness in more cushioning."
+  },
+  "judge_raw": "PICK: 2\n\nSPEAKABILITY: Card 2's lines are shorter and land more naturally aloud, while Card 1's Collaboration and Commitment paragraphs run long enough that saying them would feel like reciting a prepared speech.\n\nSPECIFICITY: Both diagnose the same identity/autonomy dynamic, but Card 1 edges ahead with the concrete \"belief vs. pew vs. something that happened there\" fork, though Card 2 still engages the dinner-announcement detail sharply enough to stay close.\n\nTIGHTNESS: Card 2 is noticeably leaner, whereas Card 1 repeats \"not going to pretend/not going to blow past/not going to let\" in ways that pad the same point.\n\nHONESTY: Both keep the standard and name the discomfort, but Card 2 states \"we are still going, as a family, for now\" more cleanly, while Card 1 wraps the same firmness in more cushioning.",
+  "original_winner_arm": "B"
+}

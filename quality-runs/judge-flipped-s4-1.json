@@ -1,0 +1,17 @@
+{
+  "sit_id": "s4",
+  "mode": "parenting",
+  "situation": "My teenager asked me a hard question about something I did at their age, and I froze instead of answering.",
+  "n": 1,
+  "a_is_card1": true,
+  "pick": "2",
+  "winner_arm": "B",
+  "dims": {
+    "SPEAKABILITY": "Card 2's lines (\"I've been thinking about what you asked... and the fact that I just kind of shut down\") sound more like natural spoken speech, while Card 1's \"let me say my piece\" and \"I am holding myself to being someone\" tilt slightly more formal.",
+    "SPECIFICITY": "Card 2's \"status wound: they risked being honest with you and got a wall back\" and the explicit \"I froze because I didn't want to say the wrong thing\" pin down this exact dynamic more sharply than Card 1's more general framing.",
+    "TIGHTNESS": "Both are lean, but Card 2's HOLD FIRM adds the distinct \"will not rewrite your past into a tidy lesson\" beat, giving it one more load-bearing sentence rather than restating the same idea.",
+    "HONESTY": "Card 2 names the harder, riskier thing \u2014 the temptation to sanitize your history into a convenient lesson \u2014 where Card 1 stays on the more comfortable ground of just not unburdening yourself."
+  },
+  "judge_raw": "PICK: 2\n\nSPEAKABILITY: Card 2's lines (\"I've been thinking about what you asked... and the fact that I just kind of shut down\") sound more like natural spoken speech, while Card 1's \"let me say my piece\" and \"I am holding myself to being someone\" tilt slightly more formal.\n\nSPECIFICITY: Card 2's \"status wound: they risked being honest with you and got a wall back\" and the explicit \"I froze because I didn't want to say the wrong thing\" pin down this exact dynamic more sharply than Card 1's more general framing.\n\nTIGHTNESS: Both are lean, but Card 2's HOLD FIRM adds the distinct \"will not rewrite your past into a tidy lesson\" beat, giving it one more load-bearing sentence rather than restating the same idea.\n\nHONESTY: Card 2 names the harder, riskier thing \u2014 the temptation to sanitize your history into a convenient lesson \u2014 where Card 1 stays on the more comfortable ground of just not unburdening yourself.",
+  "original_winner_arm": "A"
+}

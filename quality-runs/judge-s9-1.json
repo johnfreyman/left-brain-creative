@@ -1,0 +1,16 @@
+{
+  "sit_id": "s9",
+  "mode": "parenting",
+  "situation": "My almost-18-year-old shuts down every time college or life after graduation comes up.",
+  "n": 1,
+  "a_is_card1": true,
+  "pick": "1",
+  "winner_arm": "A",
+  "dims": {
+    "SPEAKABILITY": "Card 1's lines flow more naturally and sound like a real parent talking (\"You know yourself better than any brochure does\"), while Card 2's are slightly longer and more lecture-prone, especially the \"machinery\" neuroscience aside that would sound rehearsed out loud.",
+    "SPECIFICITY": "Card 1 nails the exact mechanism \u2014 that college talk is implicitly a \"performance review they are already failing\" \u2014 whereas Card 2's identity read is strong but leans on a more generic \"handing over a finished self\" frame that could fit many teen-future conversations.",
+    "TIGHTNESS": "Card 1 is leaner with each sentence pulling weight, while Card 2 pads with the brain-development explanation and repeated reassurance that slightly dilute its force.",
+    "HONESTY": "Both keep the standard, but Card 1's \"I am not willing to let you drift into something by default when you are smart enough to choose something on purpose\" states the hard expectation more crisply than Card 2's softer, more caveated commitment."
+  },
+  "judge_raw": "PICK: 1\n\nSPEAKABILITY: Card 1's lines flow more naturally and sound like a real parent talking (\"You know yourself better than any brochure does\"), while Card 2's are slightly longer and more lecture-prone, especially the \"machinery\" neuroscience aside that would sound rehearsed out loud.\n\nSPECIFICITY: Card 1 nails the exact mechanism \u2014 that college talk is implicitly a \"performance review they are already failing\" \u2014 whereas Card 2's identity read is strong but leans on a more generic \"handing over a finished self\" frame that could fit many teen-future conversations.\n\nTIGHTNESS: Card 1 is leaner with each sentence pulling weight, while Card 2 pads with the brain-development explanation and repeated reassurance that slightly dilute its force.\n\nHONESTY: Both keep the standard, but Card 1's \"I am not willing to let you drift into something by default when you are smart enough to choose something on purpose\" states the hard expectation more crisply than Card 2's softer, more caveated commitment."
+}

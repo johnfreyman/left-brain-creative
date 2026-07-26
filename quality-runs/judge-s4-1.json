@@ -1,0 +1,16 @@
+{
+  "sit_id": "s4",
+  "mode": "parenting",
+  "situation": "My teenager asked me a hard question about something I did at their age, and I froze instead of answering.",
+  "n": 1,
+  "a_is_card1": false,
+  "pick": "2",
+  "winner_arm": "A",
+  "dims": {
+    "SPEAKABILITY": "Card 2's lines are shorter and more natural to say aloud (\"I owe you a real answer\" beats Card 1's more explanatory phrasing), whereas Card 1's Collaboration line runs long and reads slightly rehearsed.",
+    "SPECIFICITY": "Both diagnose the same freeze-as-wall dynamic well, but Card 2's \"evidence that you were human at their age and came through it\" pins down what the teen actually needs more precisely than Card 1.",
+    "TIGHTNESS": "Card 2 is leaner throughout, while Card 1 carries some redundancy (its Commitment paragraph circles the same point twice).",
+    "HONESTY": "Card 2 names the sharpest uncomfortable truth \u2014 the risk of \"unburdening yourself\" versus serving the kid \u2014 which is a harder, more honest line than Card 1's \"tidy lesson\" caution."
+  },
+  "judge_raw": "PICK: 2\n\nSPEAKABILITY: Card 2's lines are shorter and more natural to say aloud (\"I owe you a real answer\" beats Card 1's more explanatory phrasing), whereas Card 1's Collaboration line runs long and reads slightly rehearsed.\n\nSPECIFICITY: Both diagnose the same freeze-as-wall dynamic well, but Card 2's \"evidence that you were human at their age and came through it\" pins down what the teen actually needs more precisely than Card 1.\n\nTIGHTNESS: Card 2 is leaner throughout, while Card 1 carries some redundancy (its Commitment paragraph circles the same point twice).\n\nHONESTY: Card 2 names the sharpest uncomfortable truth \u2014 the risk of \"unburdening yourself\" versus serving the kid \u2014 which is a harder, more honest line than Card 1's \"tidy lesson\" caution."
+}

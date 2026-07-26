@@ -1,0 +1,16 @@
+{
+  "sit_id": "s3",
+  "mode": "parenting",
+  "situation": "My kid announced at dinner they are done with church and are not going anymore.",
+  "n": 3,
+  "a_is_card1": false,
+  "pick": "2",
+  "winner_arm": "A",
+  "dims": {
+    "SPEAKABILITY": "Card 2's curiosity line offers concrete either/or options (\"none of it is true... going through motions... the specific people or the specific hour\") that sound like a real parent thinking aloud, while Card 1's \"come out with something real on the other side\" leans slightly more sermon-like.",
+    "SPECIFICITY": "Both nail the \"announcement at dinner\" tell, but Card 2 pushes further by distinguishing rejection-of-faith from rejection-of-inherited-identity and by naming that a handed-down belief isn't really a belief.",
+    "TIGHTNESS": "Card 2 is leaner; Card 1's commitment line (\"I have high standards for our family and for you\") adds a self-justifying flourish that doesn't advance the move.",
+    "HONESTY": "Both keep the family expectation firm, but Card 2 names the sharper uncomfortable truth\u2014that demanding faked conviction destroys the very thing the parent wants\u2014rather than resting on Card 1's warmer reassurance."
+  },
+  "judge_raw": "PICK: 2\n\nSPEAKABILITY: Card 2's curiosity line offers concrete either/or options (\"none of it is true... going through motions... the specific people or the specific hour\") that sound like a real parent thinking aloud, while Card 1's \"come out with something real on the other side\" leans slightly more sermon-like.\n\nSPECIFICITY: Both nail the \"announcement at dinner\" tell, but Card 2 pushes further by distinguishing rejection-of-faith from rejection-of-inherited-identity and by naming that a handed-down belief isn't really a belief.\n\nTIGHTNESS: Card 2 is leaner; Card 1's commitment line (\"I have high standards for our family and for you\") adds a self-justifying flourish that doesn't advance the move.\n\nHONESTY: Both keep the family expectation firm, but Card 2 names the sharper uncomfortable truth\u2014that demanding faked conviction destroys the very thing the parent wants\u2014rather than resting on Card 1's warmer reassurance."
+}

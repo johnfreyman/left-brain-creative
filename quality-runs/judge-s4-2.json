@@ -1,0 +1,16 @@
+{
+  "sit_id": "s4",
+  "mode": "parenting",
+  "situation": "My teenager asked me a hard question about something I did at their age, and I froze instead of answering.",
+  "n": 2,
+  "a_is_card1": true,
+  "pick": "2",
+  "winner_arm": "B",
+  "dims": {
+    "SPEAKABILITY": "Card 2's script sounds more natural, especially ending the Collaboration beat on \"What do you think about that?\" which hands the moment back to the kid, whereas Card 1's \"then life kept going\" and longer confessional lines feel slightly more composed and performed.",
+    "SPECIFICITY": "Both engage the exact freeze-and-repair scenario, but Card 2's read (\"using you as a reference point,\" \"rule-giver, not a real person\") pins down the developmental stakes more precisely than Card 1's more generic \"path is survivable\" framing.",
+    "TIGHTNESS": "Card 1 has some redundancy across its script beats and repeats \"not asking so I can dodge it\" ideas, while Card 2 stays leaner and avoids the extra editorializing.",
+    "HONESTY": "Card 2 keeps the harder edge \u2014 \"I am not proud of all of it,\" \"before they stop knocking,\" and refusing to spin it into a lesson \u2014 whereas Card 1 slightly softens the cost by reassuring that \"the mess did not end the story.\""
+  },
+  "judge_raw": "PICK: 2\n\nSPEAKABILITY: Card 2's script sounds more natural, especially ending the Collaboration beat on \"What do you think about that?\" which hands the moment back to the kid, whereas Card 1's \"then life kept going\" and longer confessional lines feel slightly more composed and performed.\n\nSPECIFICITY: Both engage the exact freeze-and-repair scenario, but Card 2's read (\"using you as a reference point,\" \"rule-giver, not a real person\") pins down the developmental stakes more precisely than Card 1's more generic \"path is survivable\" framing.\n\nTIGHTNESS: Card 1 has some redundancy across its script beats and repeats \"not asking so I can dodge it\" ideas, while Card 2 stays leaner and avoids the extra editorializing.\n\nHONESTY: Card 2 keeps the harder edge \u2014 \"I am not proud of all of it,\" \"before they stop knocking,\" and refusing to spin it into a lesson \u2014 whereas Card 1 slightly softens the cost by reassuring that \"the mess did not end the story.\""
+}

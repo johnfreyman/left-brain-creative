@@ -1,0 +1,16 @@
+{
+  "sit_id": "s8",
+  "mode": "coaching",
+  "situation": "My team won big and played selfish, ugly ball the entire game.",
+  "n": 2,
+  "a_is_card1": false,
+  "pick": "2",
+  "winner_arm": "A",
+  "dims": {
+    "SPEAKABILITY": "Card 2's lines flow more naturally out loud, especially \"I can coach a team that... I cannot do both,\" whereas Card 1's \"make the people around them dangerous\" and the extra-pass inventory exercise feel more constructed.",
+    "SPECIFICITY": "Card 2's read that \"winning validates the selfish approach\" and can swallow a team win in personal glory nails the exact danger of this situation, while Card 1's status/belonging framing is sharp but slightly more transferable to any win.",
+    "TIGHTNESS": "Card 2 is leaner with less redundancy, whereas Card 1 repeats the \"makes individual players look elite\" idea across both Collaboration and Commitment beats.",
+    "HONESTY": "Both keep the standard, but Card 2's \"what would they say this team is about?\" forces the uncomfortable self-examination harder than Card 1's more comforting \"that actually makes you look better\" reframe."
+  },
+  "judge_raw": "PICK: 2\nSPEAKABILITY: Card 2's lines flow more naturally out loud, especially \"I can coach a team that... I cannot do both,\" whereas Card 1's \"make the people around them dangerous\" and the extra-pass inventory exercise feel more constructed.\nSPECIFICITY: Card 2's read that \"winning validates the selfish approach\" and can swallow a team win in personal glory nails the exact danger of this situation, while Card 1's status/belonging framing is sharp but slightly more transferable to any win.\nTIGHTNESS: Card 2 is leaner with less redundancy, whereas Card 1 repeats the \"makes individual players look elite\" idea across both Collaboration and Commitment beats.\nHONESTY: Both keep the standard, but Card 2's \"what would they say this team is about?\" forces the uncomfortable self-examination harder than Card 1's more comforting \"that actually makes you look better\" reframe."
+}

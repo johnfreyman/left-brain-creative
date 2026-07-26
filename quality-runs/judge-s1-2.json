@@ -1,0 +1,16 @@
+{
+  "sit_id": "s1",
+  "mode": "teaching",
+  "situation": "A student handed in work far better than anything they have produced before, and I genuinely cannot tell if it is a breakthrough or if someone else did it.",
+  "n": 2,
+  "a_is_card1": false,
+  "pick": "1",
+  "winner_arm": "B",
+  "dims": {
+    "SPEAKABILITY": "Card 1's lines sound more like a real person talking, especially \"I do not want to just put a grade on this and move on\" and \"I am genuinely asking, not quizzing you,\" which preempt the suspicion the adult actually fears, whereas Card 2's \"caught my attention in a good way\" risks sounding like withheld judgment.",
+    "SPECIFICITY": "Card 1 more directly engages the exact dilemma of not knowing whether it's a breakthrough or cheating, framing the conversation as revealing without accusing, while Card 2 leans toward a generic \"walk me through your process\" that could fit any strong-work moment.",
+    "TIGHTNESS": "Card 2 is slightly leaner, but Card 1's extra sentences mostly do work (naming the \"crime scene\" pull, the double-direction competence read), so the padding is minimal and purposeful.",
+    "HONESTY": "Card 1 names the hard part more squarely \u2014 it holds the ownership standard explicitly and opens \"a door where they can tell the truth without being humiliated,\" while Card 2 softens the cheating possibility into vaguer language about \"the shortcut.\""
+  },
+  "judge_raw": "PICK: 1\n\nSPEAKABILITY: Card 1's lines sound more like a real person talking, especially \"I do not want to just put a grade on this and move on\" and \"I am genuinely asking, not quizzing you,\" which preempt the suspicion the adult actually fears, whereas Card 2's \"caught my attention in a good way\" risks sounding like withheld judgment.\n\nSPECIFICITY: Card 1 more directly engages the exact dilemma of not knowing whether it's a breakthrough or cheating, framing the conversation as revealing without accusing, while Card 2 leans toward a generic \"walk me through your process\" that could fit any strong-work moment.\n\nTIGHTNESS: Card 2 is slightly leaner, but Card 1's extra sentences mostly do work (naming the \"crime scene\" pull, the double-direction competence read), so the padding is minimal and purposeful.\n\nHONESTY: Card 1 names the hard part more squarely \u2014 it holds the ownership standard explicitly and opens \"a door where they can tell the truth without being humiliated,\" while Card 2 softens the cheating possibility into vaguer language about \"the shortcut.\""
+}

@@ -1,0 +1,17 @@
+{
+  "sit_id": "s9",
+  "mode": "parenting",
+  "situation": "My almost-18-year-old shuts down every time college or life after graduation comes up.",
+  "n": 1,
+  "a_is_card1": false,
+  "pick": "2",
+  "winner_arm": "A",
+  "dims": {
+    "SPEAKABILITY": "Card 2's lines are shorter and more conversational (\"forget the applications for a minute,\" \"You know yourself better than any brochure\"), whereas Card 1's Collaboration beat about \"building the machinery that does long-term planning\" would sound like a lecture said aloud.",
+    "SPECIFICITY": "Both diagnose the identity/competence bind well, but Card 2's \"work backward from what you're trying to build\" and \"drift into something by default\" engage the concrete college-decision mechanics more sharply than Card 1's more abstract framing.",
+    "TIGHTNESS": "Card 1 pads with neuroscience explanation and a longer Commitment beat, while Card 2 keeps every sentence lean and load-bearing.",
+    "HONESTY": "Card 2 names the hard part more cleanly (\"avoidance is not a plan,\" \"not willing to let you drift into something by default\") without diluting it into the reassurance-heavy softening Card 1 leans on."
+  },
+  "judge_raw": "PICK: 2\n\nSPEAKABILITY: Card 2's lines are shorter and more conversational (\"forget the applications for a minute,\" \"You know yourself better than any brochure\"), whereas Card 1's Collaboration beat about \"building the machinery that does long-term planning\" would sound like a lecture said aloud.\n\nSPECIFICITY: Both diagnose the identity/competence bind well, but Card 2's \"work backward from what you're trying to build\" and \"drift into something by default\" engage the concrete college-decision mechanics more sharply than Card 1's more abstract framing.\n\nTIGHTNESS: Card 1 pads with neuroscience explanation and a longer Commitment beat, while Card 2 keeps every sentence lean and load-bearing.\n\nHONESTY: Card 2 names the hard part more cleanly (\"avoidance is not a plan,\" \"not willing to let you drift into something by default\") without diluting it into the reassurance-heavy softening Card 1 leans on.",
+  "original_winner_arm": "A"
+}

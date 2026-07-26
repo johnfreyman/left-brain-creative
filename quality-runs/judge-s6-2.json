@@ -1,0 +1,16 @@
+{
+  "sit_id": "s6",
+  "mode": "managing",
+  "situation": "My newest hire is better at part of the job than I am and we both know it.",
+  "n": 2,
+  "a_is_card1": false,
+  "pick": "2",
+  "winner_arm": "A",
+  "dims": {
+    "SPEAKABILITY": "Card 2's lines are shorter and land more naturally, especially the opening \"I am saying it because I think you already know it,\" whereas Card 1's Collaboration paragraph is a long, winding sentence that would be hard to deliver without sounding rehearsed.",
+    "SPECIFICITY": "Both diagnose the same mutual-awareness dynamic sharply, but Card 2's \"live wire\" framing and its concrete Enforcer pull (extra review and sign-offs as control disguised as quality) engage the exact situation more vividly than Card 1's more general status/identity read.",
+    "TIGHTNESS": "Card 2 is leaner throughout, while Card 1 pads with repetition (\"high standard across the full role, not just the part you have mastered\") and an overstuffed Collaboration beat.",
+    "HONESTY": "Card 1 actually holds the harder line \u2014 \"your technical edge does not exempt them from the less glamorous parts\" and \"I will tell you when you are not meeting the bar\" \u2014 but Card 2 still names the uncomfortable admission cleanly and ties ownership to accountability, so it keeps enough of the hard part while staying more sayable."
+  },
+  "judge_raw": "PICK: 2\n\nSPEAKABILITY: Card 2's lines are shorter and land more naturally, especially the opening \"I am saying it because I think you already know it,\" whereas Card 1's Collaboration paragraph is a long, winding sentence that would be hard to deliver without sounding rehearsed.\n\nSPECIFICITY: Both diagnose the same mutual-awareness dynamic sharply, but Card 2's \"live wire\" framing and its concrete Enforcer pull (extra review and sign-offs as control disguised as quality) engage the exact situation more vividly than Card 1's more general status/identity read.\n\nTIGHTNESS: Card 2 is leaner throughout, while Card 1 pads with repetition (\"high standard across the full role, not just the part you have mastered\") and an overstuffed Collaboration beat.\n\nHONESTY: Card 1 actually holds the harder line \u2014 \"your technical edge does not exempt them from the less glamorous parts\" and \"I will tell you when you are not meeting the bar\" \u2014 but Card 2 still names the uncomfortable admission cleanly and ties ownership to accountability, so it keeps enough of the hard part while staying more sayable."
+}

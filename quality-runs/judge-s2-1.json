@@ -1,0 +1,16 @@
+{
+  "sit_id": "s2",
+  "mode": "teaching",
+  "situation": "Half the class did the reading and half clearly did not, and the half that did is getting visibly annoyed at carrying discussions.",
+  "n": 1,
+  "a_is_card1": false,
+  "pick": "2",
+  "winner_arm": "A",
+  "dims": {
+    "SPEAKABILITY": "Card 2's lines are shorter and more natural to say aloud, while Card 1's \"loaded for this conversation\" and the drawn-out four-part structure risk sounding rehearsed.",
+    "SPECIFICITY": "Both diagnose this exact split-class dynamic well, but Card 2's framing of skipping as self-protection against public exposure is a sharper read of the actual behavior than Card 1's more generic \"status wound.\"",
+    "TIGHTNESS": "Card 2 does more with fewer words; Card 1's script repeats its \"I hold the bar because I know you can clear it\" theme in ways that pad the Commitment beat.",
+    "HONESTY": "Card 1 names the gap more bluntly (\"some of you did not\"), but Card 2 keeps the standard just as firmly (\"I hold all of you to it equally\") without publicly outing the unprepared students, which is the harder and better-calibrated move here."
+  },
+  "judge_raw": "PICK: 2\n\nSPEAKABILITY: Card 2's lines are shorter and more natural to say aloud, while Card 1's \"loaded for this conversation\" and the drawn-out four-part structure risk sounding rehearsed.\n\nSPECIFICITY: Both diagnose this exact split-class dynamic well, but Card 2's framing of skipping as self-protection against public exposure is a sharper read of the actual behavior than Card 1's more generic \"status wound.\"\n\nTIGHTNESS: Card 2 does more with fewer words; Card 1's script repeats its \"I hold the bar because I know you can clear it\" theme in ways that pad the Commitment beat.\n\nHONESTY: Card 1 names the gap more bluntly (\"some of you did not\"), but Card 2 keeps the standard just as firmly (\"I hold all of you to it equally\") without publicly outing the unprepared students, which is the harder and better-calibrated move here."
+}

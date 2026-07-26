@@ -1,0 +1,17 @@
+{
+  "sit_id": "s6",
+  "mode": "managing",
+  "situation": "My newest hire is better at part of the job than I am and we both know it.",
+  "n": 1,
+  "a_is_card1": false,
+  "pick": "2",
+  "winner_arm": "A",
+  "dims": {
+    "SPEAKABILITY": "Card 2's lines are tighter and more natural (\"I want you to tell me when I am underusing it\"), while Card 1's Collaboration beat is longer and slightly more sculpted-sounding.",
+    "SPECIFICITY": "Both engage the exact situation well, but Card 2's read\u2014naming that they may be holding back to avoid embarrassing you, or quietly doubting the place can teach them\u2014cuts closer to the specific psychology of this gap.",
+    "TIGHTNESS": "Card 2 is leaner throughout; Card 1's script carries more preamble and hedging (\"I have been sitting with,\" \"instead of letting it stay unsaid\") that pads without adding.",
+    "HONESTY": "Both keep the standard and name the gap, but Card 2's commitment line (\"being strong in one lane does not mean the rest of the job is beneath you\") states the uncomfortable expectation more bluntly and without softening."
+  },
+  "judge_raw": "PICK: 2\n\nSPEAKABILITY: Card 2's lines are tighter and more natural (\"I want you to tell me when I am underusing it\"), while Card 1's Collaboration beat is longer and slightly more sculpted-sounding.\n\nSPECIFICITY: Both engage the exact situation well, but Card 2's read\u2014naming that they may be holding back to avoid embarrassing you, or quietly doubting the place can teach them\u2014cuts closer to the specific psychology of this gap.\n\nTIGHTNESS: Card 2 is leaner throughout; Card 1's script carries more preamble and hedging (\"I have been sitting with,\" \"instead of letting it stay unsaid\") that pads without adding.\n\nHONESTY: Both keep the standard and name the gap, but Card 2's commitment line (\"being strong in one lane does not mean the rest of the job is beneath you\") states the uncomfortable expectation more bluntly and without softening.",
+  "original_winner_arm": "A"
+}

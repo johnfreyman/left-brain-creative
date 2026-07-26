@@ -1,0 +1,16 @@
+{
+  "sit_id": "s1",
+  "mode": "teaching",
+  "situation": "A student handed in work far better than anything they have produced before, and I genuinely cannot tell if it is a breakthrough or if someone else did it.",
+  "n": 1,
+  "a_is_card1": false,
+  "pick": "2",
+  "winner_arm": "A",
+  "dims": {
+    "SPEAKABILITY": "Card 2's lines sound more like a real person talking (\"I am not saying that to be polite,\" \"push back on them if I am reading it wrong\"), while Card 1's Collaboration and Commitment sections run long and edge toward a rehearsed speech about recognition.",
+    "SPECIFICITY": "Card 2 zeroes in on the actual tell \u2014 the pattern-breaking gap and the \"defend the choices\" walkthrough that would genuinely surface truth \u2014 whereas Card 1 leans harder on generic status-and-mattering language that could apply to many situations.",
+    "TIGHTNESS": "Card 1 pads with repeated affirmations (\"not just a grade, but actual recognition,\" \"that's worth more than any single assignment\"), while Card 2 keeps each beat lean and purposeful.",
+    "HONESTY": "Both hold the standard, but Card 2 names the uncomfortable path more cleanly (\"opens a path back to honest effort without requiring a confession\") where Card 1 partly dissolves the hard part into warmth about making growth \"visible and public.\""
+  },
+  "judge_raw": "PICK: 2\n\nSPEAKABILITY: Card 2's lines sound more like a real person talking (\"I am not saying that to be polite,\" \"push back on them if I am reading it wrong\"), while Card 1's Collaboration and Commitment sections run long and edge toward a rehearsed speech about recognition.\n\nSPECIFICITY: Card 2 zeroes in on the actual tell \u2014 the pattern-breaking gap and the \"defend the choices\" walkthrough that would genuinely surface truth \u2014 whereas Card 1 leans harder on generic status-and-mattering language that could apply to many situations.\n\nTIGHTNESS: Card 1 pads with repeated affirmations (\"not just a grade, but actual recognition,\" \"that's worth more than any single assignment\"), while Card 2 keeps each beat lean and purposeful.\n\nHONESTY: Both hold the standard, but Card 2 names the uncomfortable path more cleanly (\"opens a path back to honest effort without requiring a confession\") where Card 1 partly dissolves the hard part into warmth about making growth \"visible and public.\""
+}

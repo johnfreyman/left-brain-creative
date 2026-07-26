@@ -1,0 +1,16 @@
+{
+  "sit_id": "s3",
+  "mode": "parenting",
+  "situation": "My kid announced at dinner they are done with church and are not going anymore.",
+  "n": 2,
+  "a_is_card1": true,
+  "pick": "2",
+  "winner_arm": "B",
+  "dims": {
+    "SPEAKABILITY": "Card 2's curiosity line (\"Is it the belief part... or the sitting-in-a-pew part, or something that happened there\") sounds like an actual parent thinking out loud, while Card 1's lines are slightly more polished but still natural.",
+    "SPECIFICITY": "Card 2 wins by naming concrete faith-specific forks (belief vs. attendance vs. a bad experience) and negotiables (which service, a pastor conversation, a different community), whereas Card 1 stays more at the level of generic \"hear the whole thing.\"",
+    "TIGHTNESS": "Card 1 is leaner and Card 2 occasionally piles on qualifiers (\"not blind agreement, just integrity\"), but Card 2's extra length mostly carries content rather than padding.",
+    "HONESTY": "Both hold the line, but Card 2 names the uncomfortable truth more squarely (\"I am not going to pretend you have no say... because that would be dishonest\") while still refusing the walkout, which is the harder and more credible balance."
+  },
+  "judge_raw": "PICK: 2\n\nSPEAKABILITY: Card 2's curiosity line (\"Is it the belief part... or the sitting-in-a-pew part, or something that happened there\") sounds like an actual parent thinking out loud, while Card 1's lines are slightly more polished but still natural.\n\nSPECIFICITY: Card 2 wins by naming concrete faith-specific forks (belief vs. attendance vs. a bad experience) and negotiables (which service, a pastor conversation, a different community), whereas Card 1 stays more at the level of generic \"hear the whole thing.\"\n\nTIGHTNESS: Card 1 is leaner and Card 2 occasionally piles on qualifiers (\"not blind agreement, just integrity\"), but Card 2's extra length mostly carries content rather than padding.\n\nHONESTY: Both hold the line, but Card 2 names the uncomfortable truth more squarely (\"I am not going to pretend you have no say... because that would be dishonest\") while still refusing the walkout, which is the harder and more credible balance."
+}

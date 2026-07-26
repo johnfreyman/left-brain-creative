@@ -1,0 +1,16 @@
+{
+  "sit_id": "s6",
+  "mode": "managing",
+  "situation": "My newest hire is better at part of the job than I am and we both know it.",
+  "n": 1,
+  "a_is_card1": true,
+  "pick": "1",
+  "winner_arm": "A",
+  "dims": {
+    "SPEAKABILITY": "Card 1's lines are tighter and land as real speech, while Card 2's Collaboration line (\"running point on this, you are the person the team looks to, and I am the person helping you connect that skill to the bigger picture\") gets long and slightly self-conscious to say aloud.",
+    "SPECIFICITY": "Both engage the exact status/identity gap well, but Card 1's read about them \"holding back to avoid embarrassing you\" versus wondering if the place can teach them anything is a sharper, more concrete pair of possibilities than Card 2's more abstract framing.",
+    "TIGHTNESS": "Card 1 is leaner throughout, whereas Card 2 repeats the \"own it / hold you to the full job\" beat and pads the read with longer explanatory clauses.",
+    "HONESTY": "Both keep the standard firmly, but Card 1's \"being strong in one lane does not mean the rest of the job is beneath you\" names the uncomfortable risk more bluntly than Card 2's softer \"capable of being genuinely excellent across the board.\""
+  },
+  "judge_raw": "PICK: 1\n\nSPEAKABILITY: Card 1's lines are tighter and land as real speech, while Card 2's Collaboration line (\"running point on this, you are the person the team looks to, and I am the person helping you connect that skill to the bigger picture\") gets long and slightly self-conscious to say aloud.\n\nSPECIFICITY: Both engage the exact status/identity gap well, but Card 1's read about them \"holding back to avoid embarrassing you\" versus wondering if the place can teach them anything is a sharper, more concrete pair of possibilities than Card 2's more abstract framing.\n\nTIGHTNESS: Card 1 is leaner throughout, whereas Card 2 repeats the \"own it / hold you to the full job\" beat and pads the read with longer explanatory clauses.\n\nHONESTY: Both keep the standard firmly, but Card 1's \"being strong in one lane does not mean the rest of the job is beneath you\" names the uncomfortable risk more bluntly than Card 2's softer \"capable of being genuinely excellent across the board.\""
+}

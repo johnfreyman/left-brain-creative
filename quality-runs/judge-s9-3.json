@@ -1,0 +1,16 @@
+{
+  "sit_id": "s9",
+  "mode": "parenting",
+  "situation": "My almost-18-year-old shuts down every time college or life after graduation comes up.",
+  "n": 3,
+  "a_is_card1": true,
+  "pick": "1",
+  "winner_arm": "A",
+  "dims": {
+    "SPEAKABILITY": "Both are sayable, but Card 1's \"one concrete thing, chosen by you, that moves you even a little bit forward before the end of this month\" is more naturally spoken than Card 2's slightly essayistic \"what would have to be true for you to feel like your life is actually yours.\"",
+    "SPECIFICITY": "Card 1's diagnosis nails the exact mechanism (exiting the question before having to answer it) and the identity layer of \"signing a contract in someone else's name,\" while Card 2 is real but leans on more generic \"test he hasn't studied for\" framing.",
+    "TIGHTNESS": "Card 1 packs more distinct ideas per line and its \"Hold Firm / Stay Flexible\" split is sharper, whereas Card 2 repeats the \"stay in the conversation\" ask across multiple sections with some padding.",
+    "HONESTY": "Card 1 keeps the harder edge \u2014 \"silence is not a plan,\" \"something small moves forward each week,\" a concrete monthly deliverable \u2014 while Card 2's demand (\"do not go silent on me\") is genuine but softer and less enforceable."
+  },
+  "judge_raw": "PICK: 1\n\nSPEAKABILITY: Both are sayable, but Card 1's \"one concrete thing, chosen by you, that moves you even a little bit forward before the end of this month\" is more naturally spoken than Card 2's slightly essayistic \"what would have to be true for you to feel like your life is actually yours.\"\n\nSPECIFICITY: Card 1's diagnosis nails the exact mechanism (exiting the question before having to answer it) and the identity layer of \"signing a contract in someone else's name,\" while Card 2 is real but leans on more generic \"test he hasn't studied for\" framing.\n\nTIGHTNESS: Card 1 packs more distinct ideas per line and its \"Hold Firm / Stay Flexible\" split is sharper, whereas Card 2 repeats the \"stay in the conversation\" ask across multiple sections with some padding.\n\nHONESTY: Card 1 keeps the harder edge \u2014 \"silence is not a plan,\" \"something small moves forward each week,\" a concrete monthly deliverable \u2014 while Card 2's demand (\"do not go silent on me\") is genuine but softer and less enforceable."
+}

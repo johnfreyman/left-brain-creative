@@ -1,0 +1,17 @@
+{
+  "sit_id": "s2",
+  "mode": "teaching",
+  "situation": "Half the class did the reading and half clearly did not, and the half that did is getting visibly annoyed at carrying discussions.",
+  "n": 2,
+  "a_is_card1": true,
+  "pick": "1",
+  "winner_arm": "A",
+  "dims": {
+    "SPEAKABILITY": "Card 1's lines (\"came in loaded and ready,\" \"run on half the fuel\") sound like a real teacher talking, while Card 2's Collaboration turn (\"what would make it more likely that everyone actually shows up ready?\") risks opening a soft negotiation that undercuts the standard.",
+    "SPECIFICITY": "Card 1 diagnoses the precise mechanic \u2014 that visible frustration makes it harder for non-readers to re-enter without losing face \u2014 whereas Card 2 leans on more portable framing about resentment and belonging.",
+    "TIGHTNESS": "Card 1 delivers a concrete two-minute pair-talk with assigned roles, while Card 2 repeats \"your people in this room matter\" beats and asks open questions that pad the moment.",
+    "HONESTY": "Both hold the reading standard, but Card 1 keeps the discomfort in the room (\"both groups know which they are\") without offering an escape, while Card 2's invitation to co-design norms risks diluting the immediate cost non-readers should feel."
+  },
+  "judge_raw": "PICK: 1\nSPEAKABILITY: Card 1's lines (\"came in loaded and ready,\" \"run on half the fuel\") sound like a real teacher talking, while Card 2's Collaboration turn (\"what would make it more likely that everyone actually shows up ready?\") risks opening a soft negotiation that undercuts the standard.\nSPECIFICITY: Card 1 diagnoses the precise mechanic \u2014 that visible frustration makes it harder for non-readers to re-enter without losing face \u2014 whereas Card 2 leans on more portable framing about resentment and belonging.\nTIGHTNESS: Card 1 delivers a concrete two-minute pair-talk with assigned roles, while Card 2 repeats \"your people in this room matter\" beats and asks open questions that pad the moment.\nHONESTY: Both hold the reading standard, but Card 1 keeps the discomfort in the room (\"both groups know which they are\") without offering an escape, while Card 2's invitation to co-design norms risks diluting the immediate cost non-readers should feel.",
+  "original_winner_arm": "A"
+}

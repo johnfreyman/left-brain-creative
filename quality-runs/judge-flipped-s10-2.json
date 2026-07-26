@@ -1,0 +1,17 @@
+{
+  "sit_id": "s10",
+  "mode": "teaching",
+  "situation": "A student who clearly studied did poorly and is convinced they are just bad at this subject.",
+  "n": 2,
+  "a_is_card1": false,
+  "pick": "2",
+  "winner_arm": "A",
+  "dims": {
+    "SPEAKABILITY": "Card 2's lines flow more naturally out loud \u2014 \"I am not going to pretend that getting a rough result after that does not sting\" and \"I am not letting you close the door on this subject\" sound like real speech, while Card 1's \"where things got slippery\" and \"did not line up yet\" feel slightly more constructed.",
+    "SPECIFICITY": "Both diagnose the same fixed-ability trap well, but Card 2's naming of the \"status wound\" \u2014 the public embarrassment of studying hard and failing in front of everyone \u2014 engages a more precise emotional mechanism than Card 1's generic \"dignity\" framing.",
+    "TIGHTNESS": "Card 2 is leaner; Card 1's Collaboration beat repeats \"strategy gap, not a talent gap\" plus \"strategy is something we can actually fix\" in a way that pads, whereas Card 2 lands the same point once.",
+    "HONESTY": "Both hold the standard, but Card 2's \"I am holding you to another real attempt because the effort is already there and I know that is the harder half\" names the uncomfortable expectation more squarely without cushioning it in reassurance."
+  },
+  "judge_raw": "PICK: 2\n\nSPEAKABILITY: Card 2's lines flow more naturally out loud \u2014 \"I am not going to pretend that getting a rough result after that does not sting\" and \"I am not letting you close the door on this subject\" sound like real speech, while Card 1's \"where things got slippery\" and \"did not line up yet\" feel slightly more constructed.\n\nSPECIFICITY: Both diagnose the same fixed-ability trap well, but Card 2's naming of the \"status wound\" \u2014 the public embarrassment of studying hard and failing in front of everyone \u2014 engages a more precise emotional mechanism than Card 1's generic \"dignity\" framing.\n\nTIGHTNESS: Card 2 is leaner; Card 1's Collaboration beat repeats \"strategy gap, not a talent gap\" plus \"strategy is something we can actually fix\" in a way that pads, whereas Card 2 lands the same point once.\n\nHONESTY: Both hold the standard, but Card 2's \"I am holding you to another real attempt because the effort is already there and I know that is the harder half\" names the uncomfortable expectation more squarely without cushioning it in reassurance.",
+  "original_winner_arm": "B"
+}

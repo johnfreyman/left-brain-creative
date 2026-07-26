@@ -1,0 +1,16 @@
+{
+  "sit_id": "s10",
+  "mode": "teaching",
+  "situation": "A student who clearly studied did poorly and is convinced they are just bad at this subject.",
+  "n": 2,
+  "a_is_card1": true,
+  "pick": "2",
+  "winner_arm": "B",
+  "dims": {
+    "SPEAKABILITY": "Card 2's lines (\"where things got slippery,\" \"what part felt shakiest\") sound like actual spoken speech, while Card 1's \"I mean that as a compliment\" and \"the harder half\" edge toward polished monologue.",
+    "SPECIFICITY": "Card 2 digs one layer deeper by asking which part of the material felt shakiest during the test, turning diagnosis into a concrete next step rather than a general strategy-vs-ability frame.",
+    "TIGHTNESS": "Both are dense, but Card 1's Commitment section adds an extra \"brain gets better at hard things\" flourish that repeats its point, while Card 2 stays leaner.",
+    "HONESTY": "Both hold the standard and name the \"safer to be bad than to have tried and failed\" wound, but Card 2's \"I am holding you to actually understanding this, not just moving past it\" states the uncomfortable expectation most plainly."
+  },
+  "judge_raw": "PICK: 2\nSPEAKABILITY: Card 2's lines (\"where things got slippery,\" \"what part felt shakiest\") sound like actual spoken speech, while Card 1's \"I mean that as a compliment\" and \"the harder half\" edge toward polished monologue.\nSPECIFICITY: Card 2 digs one layer deeper by asking which part of the material felt shakiest during the test, turning diagnosis into a concrete next step rather than a general strategy-vs-ability frame.\nTIGHTNESS: Both are dense, but Card 1's Commitment section adds an extra \"brain gets better at hard things\" flourish that repeats its point, while Card 2 stays leaner.\nHONESTY: Both hold the standard and name the \"safer to be bad than to have tried and failed\" wound, but Card 2's \"I am holding you to actually understanding this, not just moving past it\" states the uncomfortable expectation most plainly."
+}

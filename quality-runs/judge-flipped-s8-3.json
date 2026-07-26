@@ -1,0 +1,17 @@
+{
+  "sit_id": "s8",
+  "mode": "coaching",
+  "situation": "My team won big and played selfish, ugly ball the entire game.",
+  "n": 3,
+  "a_is_card1": true,
+  "pick": "2",
+  "winner_arm": "B",
+  "dims": {
+    "SPEAKABILITY": "Card 2's \"played like strangers instead of a team\" and \"what does the ball look like moving? Not the score. The ball.\" sound like real coach cadence, while Card 1's \"winning beautiful\" and \"that version of this team is scarier\" are slightly more precious to say aloud.",
+    "SPECIFICITY": "Card 2 engages the exact dynamic \u2014 blowout as false validation, the \"next talented team will be connected\" concrete threat \u2014 where Card 1's identity framing is strong but leans more abstract about who they're \"becoming.\"",
+    "TIGHTNESS": "Card 2's script builds a tight cause-and-effect argument (talent + disconnection = ceiling) with less repetition, whereas Card 1 restates the \"keep the win\" beat more than it needs to.",
+    "HONESTY": "Both hold the standard firmly, but Card 2 names the uncomfortable thing more sharply with \"the score covered up something\" and refuses to let tonight be a template, while Card 1 softens marginally toward inspirational framing at the close."
+  },
+  "judge_raw": "PICK: 2\n\nSPEAKABILITY: Card 2's \"played like strangers instead of a team\" and \"what does the ball look like moving? Not the score. The ball.\" sound like real coach cadence, while Card 1's \"winning beautiful\" and \"that version of this team is scarier\" are slightly more precious to say aloud.\n\nSPECIFICITY: Card 2 engages the exact dynamic \u2014 blowout as false validation, the \"next talented team will be connected\" concrete threat \u2014 where Card 1's identity framing is strong but leans more abstract about who they're \"becoming.\"\n\nTIGHTNESS: Card 2's script builds a tight cause-and-effect argument (talent + disconnection = ceiling) with less repetition, whereas Card 1 restates the \"keep the win\" beat more than it needs to.\n\nHONESTY: Both hold the standard firmly, but Card 2 names the uncomfortable thing more sharply with \"the score covered up something\" and refuses to let tonight be a template, while Card 1 softens marginally toward inspirational framing at the close.",
+  "original_winner_arm": "A"
+}

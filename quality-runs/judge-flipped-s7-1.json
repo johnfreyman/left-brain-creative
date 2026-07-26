@@ -1,0 +1,17 @@
+{
+  "sit_id": "s7",
+  "mode": "coaching",
+  "situation": "A player's parent emailed me arguing their kid should be starting, and the kid clearly knows about the email.",
+  "n": 1,
+  "a_is_card1": true,
+  "pick": "1",
+  "winner_arm": "A",
+  "dims": {
+    "SPEAKABILITY": "Both are largely sayable, but Card 1's lines (\"I respect you enough to be straight,\" \"I am not going to pretend that did not happen\") land more like real speech, while Card 2's Collaboration line is a bit long-winded to deliver naturally.",
+    "SPECIFICITY": "Card 1 goes deeper into the exact dynamic \u2014 the ambiguity of whether the kid asked for the email and the resulting shame/relief split \u2014 whereas Card 2's read is solid but stays closer to the generic \"mortified and defensive\" surface.",
+    "TIGHTNESS": "Card 1 keeps its diagnosis and script leaner, while Card 2 pads slightly with menu-like flexibility options and a wordier commitment beat.",
+    "HONESTY": "Card 1 names the uncomfortable thing most directly \u2014 the fear that teammates will see the kid as lobbied-for \u2014 and holds the standard cleanly, while Card 2 holds firm too but slides a touch more toward reassurance in its closing lines."
+  },
+  "judge_raw": "PICK: 1\n\nSPEAKABILITY: Both are largely sayable, but Card 1's lines (\"I respect you enough to be straight,\" \"I am not going to pretend that did not happen\") land more like real speech, while Card 2's Collaboration line is a bit long-winded to deliver naturally.\n\nSPECIFICITY: Card 1 goes deeper into the exact dynamic \u2014 the ambiguity of whether the kid asked for the email and the resulting shame/relief split \u2014 whereas Card 2's read is solid but stays closer to the generic \"mortified and defensive\" surface.\n\nTIGHTNESS: Card 1 keeps its diagnosis and script leaner, while Card 2 pads slightly with menu-like flexibility options and a wordier commitment beat.\n\nHONESTY: Card 1 names the uncomfortable thing most directly \u2014 the fear that teammates will see the kid as lobbied-for \u2014 and holds the standard cleanly, while Card 2 holds firm too but slides a touch more toward reassurance in its closing lines.",
+  "original_winner_arm": "A"
+}

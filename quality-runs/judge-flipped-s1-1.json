@@ -1,0 +1,17 @@
+{
+  "sit_id": "s1",
+  "mode": "teaching",
+  "situation": "A student handed in work far better than anything they have produced before, and I genuinely cannot tell if it is a breakthrough or if someone else did it.",
+  "n": 1,
+  "a_is_card1": true,
+  "pick": "2",
+  "winner_arm": "B",
+  "dims": {
+    "SPEAKABILITY": "Card 2's lines (\"honestly it stopped me. That doesn't happen every day\") sound more like natural speech, while Card 1's \"Not the finished product, but where you started, where you got stuck\" is slightly more constructed but still sayable.",
+    "SPECIFICITY": "Card 2's read is sharper on the exact situation\u2014naming that borrowed work signals \"their authentic work won't be respected\"\u2014which engages the psychology of this specific student more precisely than Card 1's more balanced but flatter framing.",
+    "TIGHTNESS": "Card 1 is marginally tighter line-by-line, but Card 2 packs more distinct diagnostic content into its length without real padding, so the edge is slim.",
+    "HONESTY": "Both hold the standard firmly, but Card 2 names the uncomfortable thing more concretely (\"data about what they believe their real work is worth\") and pairs the held bar with a genuine offer of recognition rather than generic reassurance."
+  },
+  "judge_raw": "PICK: 2\n\nSPEAKABILITY: Card 2's lines (\"honestly it stopped me. That doesn't happen every day\") sound more like natural speech, while Card 1's \"Not the finished product, but where you started, where you got stuck\" is slightly more constructed but still sayable.\n\nSPECIFICITY: Card 2's read is sharper on the exact situation\u2014naming that borrowed work signals \"their authentic work won't be respected\"\u2014which engages the psychology of this specific student more precisely than Card 1's more balanced but flatter framing.\n\nTIGHTNESS: Card 1 is marginally tighter line-by-line, but Card 2 packs more distinct diagnostic content into its length without real padding, so the edge is slim.\n\nHONESTY: Both hold the standard firmly, but Card 2 names the uncomfortable thing more concretely (\"data about what they believe their real work is worth\") and pairs the held bar with a genuine offer of recognition rather than generic reassurance.",
+  "original_winner_arm": "A"
+}

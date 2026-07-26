@@ -1,0 +1,16 @@
+{
+  "sit_id": "s5",
+  "mode": "managing",
+  "situation": "A junior shipped something with a mistake a customer caught, and now they are triple-checking everything and velocity has cratered.",
+  "n": 2,
+  "a_is_card1": true,
+  "pick": "1",
+  "winner_arm": "A",
+  "dims": {
+    "SPEAKABILITY": "Card 1's lines land more naturally out loud, especially \"checking the same thing four times\" and \"grinding to a halt does not protect you; it just means the customer issue costs us twice,\" whereas Card 2's Collaboration paragraph runs long and self-narrating (\"tell me if I am off... that makes complete sense as a response\").",
+    "SPECIFICITY": "Both diagnose the same fear-driven over-checking accurately, but Card 1's \"What are you actually afraid of catching, or not catching?\" cuts more precisely into this exact spiral than Card 2's more general walkthrough.",
+    "TIGHTNESS": "Card 1 is leaner throughout; Card 2 pads with meta-commentary (\"not at you,\" \"the outside does not tell the whole story\") that softens rather than sharpens.",
+    "HONESTY": "Both hold velocity as non-negotiable, but Card 1 states the hard cost more bluntly and avoids Card 2's cushioning reassurances (\"it is actually your instincts working\") that risk diluting the standard."
+  },
+  "judge_raw": "PICK: 1\n\nSPEAKABILITY: Card 1's lines land more naturally out loud, especially \"checking the same thing four times\" and \"grinding to a halt does not protect you; it just means the customer issue costs us twice,\" whereas Card 2's Collaboration paragraph runs long and self-narrating (\"tell me if I am off... that makes complete sense as a response\").\n\nSPECIFICITY: Both diagnose the same fear-driven over-checking accurately, but Card 1's \"What are you actually afraid of catching, or not catching?\" cuts more precisely into this exact spiral than Card 2's more general walkthrough.\n\nTIGHTNESS: Card 1 is leaner throughout; Card 2 pads with meta-commentary (\"not at you,\" \"the outside does not tell the whole story\") that softens rather than sharpens.\n\nHONESTY: Both hold velocity as non-negotiable, but Card 1 states the hard cost more bluntly and avoids Card 2's cushioning reassurances (\"it is actually your instincts working\") that risk diluting the standard."
+}

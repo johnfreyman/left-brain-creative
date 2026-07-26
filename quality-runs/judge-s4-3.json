@@ -1,0 +1,16 @@
+{
+  "sit_id": "s4",
+  "mode": "parenting",
+  "situation": "My teenager asked me a hard question about something I did at their age, and I froze instead of answering.",
+  "n": 3,
+  "a_is_card1": false,
+  "pick": "2",
+  "winner_arm": "A",
+  "dims": {
+    "SPEAKABILITY": "Card 2's lines are shorter and more colloquial (\"get a real answer, not a flinch\"), where Card 1's Collaboration line runs long and slightly self-explanatory, making it harder to say cleanly.",
+    "SPECIFICITY": "Card 2's read \u2014 \"using your past as a mirror to figure out who they are allowed to become\" \u2014 engages the exact mechanism of the situation more sharply than Card 1's somewhat broader \"testing whether you're a person they can learn from.\"",
+    "TIGHTNESS": "Card 2 trims harder and avoids the mild repetition in Card 1's HOLD FIRM section, where both bullets restate the same modeling point.",
+    "HONESTY": "Both keep the standard, but Card 2 names the sharper discomfort \u2014 telling them what you \"got wrong\" without \"performing confession or a cautionary tale\" \u2014 where Card 1 leans a touch more on reassuring warmth."
+  },
+  "judge_raw": "PICK: 2\n\nSPEAKABILITY: Card 2's lines are shorter and more colloquial (\"get a real answer, not a flinch\"), where Card 1's Collaboration line runs long and slightly self-explanatory, making it harder to say cleanly.\n\nSPECIFICITY: Card 2's read \u2014 \"using your past as a mirror to figure out who they are allowed to become\" \u2014 engages the exact mechanism of the situation more sharply than Card 1's somewhat broader \"testing whether you're a person they can learn from.\"\n\nTIGHTNESS: Card 2 trims harder and avoids the mild repetition in Card 1's HOLD FIRM section, where both bullets restate the same modeling point.\n\nHONESTY: Both keep the standard, but Card 2 names the sharper discomfort \u2014 telling them what you \"got wrong\" without \"performing confession or a cautionary tale\" \u2014 where Card 1 leans a touch more on reassuring warmth."
+}

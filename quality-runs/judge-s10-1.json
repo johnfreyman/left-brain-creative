@@ -1,0 +1,16 @@
+{
+  "sit_id": "s10",
+  "mode": "teaching",
+  "situation": "A student who clearly studied did poorly and is convinced they are just bad at this subject.",
+  "n": 1,
+  "a_is_card1": false,
+  "pick": "2",
+  "winner_arm": "A",
+  "dims": {
+    "SPEAKABILITY": "Card 2's lines are tighter and more natural \u2014 \"I saw you working. That was real\" and \"Not whether you did it, I know you did\" sound like actual speech, while Card 1's \"A brain that studied and came up short is a brain that is still building the skill\" is a mouthful no one would say aloud.",
+    "SPECIFICITY": "Both diagnose the same fixed-ability trap, but Card 2's status read \u2014 \"being seen as someone who tried and still could not do it stings more than someone who simply did not bother\" \u2014 cuts closer to why this student specifically retreats.",
+    "TIGHTNESS": "Card 2 carries less redundancy, whereas Card 1 repeats its \"strategy not ceiling\" point across nearly every section and pads the commitment line with meta-commentary about enjoying hardship.",
+    "HONESTY": "Card 2 names the harder truth more squarely \u2014 \"effort without strategy change is not enough\" \u2014 refusing the comfort that more of the same effort will fix it, while Card 1 leans slightly more on reassurance."
+  },
+  "judge_raw": "PICK: 2\n\nSPEAKABILITY: Card 2's lines are tighter and more natural \u2014 \"I saw you working. That was real\" and \"Not whether you did it, I know you did\" sound like actual speech, while Card 1's \"A brain that studied and came up short is a brain that is still building the skill\" is a mouthful no one would say aloud.\n\nSPECIFICITY: Both diagnose the same fixed-ability trap, but Card 2's status read \u2014 \"being seen as someone who tried and still could not do it stings more than someone who simply did not bother\" \u2014 cuts closer to why this student specifically retreats.\n\nTIGHTNESS: Card 2 carries less redundancy, whereas Card 1 repeats its \"strategy not ceiling\" point across nearly every section and pads the commitment line with meta-commentary about enjoying hardship.\n\nHONESTY: Card 2 names the harder truth more squarely \u2014 \"effort without strategy change is not enough\" \u2014 refusing the comfort that more of the same effort will fix it, while Card 1 leans slightly more on reassurance."
+}

@@ -1,0 +1,17 @@
+{
+  "sit_id": "s3",
+  "mode": "parenting",
+  "situation": "My kid announced at dinner they are done with church and are not going anymore.",
+  "n": 3,
+  "a_is_card1": true,
+  "pick": "1",
+  "winner_arm": "A",
+  "dims": {
+    "SPEAKABILITY": "Both are largely sayable, but Card 1's lines (\"a belief I hand you like a rule is not really a belief\") land more naturally than Card 2's slightly more abstract phrasings like \"I have high standards for our family and for you.\"",
+    "SPECIFICITY": "Card 1's read is sharper on this exact scene \u2014 the dinner-table announcement as \"a declaration, not a conversation request\" and the offer of \"showing up that does not require them to perform belief\" engage the mechanics precisely, while Card 2 stays a notch more generic about developmental identity work.",
+    "TIGHTNESS": "Card 1 is leaner throughout; Card 2 repeats itself (\"going through the motions,\" \"someone who can wrestle\") and pads its Commitment beat with reassurance that doesn't advance the point.",
+    "HONESTY": "Card 1 names the harder thing more crisply \u2014 you can hold a family expectation without demanding faked conviction \u2014 whereas Card 2 softens somewhat into \"I am in it with you, not against you\" without pinning down the actual standard as cleanly."
+  },
+  "judge_raw": "PICK: 1\n\nSPEAKABILITY: Both are largely sayable, but Card 1's lines (\"a belief I hand you like a rule is not really a belief\") land more naturally than Card 2's slightly more abstract phrasings like \"I have high standards for our family and for you.\"\n\nSPECIFICITY: Card 1's read is sharper on this exact scene \u2014 the dinner-table announcement as \"a declaration, not a conversation request\" and the offer of \"showing up that does not require them to perform belief\" engage the mechanics precisely, while Card 2 stays a notch more generic about developmental identity work.\n\nTIGHTNESS: Card 1 is leaner throughout; Card 2 repeats itself (\"going through the motions,\" \"someone who can wrestle\") and pads its Commitment beat with reassurance that doesn't advance the point.\n\nHONESTY: Card 1 names the harder thing more crisply \u2014 you can hold a family expectation without demanding faked conviction \u2014 whereas Card 2 softens somewhat into \"I am in it with you, not against you\" without pinning down the actual standard as cleanly.",
+  "original_winner_arm": "A"
+}

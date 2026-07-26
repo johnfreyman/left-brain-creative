@@ -1,0 +1,16 @@
+{
+  "sit_id": "s1",
+  "mode": "teaching",
+  "situation": "A student handed in work far better than anything they have produced before, and I genuinely cannot tell if it is a breakthrough or if someone else did it.",
+  "n": 3,
+  "a_is_card1": false,
+  "pick": "2",
+  "winner_arm": "A",
+  "dims": {
+    "SPEAKABILITY": "Card 2's lines (\"I would rather you just tell me that straight... it will not cost you what you think it will\") sound like a real person talking, while Card 1's \"I ask this of anyone whose work makes a real leap\" feels more like a rehearsed policy statement.",
+    "SPECIFICITY": "Both engage the exact ambiguity, but Card 2's read (\"if they did not, they already know the work is not theirs and are carrying that\") names the specific psychological reality on both sides more sharply.",
+    "TIGHTNESS": "Card 2 is leaner, whereas Card 1 repeats the \"walk me through your thinking\" beat across multiple sections with more redundancy.",
+    "HONESTY": "Card 2 actually opens the door to confession explicitly (\"if you got help, I would rather you tell me straight\"), naming the uncomfortable possibility, while Card 1 gestures at \"if something else is going on\" mostly in the meta-commentary rather than in the script itself."
+  },
+  "judge_raw": "PICK: 2\n\nSPEAKABILITY: Card 2's lines (\"I would rather you just tell me that straight... it will not cost you what you think it will\") sound like a real person talking, while Card 1's \"I ask this of anyone whose work makes a real leap\" feels more like a rehearsed policy statement.\n\nSPECIFICITY: Both engage the exact ambiguity, but Card 2's read (\"if they did not, they already know the work is not theirs and are carrying that\") names the specific psychological reality on both sides more sharply.\n\nTIGHTNESS: Card 2 is leaner, whereas Card 1 repeats the \"walk me through your thinking\" beat across multiple sections with more redundancy.\n\nHONESTY: Card 2 actually opens the door to confession explicitly (\"if you got help, I would rather you tell me straight\"), naming the uncomfortable possibility, while Card 1 gestures at \"if something else is going on\" mostly in the meta-commentary rather than in the script itself."
+}

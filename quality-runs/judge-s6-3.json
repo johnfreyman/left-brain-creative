@@ -1,0 +1,16 @@
+{
+  "sit_id": "s6",
+  "mode": "managing",
+  "situation": "My newest hire is better at part of the job than I am and we both know it.",
+  "n": 3,
+  "a_is_card1": false,
+  "pick": "2",
+  "winner_arm": "A",
+  "dims": {
+    "SPEAKABILITY": "Card 2's lines are more natural and confident (\"You are ahead of me on this particular skill and I am not going to pretend otherwise\"), while Card 1's opening (\"actually a good problem to have\") and \"build around it, not around it\" phrasing sound more managed and slightly stilted.",
+    "SPECIFICITY": "Both invoke the same dynamic, but Card 2's \"I have made most of the expensive mistakes already\" concretely names what the manager offers in trade, whereas Card 1 stays at the level of generic \"high standard\" language.",
+    "TIGHTNESS": "Card 1's commitment section repeats \"the same bar\" / \"high standard\" ideas twice and pads with reassurance, while Card 2's script lands each beat once and moves on.",
+    "HONESTY": "Both hold the standard, but Card 2 more crisply names the uncomfortable trade \u2014 the manager admitting the gap out loud AND asserting real value in return \u2014 without softening into warmth as Card 1's LONG GAME does."
+  },
+  "judge_raw": "PICK: 2\n\nSPEAKABILITY: Card 2's lines are more natural and confident (\"You are ahead of me on this particular skill and I am not going to pretend otherwise\"), while Card 1's opening (\"actually a good problem to have\") and \"build around it, not around it\" phrasing sound more managed and slightly stilted.\n\nSPECIFICITY: Both invoke the same dynamic, but Card 2's \"I have made most of the expensive mistakes already\" concretely names what the manager offers in trade, whereas Card 1 stays at the level of generic \"high standard\" language.\n\nTIGHTNESS: Card 1's commitment section repeats \"the same bar\" / \"high standard\" ideas twice and pads with reassurance, while Card 2's script lands each beat once and moves on.\n\nHONESTY: Both hold the standard, but Card 2 more crisply names the uncomfortable trade \u2014 the manager admitting the gap out loud AND asserting real value in return \u2014 without softening into warmth as Card 1's LONG GAME does."
+}
