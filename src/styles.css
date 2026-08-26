@@ -1,1 +1,56 @@
 @import "tailwindcss";
+
+@theme {
+  --font-grotesk: "Space Grotesk", ui-sans-serif, system-ui, sans-serif;
+  --font-reader: "Newsreader", Georgia, serif;
+  --color-muted: #6b6b73;
+  --color-ground: #f7f3ec;
+  --breakpoint-wide: 900px;
+}
+
+@layer base {
+  body {
+    font-family: var(--font-reader);
+  }
+
+  a {
+    color: inherit;
+    text-decoration: none;
+  }
+
+  a:hover {
+    color: #c2410c;
+  }
+
+  section[id] {
+    scroll-margin-top: 88px;
+  }
+
+  ::selection {
+    background: #f9731633;
+  }
+
+  :focus-visible {
+    outline: 2px solid #d946ef;
+    outline-offset: 3px;
+    border-radius: 4px;
+  }
+}
+
+@keyframes lbcPulse {
+  0% {
+    transform: scale(1);
+    opacity: 0.6;
+  }
+  70%,
+  100% {
+    transform: scale(2.6);
+    opacity: 0;
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .lbc-pulse {
+    animation: lbcPulse 2s ease-out infinite;
+  }
+}
